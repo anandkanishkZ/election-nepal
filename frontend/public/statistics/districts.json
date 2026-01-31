@@ -1,0 +1,772 @@
+{
+  "अछाम": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 165337,
+    "male_voters": 82034,
+    "female_voters": 83301,
+    "other_voters": 2,
+    "average_age": 45.5,
+    "min_age": 18,
+    "max_age": 131
+  },
+  "अर्घाखाँची": {
+    "province": "लुम्बिनी",
+    "total_voters": 171652,
+    "male_voters": 87157,
+    "female_voters": 84495,
+    "other_voters": 0,
+    "average_age": 45.3,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "इलाम": {
+    "province": "कोशी",
+    "total_voters": 231809,
+    "male_voters": 119648,
+    "female_voters": 112158,
+    "other_voters": 3,
+    "average_age": 46.2,
+    "min_age": 18,
+    "max_age": 124
+  },
+  "उदयपुर": {
+    "province": "कोशी",
+    "total_voters": 238926,
+    "male_voters": 121866,
+    "female_voters": 117058,
+    "other_voters": 2,
+    "average_age": 45.3,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "ओखलढुंगा": {
+    "province": "कोशी",
+    "total_voters": 122715,
+    "male_voters": 62843,
+    "female_voters": 59871,
+    "other_voters": 1,
+    "average_age": 45.8,
+    "min_age": 18,
+    "max_age": 124
+  },
+  "कञ्चनपुर": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 314385,
+    "male_voters": 154068,
+    "female_voters": 160316,
+    "other_voters": 1,
+    "average_age": 45.6,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "कपिलवस्तु": {
+    "province": "लुम्बिनी",
+    "total_voters": 396265,
+    "male_voters": 211846,
+    "female_voters": 184415,
+    "other_voters": 4,
+    "average_age": 46,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "काठमाडौ‌": {
+    "province": "बागमती",
+    "total_voters": 710708,
+    "male_voters": 344194,
+    "female_voters": 366507,
+    "other_voters": 7,
+    "average_age": 49.7,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "काभ्रेपलाञ्चोक": {
+    "province": "बागमती",
+    "total_voters": 326611,
+    "male_voters": 167499,
+    "female_voters": 159110,
+    "other_voters": 2,
+    "average_age": 46.2,
+    "min_age": 18,
+    "max_age": 130
+  },
+  "कालिकोट": {
+    "province": "कर्णाली",
+    "total_voters": 84646,
+    "male_voters": 44603,
+    "female_voters": 40043,
+    "other_voters": 0,
+    "average_age": 43.9,
+    "min_age": 18,
+    "max_age": 112
+  },
+  "कास्की": {
+    "province": "गण्डकी",
+    "total_voters": 308572,
+    "male_voters": 148415,
+    "female_voters": 160153,
+    "other_voters": 4,
+    "average_age": 48,
+    "min_age": 18,
+    "max_age": 126
+  },
+  "कैलाली": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 551052,
+    "male_voters": 270798,
+    "female_voters": 280243,
+    "other_voters": 11,
+    "average_age": 44.8,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "खोटाङ": {
+    "province": "कोशी",
+    "total_voters": 147120,
+    "male_voters": 77656,
+    "female_voters": 69464,
+    "other_voters": 0,
+    "average_age": 46.8,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "गुल्मी": {
+    "province": "लुम्बिनी",
+    "total_voters": 229549,
+    "male_voters": 114337,
+    "female_voters": 115210,
+    "other_voters": 2,
+    "average_age": 44.8,
+    "min_age": 18,
+    "max_age": 124
+  },
+  "गोरखा": {
+    "province": "गण्डकी",
+    "total_voters": 229058,
+    "male_voters": 114837,
+    "female_voters": 114220,
+    "other_voters": 1,
+    "average_age": 47.5,
+    "min_age": 18,
+    "max_age": 125
+  },
+  "चितवन": {
+    "province": "बागमती",
+    "total_voters": 442082,
+    "male_voters": 217314,
+    "female_voters": 224766,
+    "other_voters": 2,
+    "average_age": 47,
+    "min_age": 18,
+    "max_age": 129
+  },
+  "जाजरकोट": {
+    "province": "कर्णाली",
+    "total_voters": 107091,
+    "male_voters": 56705,
+    "female_voters": 50384,
+    "other_voters": 2,
+    "average_age": 43.1,
+    "min_age": 18,
+    "max_age": 116
+  },
+  "जुम्ला": {
+    "province": "कर्णाली",
+    "total_voters": 71739,
+    "male_voters": 37459,
+    "female_voters": 34280,
+    "other_voters": 0,
+    "average_age": 43.6,
+    "min_age": 18,
+    "max_age": 104
+  },
+  "झापा": {
+    "province": "कोशी",
+    "total_voters": 713537,
+    "male_voters": 358346,
+    "female_voters": 355183,
+    "other_voters": 8,
+    "average_age": 46.8,
+    "min_age": 18,
+    "max_age": 128
+  },
+  "डडेलधुरा": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 93403,
+    "male_voters": 46957,
+    "female_voters": 46446,
+    "other_voters": 0,
+    "average_age": 45.4,
+    "min_age": 18,
+    "max_age": 115
+  },
+  "डोटी": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 128399,
+    "male_voters": 61578,
+    "female_voters": 66821,
+    "other_voters": 0,
+    "average_age": 46.4,
+    "min_age": 18,
+    "max_age": 119
+  },
+  "डोल्पा": {
+    "province": "कर्णाली",
+    "total_voters": 24115,
+    "male_voters": 11928,
+    "female_voters": 12187,
+    "other_voters": 0,
+    "average_age": 42.1,
+    "min_age": 18,
+    "max_age": 116
+  },
+  "तनहुँ": {
+    "province": "गण्डकी",
+    "total_voters": 254397,
+    "male_voters": 123491,
+    "female_voters": 130906,
+    "other_voters": 0,
+    "average_age": 46.7,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "ताप्लेजुङ": {
+    "province": "कोशी",
+    "total_voters": 90327,
+    "male_voters": 48285,
+    "female_voters": 42042,
+    "other_voters": 0,
+    "average_age": 44.6,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "तेह्रथुम": {
+    "province": "कोशी",
+    "total_voters": 73137,
+    "male_voters": 37627,
+    "female_voters": 35510,
+    "other_voters": 0,
+    "average_age": 44.9,
+    "min_age": 18,
+    "max_age": 124
+  },
+  "दाङ": {
+    "province": "लुम्बिनी",
+    "total_voters": 431686,
+    "male_voters": 213380,
+    "female_voters": 218303,
+    "other_voters": 3,
+    "average_age": 45,
+    "min_age": 18,
+    "max_age": 131
+  },
+  "दार्चुला": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 92948,
+    "male_voters": 47755,
+    "female_voters": 45193,
+    "other_voters": 0,
+    "average_age": 44.9,
+    "min_age": 18,
+    "max_age": 122
+  },
+  "दैलेख": {
+    "province": "कर्णाली",
+    "total_voters": 161204,
+    "male_voters": 81099,
+    "female_voters": 80105,
+    "other_voters": 0,
+    "average_age": 44.2,
+    "min_age": 18,
+    "max_age": 126
+  },
+  "दोलखा": {
+    "province": "बागमती",
+    "total_voters": 170321,
+    "male_voters": 87161,
+    "female_voters": 83160,
+    "other_voters": 0,
+    "average_age": 46.8,
+    "min_age": 18,
+    "max_age": 120
+  },
+  "धनकुटा": {
+    "province": "कोशी",
+    "total_voters": 118425,
+    "male_voters": 59483,
+    "female_voters": 58942,
+    "other_voters": 0,
+    "average_age": 46.2,
+    "min_age": 18,
+    "max_age": 119
+  },
+  "धनुषा": {
+    "province": "मधेश",
+    "total_voters": 514571,
+    "male_voters": 276126,
+    "female_voters": 238435,
+    "other_voters": 10,
+    "average_age": 47.7,
+    "min_age": 18,
+    "max_age": 130
+  },
+  "धादिङ": {
+    "province": "बागमती",
+    "total_voters": 275280,
+    "male_voters": 141019,
+    "female_voters": 134259,
+    "other_voters": 2,
+    "average_age": 46.1,
+    "min_age": 18,
+    "max_age": 129
+  },
+  "नवलपरासी (बर्दघाट सुस्ता पश्चिम)": {
+    "province": "लुम्बिनी",
+    "total_voters": 254157,
+    "male_voters": 129183,
+    "female_voters": 124970,
+    "other_voters": 4,
+    "average_age": 45.8,
+    "min_age": 18,
+    "max_age": 125
+  },
+  "नवलपरासी (बर्दघाट सुस्ता पूर्व)": {
+    "province": "गण्डकी",
+    "total_voters": 268526,
+    "male_voters": 129054,
+    "female_voters": 139468,
+    "other_voters": 4,
+    "average_age": 45.6,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "नुवाकोट": {
+    "province": "बागमती",
+    "total_voters": 247868,
+    "male_voters": 128890,
+    "female_voters": 118975,
+    "other_voters": 3,
+    "average_age": 45.8,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "पर्वत": {
+    "province": "गण्डकी",
+    "total_voters": 125466,
+    "male_voters": 62600,
+    "female_voters": 62865,
+    "other_voters": 1,
+    "average_age": 45,
+    "min_age": 18,
+    "max_age": 115
+  },
+  "पर्सा": {
+    "province": "मधेश",
+    "total_voters": 376513,
+    "male_voters": 212077,
+    "female_voters": 164421,
+    "other_voters": 15,
+    "average_age": 46.7,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "पाँचथर": {
+    "province": "कोशी",
+    "total_voters": 143408,
+    "male_voters": 76078,
+    "female_voters": 67330,
+    "other_voters": 0,
+    "average_age": 45.9,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "पाल्पा": {
+    "province": "लुम्बिनी",
+    "total_voters": 207436,
+    "male_voters": 101893,
+    "female_voters": 105543,
+    "other_voters": 0,
+    "average_age": 45.9,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "प्युठान": {
+    "province": "लुम्बिनी",
+    "total_voters": 165406,
+    "male_voters": 81366,
+    "female_voters": 84039,
+    "other_voters": 1,
+    "average_age": 45.5,
+    "min_age": 18,
+    "max_age": 122
+  },
+  "बझाङ": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 126903,
+    "male_voters": 64614,
+    "female_voters": 62289,
+    "other_voters": 0,
+    "average_age": 45.2,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "बर्दिया": {
+    "province": "लुम्बिनी",
+    "total_voters": 323266,
+    "male_voters": 159387,
+    "female_voters": 163873,
+    "other_voters": 6,
+    "average_age": 44.8,
+    "min_age": 18,
+    "max_age": 122
+  },
+  "बाँके": {
+    "province": "लुम्बिनी",
+    "total_voters": 350371,
+    "male_voters": 178139,
+    "female_voters": 172223,
+    "other_voters": 9,
+    "average_age": 45.1,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "बाग्लुङ": {
+    "province": "गण्डकी",
+    "total_voters": 193381,
+    "male_voters": 94806,
+    "female_voters": 98574,
+    "other_voters": 1,
+    "average_age": 45.9,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "बाजुरा": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 87861,
+    "male_voters": 45428,
+    "female_voters": 42431,
+    "other_voters": 2,
+    "average_age": 44.8,
+    "min_age": 18,
+    "max_age": 119
+  },
+  "बारा": {
+    "province": "मधेश",
+    "total_voters": 465784,
+    "male_voters": 255763,
+    "female_voters": 210009,
+    "other_voters": 12,
+    "average_age": 46.2,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "बैतडी": {
+    "province": "सुदूरपश्चिम",
+    "total_voters": 156372,
+    "male_voters": 78987,
+    "female_voters": 77383,
+    "other_voters": 2,
+    "average_age": 46.5,
+    "min_age": 18,
+    "max_age": 126
+  },
+  "भक्तपुर": {
+    "province": "बागमती",
+    "total_voters": 205410,
+    "male_voters": 100140,
+    "female_voters": 105265,
+    "other_voters": 5,
+    "average_age": 46.9,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "भोजपुर": {
+    "province": "कोशी",
+    "total_voters": 125766,
+    "male_voters": 65788,
+    "female_voters": 59977,
+    "other_voters": 1,
+    "average_age": 47.6,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "मकवानपुर": {
+    "province": "बागमती",
+    "total_voters": 315334,
+    "male_voters": 161953,
+    "female_voters": 153376,
+    "other_voters": 5,
+    "average_age": 45.9,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "मनाङ": {
+    "province": "गण्डकी",
+    "total_voters": 7000,
+    "male_voters": 3377,
+    "female_voters": 3623,
+    "other_voters": 0,
+    "average_age": 48.5,
+    "min_age": 18,
+    "max_age": 105
+  },
+  "महोत्तरी": {
+    "province": "मधेश",
+    "total_voters": 431282,
+    "male_voters": 235183,
+    "female_voters": 196097,
+    "other_voters": 2,
+    "average_age": 46.9,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "मुगु": {
+    "province": "कर्णाली",
+    "total_voters": 36031,
+    "male_voters": 18598,
+    "female_voters": 17433,
+    "other_voters": 0,
+    "average_age": 42.8,
+    "min_age": 18,
+    "max_age": 105
+  },
+  "मुस्ताङ": {
+    "province": "गण्डकी",
+    "total_voters": 11328,
+    "male_voters": 5559,
+    "female_voters": 5768,
+    "other_voters": 1,
+    "average_age": 47.2,
+    "min_age": 18,
+    "max_age": 110
+  },
+  "मोरङ": {
+    "province": "कोशी",
+    "total_voters": 783050,
+    "male_voters": 399686,
+    "female_voters": 383357,
+    "other_voters": 7,
+    "average_age": 47,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "म्याग्दी": {
+    "province": "गण्डकी",
+    "total_voters": 86397,
+    "male_voters": 42332,
+    "female_voters": 44064,
+    "other_voters": 1,
+    "average_age": 46.1,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "रसुवा": {
+    "province": "बागमती",
+    "total_voters": 41471,
+    "male_voters": 21141,
+    "female_voters": 20329,
+    "other_voters": 1,
+    "average_age": 43.6,
+    "min_age": 18,
+    "max_age": 122
+  },
+  "रामेछाप": {
+    "province": "बागमती",
+    "total_voters": 187952,
+    "male_voters": 96892,
+    "female_voters": 91060,
+    "other_voters": 0,
+    "average_age": 45.4,
+    "min_age": 18,
+    "max_age": 116
+  },
+  "रुकुम पश्चिम": {
+    "province": "कर्णाली",
+    "total_voters": 106660,
+    "male_voters": 54263,
+    "female_voters": 52396,
+    "other_voters": 1,
+    "average_age": 43.1,
+    "min_age": 18,
+    "max_age": 109
+  },
+  "रुकुम पूर्व": {
+    "province": "लुम्बिनी",
+    "total_voters": 34772,
+    "male_voters": 17582,
+    "female_voters": 17190,
+    "other_voters": 0,
+    "average_age": 45.4,
+    "min_age": 18,
+    "max_age": 113
+  },
+  "रूपन्देही": {
+    "province": "लुम्बिनी",
+    "total_voters": 672523,
+    "male_voters": 346203,
+    "female_voters": 326311,
+    "other_voters": 9,
+    "average_age": 46.3,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "रोल्पा": {
+    "province": "लुम्बिनी",
+    "total_voters": 149597,
+    "male_voters": 74690,
+    "female_voters": 74907,
+    "other_voters": 0,
+    "average_age": 45.2,
+    "min_age": 18,
+    "max_age": 125
+  },
+  "रौतहट": {
+    "province": "मधेश",
+    "total_voters": 436611,
+    "male_voters": 240267,
+    "female_voters": 196343,
+    "other_voters": 1,
+    "average_age": 44.8,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "लमजुङ": {
+    "province": "गण्डकी",
+    "total_voters": 137124,
+    "male_voters": 67600,
+    "female_voters": 69524,
+    "other_voters": 0,
+    "average_age": 46.6,
+    "min_age": 18,
+    "max_age": 128
+  },
+  "ललितपुर": {
+    "province": "बागमती",
+    "total_voters": 269256,
+    "male_voters": 131549,
+    "female_voters": 137707,
+    "other_voters": 0,
+    "average_age": 48.6,
+    "min_age": 18,
+    "max_age": 129
+  },
+  "संखुवासभा": {
+    "province": "कोशी",
+    "total_voters": 119630,
+    "male_voters": 62172,
+    "female_voters": 57458,
+    "other_voters": 0,
+    "average_age": 45.3,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "सप्तरी": {
+    "province": "मधेश",
+    "total_voters": 446402,
+    "male_voters": 233096,
+    "female_voters": 213283,
+    "other_voters": 23,
+    "average_age": 46.8,
+    "min_age": 18,
+    "max_age": 130
+  },
+  "सर्लाही": {
+    "province": "मधेश",
+    "total_voters": 511606,
+    "male_voters": 278837,
+    "female_voters": 232758,
+    "other_voters": 11,
+    "average_age": 46.7,
+    "min_age": 18,
+    "max_age": 133
+  },
+  "सल्यान": {
+    "province": "कर्णाली",
+    "total_voters": 162449,
+    "male_voters": 83321,
+    "female_voters": 79128,
+    "other_voters": 0,
+    "average_age": 44.2,
+    "min_age": 18,
+    "max_age": 124
+  },
+  "सिन्धुपाल्चोक": {
+    "province": "बागमती",
+    "total_voters": 274998,
+    "male_voters": 143302,
+    "female_voters": 131696,
+    "other_voters": 0,
+    "average_age": 45.7,
+    "min_age": 18,
+    "max_age": 127
+  },
+  "सिन्धुली": {
+    "province": "बागमती",
+    "total_voters": 215019,
+    "male_voters": 111324,
+    "female_voters": 103695,
+    "other_voters": 0,
+    "average_age": 45.4,
+    "min_age": 18,
+    "max_age": 130
+  },
+  "सिराहा": {
+    "province": "मधेश",
+    "total_voters": 453645,
+    "male_voters": 241615,
+    "female_voters": 212028,
+    "other_voters": 2,
+    "average_age": 46.4,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "सुनसरी": {
+    "province": "कोशी",
+    "total_voters": 580945,
+    "male_voters": 294252,
+    "female_voters": 286691,
+    "other_voters": 2,
+    "average_age": 46.4,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "सुर्खेत": {
+    "province": "कर्णाली",
+    "total_voters": 248943,
+    "male_voters": 121889,
+    "female_voters": 127054,
+    "other_voters": 0,
+    "average_age": 44.4,
+    "min_age": 18,
+    "max_age": 122
+  },
+  "सोलुखुम्बु": {
+    "province": "कोशी",
+    "total_voters": 85515,
+    "male_voters": 44483,
+    "female_voters": 41032,
+    "other_voters": 0,
+    "average_age": 46.5,
+    "min_age": 18,
+    "max_age": 130
+  },
+  "स्याङजा": {
+    "province": "गण्डकी",
+    "total_voters": 248816,
+    "male_voters": 122464,
+    "female_voters": 126351,
+    "other_voters": 1,
+    "average_age": 45.8,
+    "min_age": 18,
+    "max_age": 123
+  },
+  "हुम्ला": {
+    "province": "कर्णाली",
+    "total_voters": 34372,
+    "male_voters": 18021,
+    "female_voters": 16351,
+    "other_voters": 0,
+    "average_age": 44.5,
+    "min_age": 18,
+    "max_age": 121
+  }
+}

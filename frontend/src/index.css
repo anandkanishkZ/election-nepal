@@ -1,0 +1,314 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@layer base {
+  :root {
+    /* Nepal-inspired color system */
+    --background: 220 20% 97%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    /* Crimson Red - Nepal Flag */
+    --primary: 348 83% 47%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Royal Blue - Nepal Flag */
+    --secondary: 216 72% 45%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 14% 92%;
+    --muted-foreground: 220 9% 46%;
+
+    /* Gold accent */
+    --accent: 45 93% 47%;
+    --accent-foreground: 222 47% 11%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 13% 87%;
+    --input: 220 13% 87%;
+    --ring: 348 83% 47%;
+
+    --radius: 0.75rem;
+
+    /* Custom colors for data visualization */
+    --nepal-crimson: 348 83% 47%;
+    --nepal-blue: 216 72% 45%;
+    --nepal-gold: 45 93% 47%;
+    --success: 142 71% 45%;
+    --warning: 38 92% 50%;
+    --info: 199 89% 48%;
+    
+    /* Growth indicators */
+    --growth-positive: 142 71% 45%;
+    --growth-negative: 0 84% 60%;
+    --growth-neutral: 220 9% 46%;
+
+    /* Chart colors */
+    --chart-1: 348 83% 47%;
+    --chart-2: 216 72% 45%;
+    --chart-3: 45 93% 47%;
+    --chart-4: 142 71% 45%;
+    --chart-5: 280 65% 60%;
+    --chart-6: 199 89% 48%;
+    --chart-7: 25 95% 53%;
+
+    /* Map colors */
+    --map-low: 216 72% 85%;
+    --map-medium: 216 72% 60%;
+    --map-high: 216 72% 35%;
+
+    /* Sidebar */
+    --sidebar-background: 222 47% 11%;
+    --sidebar-foreground: 220 20% 97%;
+    --sidebar-primary: 348 83% 47%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 222 35% 18%;
+    --sidebar-accent-foreground: 220 20% 97%;
+    --sidebar-border: 222 35% 20%;
+    --sidebar-ring: 348 83% 47%;
+  }
+
+  .dark {
+    --background: 222 47% 8%;
+    --foreground: 220 20% 97%;
+
+    --card: 222 47% 11%;
+    --card-foreground: 220 20% 97%;
+
+    --popover: 222 47% 11%;
+    --popover-foreground: 220 20% 97%;
+
+    --primary: 348 83% 55%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 216 72% 55%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 222 35% 18%;
+    --muted-foreground: 220 14% 65%;
+
+    --accent: 45 93% 55%;
+    --accent-foreground: 222 47% 11%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 222 35% 20%;
+    --input: 222 35% 20%;
+    --ring: 348 83% 55%;
+
+    --sidebar-background: 222 47% 6%;
+    --sidebar-foreground: 220 20% 97%;
+    --sidebar-primary: 348 83% 55%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 222 35% 14%;
+    --sidebar-accent-foreground: 220 20% 97%;
+    --sidebar-border: 222 35% 16%;
+    --sidebar-ring: 348 83% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+
+  code, .mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@layer components {
+  .stat-card {
+    @apply bg-card rounded-xl border border-border p-6 shadow-sm transition-all duration-300 hover:shadow-lg hover:border-primary/30;
+  }
+
+  .stat-value {
+    @apply text-3xl font-bold tracking-tight bg-gradient-to-r from-foreground to-foreground/80 bg-clip-text;
+  }
+
+  .stat-label {
+    @apply text-sm font-medium text-muted-foreground uppercase tracking-wide;
+  }
+
+  .growth-positive {
+    @apply text-[hsl(var(--growth-positive))] bg-[hsl(var(--growth-positive)/0.1)] px-2 py-0.5 rounded-full text-xs font-semibold;
+  }
+
+  .growth-negative {
+    @apply text-[hsl(var(--growth-negative))] bg-[hsl(var(--growth-negative)/0.1)] px-2 py-0.5 rounded-full text-xs font-semibold;
+  }
+
+  .nav-link {
+    @apply px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 hover:bg-primary/10 hover:text-primary;
+  }
+
+  .nav-link-active {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground;
+  }
+
+  .glass-panel {
+    @apply bg-card/80 backdrop-blur-xl border border-border/50 rounded-2xl shadow-xl;
+  }
+
+  .data-table {
+    @apply w-full text-sm;
+  }
+
+  .data-table th {
+    @apply px-4 py-3 text-left font-semibold text-muted-foreground uppercase tracking-wide text-xs bg-muted/50;
+  }
+
+  .data-table td {
+    @apply px-4 py-3 border-t border-border;
+  }
+
+  .data-table tr:hover td {
+    @apply bg-muted/30;
+  }
+
+  .badge-elected {
+    @apply inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-semibold bg-[hsl(var(--success)/0.15)] text-[hsl(var(--success))];
+  }
+
+  .badge-not-elected {
+    @apply inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-semibold bg-muted text-muted-foreground;
+  }
+
+  .section-title {
+    @apply text-2xl font-bold tracking-tight mb-1;
+  }
+
+  .section-subtitle {
+    @apply text-muted-foreground mb-6;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out forwards;
+  }
+
+  .animate-counter {
+    animation: counter 0.8s ease-out forwards;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slideUp {
+    from { 
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to { 
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes counter {
+    from { 
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to { 
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent;
+  }
+
+  .gradient-border {
+    @apply relative;
+  }
+
+  .gradient-border::before {
+    content: '';
+    @apply absolute inset-0 rounded-xl p-[1px] bg-gradient-to-r from-primary via-secondary to-accent;
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+  }
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  @apply rounded-xl z-0;
+  font-family: 'Inter', system-ui, sans-serif !important;
+}
+
+.leaflet-popup-content-wrapper {
+  @apply rounded-xl shadow-2xl border-2 border-primary/20 bg-white;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  @apply text-foreground;
+  margin: 0 !important;
+}
+
+.leaflet-popup-tip {
+  @apply bg-white border-primary/20;
+}
+
+/* Custom popup styling */
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 12px !important;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+.leaflet-control-zoom a {
+  @apply bg-card text-foreground border-border hover:bg-muted;
+}
+
+.leaflet-control-attribution {
+  @apply bg-card/80 text-muted-foreground text-xs;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-muted/30 rounded-full;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-muted-foreground/30 rounded-full hover:bg-muted-foreground/50;
+}

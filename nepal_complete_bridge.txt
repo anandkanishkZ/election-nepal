@@ -1,0 +1,3443 @@
+================================================================================
+PROVINCE 1 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Province No 1 / कोशी
+Districts: 14
+Total Municipalities: 137
+
+================================================================================
+
+DISTRICT 1: Taplejung / ताप्लेजुङ
+Municipalities: 9
+================================================================================
+1. Aathrai Tribeni (Gaunpalika)
+   आठराई त्रिवेणी गाउँपालिका
+   ID: 5001
+
+2. Maiwakhola (Gaunpalika)
+   मैवाखोला गाउँपालिका
+   ID: 5006
+
+3. Meringden (Gaunpalika)
+   मेरिङदेन गाउँपालिका
+   ID: 5005
+
+4. Mikwakhola (Gaunpalika)
+   मिक्वाखोला गाउँपालिका
+   ID: 5004
+
+5. Phaktanglung (Gaunpalika)
+   फक्ताङलुङ गाउँपालिका
+   ID: 5002
+
+6. Phungling (Nagarpalika)
+   फुङलिङ नगरपालिका
+   ID: 5003
+
+7. Sidingba (Gaunpalika)
+   सिदिङ्वा गाउँपालिका
+   ID: 5008
+
+8. Sirijangha (Gaunpalika)
+   सिरीजङ्घा गाउँपालिका
+   ID: 5009
+
+9. Pathibhara Yangwarak (Gaunpalika)
+   पाथीभरा याङवरक गाउँपालिका
+   ID: 5007
+
+================================================================================
+DISTRICT 2: Panchthar / पाँचथर
+Municipalities: 8
+================================================================================
+1. Falelung (Gaunpalika)
+   फालेलुङ गाउँपालिका
+   ID: 5012
+
+2. Falgunanda (Gaunpalika)
+   फाल्गुनन्द गाउँपालिका
+   ID: 5013
+
+3. Hilihang (Gaunpalika)
+   हिलिहाङ गाउँपालिका
+   ID: 5017
+
+4. Kummayak (Gaunpalika)
+   कुम्मायक गाउँपालिका
+   ID: 5010
+
+5. Miklajung (Gaunpalika)
+   मिक्लाजुङ गाउँपालिका
+   ID: 5015
+
+6. Phidim (Nagarpalika)
+   फिदिम नगरपालिका
+   ID: 5014
+
+7. Tumbewa (Gaunpalika)
+   तुम्वेवा गाउँपालिका
+   ID: 5011
+
+8. Yangwarak (Gaunpalika)
+   याङवरक गाउँपालिका
+   ID: 5016
+
+================================================================================
+DISTRICT 3: Ilam / इलाम
+Municipalities: 10
+================================================================================
+1. Chulachuli (Gaunpalika)
+   चुलाचुली गाउँपालिका
+   ID: 5019
+
+2. Deumai (Nagarpalika)
+   देउमाई नगरपालिका
+   ID: 5020
+
+3. Fakphokthum (Gaunpalika)
+   फाकफोकथुम गाउँपालिका
+   ID: 5021
+
+4. Illam (Nagarpalika)
+   इलाम नगरपालिका
+   ID: 5018
+
+5. Mai (Nagarpalika)
+   माई नगरपालिका
+   ID: 5022
+
+6. Maijogmai (Gaunpalika)
+   माईजोगमाई गाउँपालिका
+   ID: 5023
+
+7. Mangsebung (Gaunpalika)
+   माङसेबुङ गाउँपालिका
+   ID: 5024
+
+8. Rong (Gaunpalika)
+   रोङ गाउँपालिका
+   ID: 5025
+
+9. Sandakpur (Gaunpalika)
+   सन्दकपुर गाउँपालिका
+   ID: 5026
+
+10. Suryodaya (Nagarpalika)
+    सूर्योदय नगरपालिका
+    ID: 5027
+
+================================================================================
+DISTRICT 4: Jhapa / झापा
+Municipalities: 15
+================================================================================
+1. Arjundhara (Nagarpalika)
+   अर्जुनधारा नगरपालिका
+   ID: 5028
+
+2. Barhadashi (Gaunpalika)
+   बाह्रदशी गाउँपालिका
+   ID: 5036
+
+3. Bhadrapur (Nagarpalika)
+   भद्रपुर नगरपालिका
+   ID: 5038
+
+4. Birtamod (Nagarpalika)
+   विर्तामोड नगरपालिका
+   ID: 5040
+
+5. Buddhashanti (Gaunpalika)
+   बुद्धशान्ति गाउँपालिका
+   ID: 5037
+
+6. Damak (Nagarpalika)
+   दमक नगरपालिका
+   ID: 5035
+
+7. Gauradhaha (Nagarpalika)
+   गौरादह नगरपालिका
+   ID: 5032
+
+8. Gauriganj (Gaunpalika)
+   गौरीगञ्‍ज गाउँपालिका
+   ID: 5033
+
+9. Haldibari (Gaunpalika)
+   हल्दिबारी गाउँपालिका
+   ID: 5042
+
+10. Jhapa (Gaunpalika)
+    झापा गाउँपालिका
+    ID: 5034
+
+11. Kachankawal (Gaunpalika)
+    कचनकवल गाउँपालिका
+    ID: 5029
+
+12. Kamal (Gaunpalika)
+    कमल गाउँपालिका
+    ID: 5031
+
+13. Kankai (Nagarpalika)
+    कन्काई नगरपालिका
+    ID: 5030
+
+14. Mechinagar (Nagarpalika)
+    मेचीनगर नगरपालिका
+    ID: 5039
+
+15. Shivasataxi (Nagarpalika)
+    शिवसताक्षी नगरपालिका
+    ID: 5041
+
+================================================================================
+DISTRICT 5: Sankhuwasabha / संखुवासभा
+Municipalities: 10
+================================================================================
+1. Bhotkhola (Gaunpalika)
+   भोटखोला गाउँपालिका
+   ID: 5048
+
+2. Chainpur (Nagarpalika)
+   चैनपुर नगरपालिका
+   ID: 5045
+
+3. Chichila (Gaunpalika)
+   चिचिला गाउँपालिका
+   ID: 5044
+
+4. Dharmadevi (Nagarpalika)
+   धर्मदेवी नगरपालिका
+   ID: 5046
+
+5. Khandbari (Nagarpalika)
+   खाँदवारी नगरपालिका
+   ID: 5043
+
+6. Madi (Nagarpalika)
+   मादी नगरपालिका
+   ID: 5050
+
+7. Makalu (Gaunpalika)
+   मकालु गाउँपालिका
+   ID: 5049
+
+8. Panchakhapan (Nagarpalika)
+   पाँचखपन नगरपालिका
+   ID: 5047
+
+9. Sabhapokhari (Gaunpalika)
+   सभापोखरी गाउँपालिका
+   ID: 5051
+
+10. Silichong (Gaunpalika)
+    सिलीचोङ गाउँपालिका
+    ID: 5052
+
+================================================================================
+DISTRICT 6: Terhathum / तेह्रथुम
+Municipalities: 6
+================================================================================
+1. Aathrai (Gaunpalika)
+   आठराई गाउँपालिका
+   ID: 5053
+
+2. Chhathar (Gaunpalika)
+   छथर गाउँपालिका
+   ID: 5054
+
+3. Laligurans (Nagarpalika)
+   लालीगुराँस नगरपालिका
+   ID: 5058
+
+4. Menchayam (Gaunpalika)
+   मेन्छयायेम गाउँपालिका
+   ID: 5056
+
+5. Myanglung (Nagarpalika)
+   म्याङलुङ नगरपालिका
+   ID: 5057
+
+6. Phedap (Gaunpalika)
+   फेदाप गाउँपालिका
+   ID: 5055
+
+================================================================================
+DISTRICT 7: Bhojpur / भोजपुर
+Municipalities: 9
+================================================================================
+1. Aamchowk (Gaunpalika)
+   आमचोक गाउँपालिका
+   ID: 5060
+
+2. Arun (Gaunpalika)
+   अरुण गाउँपालिका
+   ID: 5059
+
+3. Bhojpur (Nagarpalika)
+   भोजपुर नगरपालिका
+   ID: 5063
+
+4. Hatuwagadhi (Gaunpalika)
+   हतुवागढी गाउँपालिका
+   ID: 5067
+
+5. Pauwadungma (Gaunpalika)
+   पौवादुङमा गाउँपालिका
+   ID: 5062
+
+6. Ramprasad Rai (Gaunpalika)
+   रामप्रसाद राई गाउँपालिका
+   ID: 5064
+
+7. Salpasilichho (Gaunpalika)
+   साल्पासिलिछो गाउँपालिका
+   ID: 5066
+
+8. Shadananda (Nagarpalika)
+   षडानन्द नगरपालिका
+   ID: 5065
+
+9. Tyamkemaiyung (Gaunpalika)
+   टेम्केमैयुङ गाउँपालिका
+   ID: 5061
+
+================================================================================
+DISTRICT 8: Dhankuta / धनकुटा
+Municipalities: 7
+================================================================================
+1. Chaubise (Gaunpalika)
+   चौबिसे गाउँपालिका
+   ID: 5069
+
+2. Chhathar Jorpati (Gaunpalika)
+   छथर जोरपाटी गाउँपालिका
+   ID: 5070
+
+3. Dhankuta (Nagarpalika)
+   धनकुटा नगरपालिका
+   ID: 5071
+
+4. Shahidbhumi (Gaunpalika)
+   सहिदभूमि गाउँपालिका
+   ID: 5068
+
+5. Mahalaxmi (Nagarpalika)
+   महालक्ष्मी नगरपालिका
+   ID: 5073
+
+6. Pakhribas (Nagarpalika)
+   पाख्रिवास नगरपालिका
+   ID: 5072
+
+7. Sangurigadhi (Gaunpalika)
+   साँगुरीगढी गाउँपालिका
+   ID: 5074
+
+================================================================================
+DISTRICT 9: Morang / मोरङ
+Municipalities: 17
+================================================================================
+1. Belbari (Nagarpalika)
+   बेलवारी नगरपालिका
+   ID: 5084
+
+2. Biratnagar (Mahanagarpalika)
+   विराटनगर महानगरपालिका
+   ID: 5089
+
+3. Budhiganga (Gaunpalika)
+   बुढीगंगा गाउँपालिका
+   ID: 5083
+
+4. Dhanpalthan (Gaunpalika)
+   धनपालथान गाउँपालिका
+   ID: 5081
+
+5. Gramthan (Gaunpalika)
+   ग्रामथान गाउँपालिका
+   ID: 5079
+
+6. Jahada (Gaunpalika)
+   जहदा गाउँपालिका
+   ID: 5080
+
+7. Kanepokhari (Gaunpalika)
+   कानेपोखरी गाउँपालिका
+   ID: 5077
+
+8. Katahari (Gaunpalika)
+   कटहरी गाउँपालिका
+   ID: 5076
+
+9. Kerabari (Gaunpalika)
+   केराबारी गाउँपालिका
+   ID: 5078
+
+10. Letang (Nagarpalika)
+    लेटाङ नगरपालिका
+    ID: 5088
+
+11. Miklajung (Gaunpalika)
+    मिक्लाजुङ गाउँपालिका
+    ID: 5085
+
+12. Patahrishanishchare (Nagarpalika)
+    पथरी शनिश्चरे नगरपालिका
+    ID: 5082
+
+13. Rangeli (Nagarpalika)
+    रंगेली नगरपालिका
+    ID: 5086
+
+14. Ratuwamai (Nagarpalika)
+    रतुवामाई नगरपालिका
+    ID: 5087
+
+15. Sundarharaicha (Nagarpalika)
+    सुन्दरहरैँचा नगरपालिका
+    ID: 5091
+
+16. Sunwarshi (Nagarpalika)
+    सुनवर्षी नगरपालिका
+    ID: 5090
+
+17. Uralabari (Nagarpalika)
+    उर्लाबारी नगरपालिका
+    ID: 5075
+
+================================================================================
+DISTRICT 10: Sunsari / सुनसरी
+Municipalities: 12
+================================================================================
+1. Barah (Nagarpalika)
+   बराहक्षेत्र नगरपालिका
+   ID: 5099
+
+2. Barju (Gaunpalika)
+   बर्जु गाउँपालिका
+   ID: 5100
+
+3. Bhokraha Narsingh (Gaunpalika)
+   भोक्राहा नरसिंह गाउँपालिका
+   ID: 5101
+
+4. Dewanganj (Gaunpalika)
+   देवानगञ्ज गाउँपालिका
+   ID: 5097
+
+5. Dharan (Upamahanagarpalika)
+   धरान उपमहानगरपालिका
+   ID: 5098
+
+6. Duhabi (Nagarpalika)
+   दुहवी नगरपालिका
+   ID: 5096
+
+7. Gadhi (Gaunpalika)
+   गढी गाउँपालिका
+   ID: 5095
+
+8. Harinagar (Gaunpalika)
+   हरिनगर गाउँपालिका
+   ID: 5103
+
+9. Inaruwa (Nagarpalika)
+   इनरुवा नगरपालिका
+   ID: 5093
+
+10. Itahari (Upamahanagarpalika)
+    इटहरी उपमहानगरपालिका
+    ID: 5092
+
+11. Koshi (Gaunpalika)
+    कोशी गाउँपालिका
+    ID: 5094
+
+12. Ramdhuni (Nagarpalika)
+    रामधुनी नगरपालिका
+    ID: 5102
+
+================================================================================
+DISTRICT 11: Solukhumbu / सोलुखुम्बु
+Municipalities: 8
+================================================================================
+1. Thulung Dudhkoshi (Gaunpalika)
+   थुलुङ दुधकोशी गाउँपालिका
+   ID: 5106
+
+2. Dudhkoshi (Gaunpalika)
+   माप्य दुधकोशी गाउँपालिका
+   ID: 5105
+
+3. Khumbupasanglahmu (Gaunpalika)
+   खुम्बु पासाङल्हामु गाउँपालिका
+   ID: 5104
+
+4. Likhupike (Gaunpalika)
+   लिखु पिके गाउँपालिका
+   ID: 5109
+
+5. Mahakulung (Gaunpalika)
+   महाकुलुङ गाउँपालिका
+   ID: 5108
+
+6. Nechasalyan (Gaunpalika)
+   नेचासल्यान गाउँपालिका
+   ID: 5107
+
+7. Solududhakunda (Nagarpalika)
+   सोलुदुधकुण्ड नगरपालिका
+   ID: 5111
+
+8. Sotang (Gaunpalika)
+   सोताङ गाउँपालिका
+   ID: 5110
+
+================================================================================
+DISTRICT 12: Khotang / खोटाङ
+Municipalities: 10
+================================================================================
+1. Ainselukhark (Gaunpalika)
+   ऐसेलुखर्क गाउँपालिका
+   ID: 5112
+
+2. Barahapokhari (Gaunpalika)
+   वराहपोखरी गाउँपालिका
+   ID: 5117
+
+3. Diprung (Gaunpalika)
+   दिप्रुङ चुइचुम्मा गाउँपालिका
+   ID: 5116
+
+4. Halesi Tuwachung (Nagarpalika)
+   हलेसी तुवाचुङ नगरपालिका
+   ID: 5121
+
+5. Jantedhunga (Gaunpalika)
+   जन्तेढुंगा गाउँपालिका
+   ID: 5115
+
+6. Kepilasagadhi (Gaunpalika)
+   केपिलासगढी गाउँपालिका
+   ID: 5113
+
+7. Khotehang (Gaunpalika)
+   खोटेहाङ गाउँपालिका
+   ID: 5114
+
+8. Rawa Besi (Gaunpalika)
+   रावा बेसी गाउँपालिका
+   ID: 5119
+
+9. Rupakot Majhuwagadhi (Nagarpalika)
+   दिक्तेल रुपाकोट मझुवागढी नगरपालिका
+   ID: 5118
+
+10. Sakela (Gaunpalika)
+    साकेला गाउँपालिका
+    ID: 5120
+
+================================================================================
+DISTRICT 13: Okhaldhunga / ओखलढुंगा
+Municipalities: 8
+================================================================================
+1. Champadevi (Gaunpalika)
+   चम्पादेवी गाउँपालिका
+   ID: 5123
+
+2. Chisankhugadhi (Gaunpalika)
+   चिशंखुगढी गाउँपालिका
+   ID: 5124
+
+3. Khijidemba (Gaunpalika)
+   खिजीदेम्वा गाउँपालिका
+   ID: 5122
+
+4. Likhu (Gaunpalika)
+   लिखु गाउँपालिका
+   ID: 5127
+
+5. Manebhanjyang (Gaunpalika)
+   मानेभन्ज्याङ गाउँपालिका
+   ID: 5125
+
+6. Molung (Gaunpalika)
+   मोलुङ गाउँपालिका
+   ID: 5126
+
+7. Siddhicharan (Nagarpalika)
+   सिद्धिचरण नगरपालिका
+   ID: 5128
+
+8. Sunkoshi (Gaunpalika)
+   सुनकोशी गाउँपालिका
+   ID: 5129
+
+================================================================================
+DISTRICT 14: Udayapur / उदयपुर
+Municipalities: 8
+================================================================================
+1. Belaka (Nagarpalika)
+   वेलका नगरपालिका
+   ID: 5136
+
+2. Chaudandigadhi (Nagarpalika)
+   चौदण्डीगढी नगरपालिका
+   ID: 5132
+
+3. Katari (Nagarpalika)
+   कटारी नगरपालिका
+   ID: 5131
+
+4. Rautamai (Gaunpalika)
+   रौतामाई गाउँपालिका
+   ID: 5135
+
+5. Sunkoshi (Gaunpalika)
+   लिम्चुङबुङ गाउँपालिका
+   ID: 5137
+
+6. Tapli (Gaunpalika)
+   ताप्ली गाउँपालिका
+   ID: 5133
+
+7. Triyuga (Nagarpalika)
+   त्रियुगा नगरपालिका
+   ID: 5134
+
+8. Udayapurgadhi (Gaunpalika)
+   उदयपुरगढी गाउँपालिका
+   ID: 5130
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Upamahanagarpalika = Sub-Metropolitan City
+- Mahanagarpalika = Metropolitan City
+================================================================================
+================================================================================
+PROVINCE 2 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Province No 2 / मधेश
+Districts: 8
+Total Municipalities: 136
+
+================================================================================
+
+DISTRICT 1: Saptari / सप्तरी
+Municipalities: 18
+================================================================================
+1. Agnisair Krishna Savaran (Gaunpalika)
+   अग्नीसाइर कृष्णासवरन गाउँपालिका
+   ID: 5801
+
+2. Balan Bihul (Gaunpalika)
+   बलान बिहुल गाउँपालिका
+   ID: 5813
+
+3. Belhi Chapena (Gaunpalika)
+   राजगढ गाउँपालिका
+   ID: 5808
+
+4. Bishnupur (Gaunpalika)
+   बिष्णुपुर गाउँपालिका
+   ID: 5814
+
+5. Bode Barsain (Nagarpalika)
+   बोदेबरसाइन नगरपालिका
+   ID: 5809
+
+6. Chhinnamasta (Gaunpalika)
+   छिन्नमस्ता गाउँपालिका
+   ID: 5804
+
+7. Dakneshwori (Nagarpalika)
+   डाक्नेश्वरी नगरपालिका
+   ID: 5805
+
+8. Hanumannagar Kankalini (Nagarpalika)
+   हनुमाननगर कंकालिनी नगरपालिका
+   ID: 5818
+
+9. Kanchanrup (Nagarpalika)
+   कञ्चनरुप नगरपालिका
+   ID: 5802
+
+10. Khadak (Nagarpalika)
+    खडक नगरपालिका
+    ID: 5803
+
+11. Mahadeva (Gaunpalika)
+    महादेवा गाउँपालिका
+    ID: 5810
+
+12. Rajbiraj (Nagarpalika)
+    राजविराज नगरपालिका
+    ID: 5811
+
+13. Rupani (Gaunpalika)
+    रुपनी गाउँपालिका
+    ID: 5812
+
+14. Saptakoshi (Nagarpalika)
+    सप्तकोशी नगरपालिका
+    ID: 5816
+
+15. Shambhunath (Nagarpalika)
+    शम्भुनाथ नगरपालिका
+    ID: 5815
+
+16. Surunga (Nagarpalika)
+    सुरुङ्गा नगरपालिका
+    ID: 5817
+
+17. Tilathi Koiladi (Gaunpalika)
+    तिलाठी कोईलाडी गाउँपालिका
+    ID: 5807
+
+18. Tirahut (Gaunpalika)
+    तिरहुत गाउँपालिका
+    ID: 5806
+
+================================================================================
+DISTRICT 2: Siraha / सिराहा
+Municipalities: 17
+================================================================================
+1. Arnama (Gaunpalika)
+   अर्नमा गाउँपालिका
+   ID: 5155
+
+2. Aurahi (Gaunpalika)
+   औरही गाउँपालिका
+   ID: 5156
+
+3. Bariyarpatti (Gaunpalika)
+   बरियारपट्टी गाउँपालिका
+   ID: 5163
+
+4. Bhagawanpur (Gaunpalika)
+   भगवानपुर गाउँपालिका
+   ID: 5164
+
+5. Bishnupur (Gaunpalika)
+   विष्णुपुर गाउँपालिका
+   ID: 5168
+
+6. Dhangadhimai (Nagarpalika)
+   धनगढीमाई नगरपालिका
+   ID: 5160
+
+7. Golbazar (Nagarpalika)
+   गोलबजार नगरपालिका
+   ID: 5159
+
+8. Kalyanpur (Nagarpalika)
+   कल्याणपुर नगरपालिका
+   ID: 5158
+
+9. Karjanha (Nagarpalika)
+   कर्जन्हा नगरपालिका
+   ID: 5819
+
+10. Lahan (Nagarpalika)
+    लहान नगरपालिका
+    ID: 5167
+
+11. Laxmipur Patari (Gaunpalika)
+    लक्ष्मीपुर पतारी गाउँपालिका
+    ID: 5166
+
+12. Mirchaiya (Nagarpalika)
+    मिर्चैया नगरपालिका
+    ID: 5165
+
+13. Naraha (Gaunpalika)
+    नरहा गाउँपालिका
+    ID: 5161
+
+14. Nawarajpur (Gaunpalika)
+    नवराजपुर गाउँपालिका
+    ID: 5162
+
+15. Sakhuwanankarkatti (Gaunpalika)
+    सखुवानान्कारकट्टी गाउँपालिका
+    ID: 5169
+
+16. Siraha (Nagarpalika)
+    सिरहा नगरपालिका
+    ID: 5170
+
+17. Sukhipur (Nagarpalika)
+    सुखीपुर नगरपालिका
+    ID: 5171
+
+================================================================================
+DISTRICT 3: Dhanusha / धनुषा
+Municipalities: 18
+================================================================================
+1. Aaurahi (Gaunpalika)
+   औरही गाउँपालिका
+   ID: 5820
+
+2. Bateshwor (Gaunpalika)
+   बटेश्वर गाउँपालिका
+   ID: 5829
+
+3. Bideha (Nagarpalika)
+   विदेह नगरपालिका
+   ID: 5834
+
+4. Chhireshwornath (Nagarpalika)
+   क्षिरेश्वरनाथ नगरपालिका
+   ID: 5822
+
+5. Dhanauji (Gaunpalika)
+   धनौजी गाउँपालिका
+   ID: 5827
+
+6. Dhanusadham (Nagarpalika)
+   धनुषाधाम नगरपालिका
+   ID: 5826
+
+7. Ganeshman Charnath (Nagarpalika)
+   गणेशमान चारनाथ नगरपालिका
+   ID: 5823
+
+8. Hansapur (Nagarpalika)
+   हंसपुर नगरपालिका
+   ID: 5837
+
+9. Janaknandani (Gaunpalika)
+   जनकनन्दिनी गाउँपालिका
+   ID: 5824
+
+10. Janakpur (Upamahanagarpalika)
+    जनकपुरधाम उपमहानगरपालिका
+    ID: 5825
+
+11. Kamala (Nagarpalika)
+    कमला नगरपालिका
+    ID: 5821
+
+12. Lakshminiya (Gaunpalika)
+    लक्ष्मीनिया गाउँपालिका
+    ID: 5833
+
+13. Mithila (Nagarpalika)
+    मिथिला नगरपालिका
+    ID: 5830
+
+14. Mithila Bihari (Nagarpalika)
+    मिथिला बिहारी नगरपालिका
+    ID: 5831
+
+15. Mukhiyapatti Musarmiya (Gaunpalika)
+    मुखियापट्टी मुसहरनिया गाउँपालिका
+    ID: 5832
+
+16. Nagarain (Nagarpalika)
+    नगराइन नगरपालिका
+    ID: 5828
+
+17. Sabaila (Nagarpalika)
+    सबैला नगरपालिका
+    ID: 5836
+
+18. Sahidnagar (Nagarpalika)
+    शहीदनगर नगरपालिका
+    ID: 5835
+
+================================================================================
+DISTRICT 4: Mahottari / महोत्तरी
+Municipalities: 15
+================================================================================
+1. Aurahi (Nagarpalika)
+   औरही नगरपालिका
+   ID: 5839
+
+2. Balwa (Nagarpalika)
+   बलवा नगरपालिका
+   ID: 5841
+
+3. Bardibas (Nagarpalika)
+   बर्दिबास नगरपालिका
+   ID: 5840
+
+4. Bhangaha (Nagarpalika)
+   भँगाहा नगरपालिका
+   ID: 5842
+
+5. Ekdanra (Gaunpalika)
+   एकडारा गाउँपालिका
+   ID: 5838
+
+6. Gaushala (Nagarpalika)
+   गौशाला नगरपालिका
+   ID: 5217
+
+7. Jaleswor (Nagarpalika)
+   जलेश्वर नगरपालिका
+   ID: 5218
+
+8. Loharpatti (Nagarpalika)
+   लोहरपट्टी नगरपालिका
+   ID: 5846
+
+9. Mahottari (Gaunpalika)
+   महोत्तरी गाउँपालिका
+   ID: 5225
+
+10. Manra Siswa (Nagarpalika)
+    मनरा शिसवा नगरपालिका
+    ID: 5844
+
+11. Matihani (Nagarpalika)
+    मटिहानी नगरपालिका
+    ID: 5843
+
+12. Pipra (Gaunpalika)
+    पिपरा गाउँपालिका
+    ID: 5219
+
+13. Ramgopalpur (Nagarpalika)
+    रामगोपालपुर नगरपालिका
+    ID: 5845
+
+14. Samsi (Gaunpalika)
+    साम्सी गाउँपालिका
+    ID: 5228
+
+15. Sonama (Gaunpalika)
+    सोनमा गाउँपालिका
+    ID: 5229
+
+================================================================================
+DISTRICT 5: Sarlahi / सर्लाही
+Municipalities: 20
+================================================================================
+1. Bagmati (Nagarpalika)
+   बागमती नगरपालिका
+   ID: 5238
+
+2. Balara (Nagarpalika)
+   बलरा नगरपालिका
+   ID: 5853
+
+3. Barahathawa (Nagarpalika)
+   बरहथवा नगरपालिका
+   ID: 5236
+
+4. Basbariya (Gaunpalika)
+   बसबरीया गाउँपालिका
+   ID: 5854
+
+5. Bishnu (Gaunpalika)
+   विष्णु गाउँपालिका
+   ID: 5857
+
+6. Bramhapuri (Gaunpalika)
+   ब्रह्मपुरी गाउँपालिका
+   ID: 5855
+
+7. Chakraghatta (Gaunpalika)
+   चक्रघट्टा गाउँपालिका
+   ID: 5850
+
+8. Chandranagar (Gaunpalika)
+   चन्द्रनगर गाउँपालिका
+   ID: 5234
+
+9. Dhankaul (Gaunpalika)
+   धनकौल गाउँपालिका
+   ID: 5851
+
+10. Godaita (Nagarpalika)
+    गोडैटा नगरपालिका
+    ID: 5849
+
+11. Haripur (Nagarpalika)
+    हरिपुर नगरपालिका
+    ID: 5858
+
+12. Haripurwa (Nagarpalika)
+    हरिपुर्वा नगरपालिका
+    ID: 5859
+
+13. Hariwan (Nagarpalika)
+    हरिवन नगरपालिका
+    ID: 5246
+
+14. Ishworpur (Nagarpalika)
+    ईश्वरपुर नगरपालिका
+    ID: 5230
+
+15. Kabilasi (Nagarpalika)
+    कविलासी नगरपालिका
+    ID: 5847
+
+16. Kaudena (Gaunpalika)
+    कौडेना गाउँपालिका
+    ID: 5848
+
+17. Lalbandi (Nagarpalika)
+    लालबन्दी नगरपालिका
+    ID: 5242
+
+18. Malangawa (Nagarpalika)
+    मलंगवा नगरपालिका
+    ID: 5240
+
+19. Parsa (Gaunpalika)
+    पर्सा गाउँपालिका
+    ID: 5852
+
+20. Ramnagar (Gaunpalika)
+    रामनगर गाउँपालिका
+    ID: 5856
+
+================================================================================
+DISTRICT 6: Rautahat / रौतहट
+Municipalities: 18
+================================================================================
+1. Baudhimai (Nagarpalika)
+   बौधीमाई नगरपालिका
+   ID: 5869
+
+2. Brindaban (Nagarpalika)
+   वृन्दावन नगरपालिका
+   ID: 5875
+
+3. Chandrapur (Nagarpalika)
+   चन्द्रपुर नगरपालिका
+   ID: 5339
+
+4. Dewahhi Gonahi (Nagarpalika)
+   देवाही गोनाही नगरपालिका
+   ID: 5866
+
+5. Durga Bhagwati (Gaunpalika)
+   दुर्गा भगवती गाउँपालिका
+   ID: 5865
+
+6. Gadhimai (Nagarpalika)
+   गढीमाई नगरपालिका
+   ID: 5862
+
+7. Garuda (Nagarpalika)
+   गरुडा नगरपालिका
+   ID: 5336
+
+8. Gaur (Nagarpalika)
+   गौर नगरपालिका
+   ID: 5864
+
+9. Gujara (Nagarpalika)
+   गुजरा नगरपालिका
+   ID: 5863
+
+10. Ishanath (Nagarpalika)
+    ईशनाथ नगरपालिका
+    ID: 5860
+
+11. Katahariya (Nagarpalika)
+    कटहरिया नगरपालिका
+    ID: 5861
+
+12. Madhav Narayan (Nagarpalika)
+    माधव नारायण नगरपालिका
+    ID: 5870
+
+13. Maulapur (Nagarpalika)
+    मौलापुर नगरपालिका
+    ID: 5871
+
+14. Paroha (Nagarpalika)
+    परोहा नगरपालिका
+    ID: 5867
+
+15. Phatuwa Bijayapur (Nagarpalika)
+    फतुवा बिजयपुर नगरपालिका
+    ID: 5868
+
+16. Rajdevi (Nagarpalika)
+    राजदेवी नगरपालिका
+    ID: 5873
+
+17. Rajpur (Nagarpalika)
+    राजपुर नगरपालिका
+    ID: 5874
+
+18. Yemunamai (Gaunpalika)
+    यमुनामाई गाउँपालिका
+    ID: 5872
+
+================================================================================
+DISTRICT 7: Bara / बारा
+Municipalities: 16
+================================================================================
+1. Adarshkotwal (Gaunpalika)
+   आदर्श कोतवाल गाउँपालिका
+   ID: 5349
+
+2. Baragadhi (Gaunpalika)
+   बारागढी गाउँपालिका
+   ID: 5360
+
+3. Bishrampur (Gaunpalika)
+   विश्रामपुर गाउँपालिका
+   ID: 5880
+
+4. Devtal (Gaunpalika)
+   देवताल गाउँपालिका
+   ID: 5354
+
+5. Jitpur Simara (Upamahanagarpalika)
+   जीतपुरसिमरा उपमहानगरपालिका
+   ID: 5353
+
+6. Kalaiya (Upamahanagarpalika)
+   कलैया उपमहानगरपालिका
+   ID: 5351
+
+7. Karaiyamai (Gaunpalika)
+   करैयामाई गाउँपालिका
+   ID: 5350
+
+8. Kolhabi (Nagarpalika)
+   कोल्हवी नगरपालिका
+   ID: 5352
+
+9. Mahagadhimai (Nagarpalika)
+   महागढीमाई नगरपालिका
+   ID: 5361
+
+10. Nijgadh (Nagarpalika)
+    निजगढ नगरपालिका
+    ID: 5355
+
+11. Pacharauta (Nagarpalika)
+    पचरौता नगरपालिका
+    ID: 5876
+
+12. Parwanipur (Gaunpalika)
+    परवानीपुर गाउँपालिका
+    ID: 5877
+
+13. Pheta (Gaunpalika)
+    फेटा गाउँपालिका
+    ID: 5879
+
+14. Prasauni (Gaunpalika)
+    प्रसौनी गाउँपालिका
+    ID: 5878
+
+15. Simraungadh (Nagarpalika)
+    सिम्रौनगढ नगरपालिका
+    ID: 5362
+
+16. Suwarna (Gaunpalika)
+    सुवर्ण गाउँपालिका
+    ID: 5363
+
+================================================================================
+DISTRICT 8: Parsa / पर्सा
+Municipalities: 14
+================================================================================
+1. Bahudaramai (Nagarpalika)
+   बहुदरमाई नगरपालिका
+   ID: 5887
+
+2. Bindabasini (Gaunpalika)
+   बिन्दबासिनी गाउँपालिका
+   ID: 5372
+
+3. Birgunj (Mahanagarpalika)
+   वीरगंज महानगरपालिका
+   ID: 5888
+
+4. Chhipaharmai (Gaunpalika)
+   छिपहरमाई गाउँपालिका
+   ID: 5364
+
+5. Dhobini (Gaunpalika)
+   धोबीनी गाउँपालिका
+   ID: 5366
+
+6. Jagarnathpur (Gaunpalika)
+   जगरनाथपुर गाउँपालिका
+   ID: 5365
+
+7. Jirabhawani (Gaunpalika)
+   जिराभवानी गाउँपालिका
+   ID: 5882
+
+8. Kalikamai (Gaunpalika)
+   कालिकामाई गाउँपालिका
+   ID: 5881
+
+9. Pakahamainpur (Gaunpalika)
+   पकाहा मैनपुर गाउँपालिका
+   ID: 5367
+
+10. Parsagadhi (Nagarpalika)
+    पर्सागढी नगरपालिका
+    ID: 5885
+
+11. Paterwasugauli (Gaunpalika)
+    पटेर्वा सुगौली गाउँपालिका
+    ID: 5884
+
+12. Pokhariya (Nagarpalika)
+    पोखरिया नगरपालिका
+    ID: 5886
+
+13. SakhuwaPrasauni (Gaunpalika)
+    सखुवा प्रसौनी गाउँपालिका
+    ID: 5375
+
+14. Thori (Gaunpalika)
+    ठोरी गाउँपालिका
+    ID: 5883
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Upamahanagarpalika = Sub-Metropolitan City
+- Mahanagarpalika = Metropolitan City
+================================================================================
+================================================================================
+PROVINCE 3 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Bagmati Pradesh / बागमती
+Districts: 13
+Total Municipalities: 119
+
+================================================================================
+
+DISTRICT 1: Bhaktapur / भक्तपुर
+Municipalities: 4
+================================================================================
+1. Bhaktapur (Nagarpalika)
+   भक्तपुर नगरपालिका
+   ID: 5289
+
+2. Changunarayan (Nagarpalika)
+   चाँगुनारायण नगरपालिका
+   ID: 5288
+
+3. Madhyapur Thimi (Nagarpalika)
+   मध्यपुर थिमी नगरपालिका
+   ID: 5290
+
+4. Suryabinayak (Nagarpalika)
+   सूर्यविनायक नगरपालिका
+   ID: 5291
+
+================================================================================
+DISTRICT 2: Chitawan / चितवन
+Municipalities: 7
+================================================================================
+1. Bharatpur (Mahanagarpalika)
+   भरतपुर महानगरपालिका
+   ID: 5380
+
+2. Ichchhyakamana (Gaunpalika)
+   इच्छाकामना गाउँपालिका
+   ID: 5377
+
+3. Kalika (Nagarpalika)
+   कालिका नगरपालिका
+   ID: 5378
+
+4. Khairahani (Nagarpalika)
+   खैरहनी नगरपालिका
+   ID: 5379
+
+5. Madi (Nagarpalika)
+   माडी नगरपालिका
+   ID: 5381
+
+6. Rapti (Nagarpalika)
+   राप्ती नगरपालिका
+   ID: 5383
+
+7. Ratnanagar (Nagarpalika)
+   रत्ननगर नगरपालिका
+   ID: 5382
+
+================================================================================
+DISTRICT 3: Dhading / धादिङ
+Municipalities: 13
+================================================================================
+1. Benighat Rorang (Gaunpalika)
+   बेनीघाट रोराङ्ग गाउँपालिका
+   ID: 5262
+
+2. Dhunibesi (Nagarpalika)
+   धुनीबेंशी नगरपालिका
+   ID: 5259
+
+3. Gajuri (Gaunpalika)
+   गजुरी गाउँपालिका
+   ID: 5254
+
+4. Galchi (Gaunpalika)
+   गल्छी गाउँपालिका
+   ID: 5255
+
+5. Gangajamuna (Gaunpalika)
+   गङ्गाजमुना गाउँपालिका
+   ID: 5253
+
+6. Jwalamukhi (Gaunpalika)
+   ज्वालामूखी गाउँपालिका
+   ID: 5256
+
+7. Khaniyabash (Gaunpalika)
+   खनियाबास गाउँपालिका
+   ID: 5252
+
+8. Netrawati Dabjong (Gaunpalika)
+   नेत्रावती डबजोङ गाउँपालिका
+   ID: 5261
+
+9. Nilakantha (Nagarpalika)
+   नीलकण्ठ नगरपालिका
+   ID: 5260
+
+10. Rubi Valley (Gaunpalika)
+    रुवी भ्याली गाउँपालिका
+    ID: 5263
+
+11. Siddhalek (Gaunpalika)
+    सिद्धलेक गाउँपालिका
+    ID: 5264
+
+12. Thakre (Gaunpalika)
+    थाक्रे गाउँपालिका
+    ID: 5258
+
+13. Tripura Sundari (Gaunpalika)
+    त्रिपुरासुन्दरी गाउँपालिका
+    ID: 5257
+
+================================================================================
+DISTRICT 4: Dolakha / दोलखा
+Municipalities: 9
+================================================================================
+1. Baiteshwor (Gaunpalika)
+   वैतेश्वर गाउँपालिका
+   ID: 5179
+
+2. Bhimeshwor (Nagarpalika)
+   भिमेश्वर नगरपालिका
+   ID: 5176
+
+3. Bigu (Gaunpalika)
+   विगु गाउँपालिका
+   ID: 5178
+
+4. Gaurishankar (Gaunpalika)
+   गौरिशंकर गाउँपालिका
+   ID: 5173
+
+5. Jiri (Nagarpalika)
+   जिरी नगरपालिका
+   ID: 5174
+
+6. Kalinchok (Gaunpalika)
+   कालिन्चोक गाउँपालिका
+   ID: 5172
+
+7. Melung (Gaunpalika)
+   मेलुङ गाउँपालिका
+   ID: 5177
+
+8. Sailung (Gaunpalika)
+   शैलुङ गाउँपालिका
+   ID: 5180
+
+9. Tamakoshi (Gaunpalika)
+   तामाकोशी गाउँपालिका
+   ID: 5175
+
+================================================================================
+DISTRICT 5: Kabhrepalanchok / काभ्रेपलाञ्चोक
+Municipalities: 13
+================================================================================
+1. Banepa (Nagarpalika)
+   बनेपा नगरपालिका
+   ID: 5305
+
+2. Bethanchowk (Gaunpalika)
+   बेथानचोक गाउँपालिका
+   ID: 5306
+
+3. Bhumlu (Gaunpalika)
+   भुम्लु गाउँपालिका
+   ID: 5307
+
+4. Chaurideurali (Gaunpalika)
+   चौंरीदेउराली गाउँपालिका
+   ID: 5299
+
+5. Dhulikhel (Nagarpalika)
+   धुलिखेल नगरपालिका
+   ID: 5301
+
+6. Khanikhola (Gaunpalika)
+   खानीखोला गाउँपालिका
+   ID: 5298
+
+7. Mahabharat (Gaunpalika)
+   महाभारत गाउँपालिका
+   ID: 5309
+
+8. Mandandeupur (Nagarpalika)
+   मण्डनदेउपुर नगरपालिका
+   ID: 5308
+
+9. Namobuddha (Nagarpalika)
+   नमोबुद्ध नगरपालिका
+   ID: 5302
+
+10. Panauti (Nagarpalika)
+    पनौती नगरपालिका
+    ID: 5303
+
+11. Panchkhal (Nagarpalika)
+    पाँचखाल नगरपालिका
+    ID: 5304
+
+12. Roshi (Gaunpalika)
+    रोशी गाउँपालिका
+    ID: 5310
+
+13. Temal (Gaunpalika)
+    तेमाल गाउँपालिका
+    ID: 5300
+
+================================================================================
+DISTRICT 6: Kathmandu / काठमाडौ‌
+Municipalities: 11
+================================================================================
+1. Budhanilakantha (Nagarpalika)
+   बुढानिलकण्ठ नगरपालिका
+   ID: 5286
+
+2. Chandragiri (Nagarpalika)
+   चन्द्रागिरी नगरपालिका
+   ID: 5281
+
+3. Dakshinkali (Nagarpalika)
+   दक्षिणकाली नगरपालिका
+   ID: 5284
+
+4. Gokarneshwor (Nagarpalika)
+   गोकर्णेश्वर नगरपालिका
+   ID: 5280
+
+5. Kageshwori Manahora (Nagarpalika)
+   कागेश्वरी मनोहरा नगरपालिका
+   ID: 5277
+
+6. Kathmandu (Mahanagarpalika)
+   काठमाडौँ महानगरपालिका
+   ID: 5278
+
+7. Kirtipur (Nagarpalika)
+   कीर्तिपुर नगरपालिका
+   ID: 5279
+
+8. Nagarjun (Nagarpalika)
+   नागार्जुन नगरपालिका
+   ID: 5285
+
+9. Shankharapur (Nagarpalika)
+   शंखरापुर नगरपालिका
+   ID: 5287
+
+10. Tarakeshwor (Nagarpalika)
+    तारकेश्वर नगरपालिका
+    ID: 5283
+
+11. Tokha (Nagarpalika)
+    टोखा नगरपालिका
+    ID: 5282
+
+================================================================================
+DISTRICT 7: Lalitpur / ललितपुर
+Municipalities: 6
+================================================================================
+1. Bagmati (Gaunpalika)
+   बाग्मती गाउँपालिका
+   ID: 5294
+
+2. Godawari (Nagarpalika)
+   गोदावरी नगरपालिका
+   ID: 5293
+
+3. Konjyosom (Gaunpalika)
+   कोन्ज्योसोम गाउँपालिका
+   ID: 5292
+
+4. Lalitpur (Mahanagarpalika)
+   ललितपुर महानगरपालिका
+   ID: 5297
+
+5. Mahalaxmi (Nagarpalika)
+   महालक्ष्मी नगरपालिका
+   ID: 5296
+
+6. Mahankal (Gaunpalika)
+   महाङ्काल गाउँपालिका
+   ID: 5295
+
+================================================================================
+DISTRICT 8: Makawanpur / मकवानपुर
+Municipalities: 10
+================================================================================
+1. Bagmati (Gaunpalika)
+   बाग्मती गाउँपालिका
+   ID: 5327
+
+2. Bakaiya (Gaunpalika)
+   बकैया गाउँपालिका
+   ID: 5326
+
+3. Bhimphedi (Gaunpalika)
+   भीमफेदी गाउँपालिका
+   ID: 5328
+
+4. Hetauda (Upamahanagarpalika)
+   हेटौडा उपमहानगरपालिका
+   ID: 5332
+
+5. Indrasarowar (Gaunpalika)
+   इन्द्रसरोवर गाउँपालिका
+   ID: 5323
+
+6. Kailash (Gaunpalika)
+   कैलाश गाउँपालिका
+   ID: 5324
+
+7. Makawanpurgadhi (Gaunpalika)
+   मकवानपुरगढी गाउँपालिका
+   ID: 5329
+
+8. Manahari (Gaunpalika)
+   मनहरी गाउँपालिका
+   ID: 5330
+
+9. Raksirang (Gaunpalika)
+   राक्सिराङ्ग गाउँपालिका
+   ID: 5331
+
+10. Thaha (Nagarpalika)
+    थाहा नगरपालिका
+    ID: 5325
+
+================================================================================
+DISTRICT 9: Nuwakot / नुवाकोट
+Municipalities: 12
+================================================================================
+1. Belkotgadhi (Nagarpalika)
+   बेलकोटगढी नगरपालिका
+   ID: 5271
+
+2. Bidur (Nagarpalika)
+   विदुर नगरपालिका
+   ID: 5274
+
+3. Dupcheshwar (Gaunpalika)
+   दुप्चेश्वर गाउँपालिका
+   ID: 5269
+
+4. Kakani (Gaunpalika)
+   ककनी गाउँपालिका
+   ID: 5265
+
+5. Kispang (Gaunpalika)
+   किस्पाङ गाउँपालिका
+   ID: 5266
+
+6. Likhu (Gaunpalika)
+   लिखु गाउँपालिका
+   ID: 5273
+
+7. Myagang (Gaunpalika)
+   म्यागङ गाउँपालिका
+   ID: 5272
+
+8. Panchakanya (Gaunpalika)
+   पञ्चकन्या गाउँपालिका
+   ID: 5270
+
+9. Shivapuri (Gaunpalika)
+   शिवपुरी गाउँपालिका
+   ID: 5275
+
+10. Suryagadhi (Gaunpalika)
+    सुर्यगढी गाउँपालिका
+    ID: 5276
+
+11. Tadi (Gaunpalika)
+    तादी गाउँपालिका
+    ID: 5267
+
+12. Tarkeshwar (Gaunpalika)
+    तारकेश्वर गाउँपालिका
+    ID: 5268
+
+================================================================================
+DISTRICT 10: Ramechhap / रामेछाप
+Municipalities: 8
+================================================================================
+1. Doramba (Gaunpalika)
+   दोरम्बा शैलुङ गाउँपालिका
+   ID: 5184
+
+2. Gokulganga (Gaunpalika)
+   गोकुलगङ्गा गाउँपालिका
+   ID: 5183
+
+3. Khadadevi (Gaunpalika)
+   खाँडादेवी गाउँपालिका
+   ID: 5182
+
+4. Likhu Tamakoshi (Gaunpalika)
+   लिखु तामाकोशी गाउँपालिका
+   ID: 5187
+
+5. Manthali (Nagarpalika)
+   मन्थली नगरपालिका
+   ID: 5185
+
+6. Ramechhap (Nagarpalika)
+   रामेछाप नगरपालिका
+   ID: 5186
+
+7. Sunapati (Gaunpalika)
+   सुनापति गाउँपालिका
+   ID: 5188
+
+8. Umakunda (Gaunpalika)
+   उमाकुण्ड गाउँपालिका
+   ID: 5181
+
+================================================================================
+DISTRICT 11: Rasuwa / रसुवा
+Municipalities: 5
+================================================================================
+1. Gosaikunda (Gaunpalika)
+   गोसाईकुण्ड गाउँपालिका
+   ID: 5249
+
+2. Kalika (Gaunpalika)
+   कालिका गाउँपालिका
+   ID: 5248
+
+3. Naukunda (Gaunpalika)
+   नौकुण्ड गाउँपालिका
+   ID: 5250
+
+4. Aamachodingmo (Gaunpalika)
+   आमाछोदिङमो गाउँपालिका
+   ID: 5251
+
+5. Uttargaya (Gaunpalika)
+   उत्तरगया गाउँपालिका
+   ID: 5247
+
+================================================================================
+DISTRICT 12: Sindhuli / सिन्धुली
+Municipalities: 9
+================================================================================
+1. Dudhouli (Nagarpalika)
+   दुधौली नगरपालिका
+   ID: 5193
+
+2. Ghanglekh (Gaunpalika)
+   घ्याङलेख गाउँपालिका
+   ID: 5191
+
+3. Golanjor (Gaunpalika)
+   गोलन्जोर गाउँपालिका
+   ID: 5190
+
+4. Hariharpurgadhi (Gaunpalika)
+   हरिहरपुरगढी गाउँपालिका
+   ID: 5197
+
+5. Kamalamai (Nagarpalika)
+   कमलामाई नगरपालिका
+   ID: 5189
+
+6. Marin (Gaunpalika)
+   मरिण गाउँपालिका
+   ID: 5195
+
+7. Phikkal (Gaunpalika)
+   फिक्कल गाउँपालिका
+   ID: 5194
+
+8. Sunkoshi (Gaunpalika)
+   सुनकोशी गाउँपालिका
+   ID: 5196
+
+9. Tinpatan (Gaunpalika)
+   तीनपाटन गाउँपालिका
+   ID: 5192
+
+================================================================================
+DISTRICT 13: Sindhupalchok / सिन्धुपाल्चोक
+Municipalities: 12
+================================================================================
+1. Balefi (Gaunpalika)
+   बलेफी गाउँपालिका
+   ID: 5315
+
+2. Barhabise (Nagarpalika)
+   वाह्रविसे नगरपालिका
+   ID: 5320
+
+3. Bhotekoshi (Gaunpalika)
+   भोटेकोशी गाउँपालिका
+   ID: 5316
+
+4. Chautara SangachokGadhi (Nagarpalika)
+   चौतारा साँगाचोकगढी नगरपालिका
+   ID: 5311
+
+5. Helambu (Gaunpalika)
+   हेलम्बु गाउँपालिका
+   ID: 5322
+
+6. Indrawati (Gaunpalika)
+   ईन्द्रावती गाउँपालिका
+   ID: 5318
+
+7. Jugal (Gaunpalika)
+   जुगल गाउँपालिका
+   ID: 5312
+
+8. Lisangkhu Pakhar (Gaunpalika)
+   लिसंखु पाखर गाउँपालिका
+   ID: 5319
+
+9. Melamchi (Nagarpalika)
+   मेलम्ची नगरपालिका
+   ID: 5317
+
+10. Panchpokhari Thangpal (Gaunpalika)
+    पाँचपोखरी थाङपाल गाउँपालिका
+    ID: 5314
+
+11. Sunkoshi (Gaunpalika)
+    सुनकोशी गाउँपालिका
+    ID: 5321
+
+12. Tripurasundari (Gaunpalika)
+    त्रिपुरासुन्दरी गाउँपालिका
+    ID: 5313
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Upamahanagarpalika = Sub-Metropolitan City
+- Mahanagarpalika = Metropolitan City
+================================================================================
+================================================================================
+PROVINCE 4 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Gandaki Pradesh / गण्डकी
+Districts: 11
+Total Municipalities: 88
+
+================================================================================
+
+DISTRICT 1: Gorkha / गोरखा
+Municipalities: 11
+================================================================================
+1. Aarughat (Gaunpalika)
+   आरूघाट गाउँपालिका
+   ID: 5385
+
+2. Ajirkot (Gaunpalika)
+   अजिरकोट गाउँपालिका
+   ID: 5384
+
+3. Bhimsen Thapa (Gaunpalika)
+   भिमसेनथापा गाउँपालिका
+   ID: 5391
+
+4. Chum Nubri (Gaunpalika)
+   चुमनुव्री गाउँपालिका
+   ID: 5388
+
+5. Dharche (Gaunpalika)
+   धार्चे गाउँपालिका
+   ID: 5389
+
+6. Gandaki (Gaunpalika)
+   गण्डकी गाउँपालिका
+   ID: 5386
+
+7. Gorkha (Nagarpalika)
+   गोरखा नगरपालिका
+   ID: 5387
+
+8. Palungtar (Nagarpalika)
+   पालुङटार नगरपालिका
+   ID: 5390
+
+9. Sahid Lakhan (Gaunpalika)
+   शहिद लखन गाउँपालिका
+   ID: 5392
+
+10. Siranchok (Gaunpalika)
+    सिरानचोक गाउँपालिका
+    ID: 5393
+
+11. Barpak Sulikot (Gaunpalika)
+    बारपाक सुलिकोट गाउँपालिका
+    ID: 5394
+
+================================================================================
+DISTRICT 2: Manang / मनाङ
+Municipalities: 4
+================================================================================
+1. Chame (Gaunpalika)
+   चामे गाउँपालिका
+   ID: 5395
+
+2. Narpa Bhumi (Gaunpalika)
+   नार्पा भूमि गाउँपालिका
+   ID: 5396
+
+3. Nasho (Gaunpalika)
+   नासोँ गाउँपालिका
+   ID: 5397
+
+4. Manang Nshiang (Gaunpalika)
+   मनाङ ङिस्याङ गाउँपालिका
+   ID: 5398
+
+================================================================================
+DISTRICT 3: Lamjung / लमजुङ
+Municipalities: 8
+================================================================================
+1. Besishahar (Nagarpalika)
+   बेसीशहर नगरपालिका
+   ID: 5402
+
+2. Dordi (Gaunpalika)
+   दोर्दी गाउँपालिका
+   ID: 5401
+
+3. Dudhpokhari (Gaunpalika)
+   दूधपोखरी गाउँपालिका
+   ID: 5400
+
+4. Kwholasothar (Gaunpalika)
+   क्व्होलासोथार गाउँपालिका
+   ID: 5399
+
+5. MadhyaNepal (Nagarpalika)
+   मध्यनेपाल नगरपालिका
+   ID: 5403
+
+6. Marsyangdi (Gaunpalika)
+   मर्स्याङदी गाउँपालिका
+   ID: 5404
+
+7. Rainas (Nagarpalika)
+   राइनास नगरपालिका
+   ID: 5405
+
+8. Sundarbazar (Nagarpalika)
+   सुन्दरबजार नगरपालिका
+   ID: 5406
+
+================================================================================
+DISTRICT 4: Kaski / कास्की
+Municipalities: 5
+================================================================================
+1. Annapurna (Gaunpalika)
+   अन्नपूर्ण गाउँपालिका
+   ID: 5407
+
+2. Machhapuchchhre (Gaunpalika)
+   माछापुछ्रे गाउँपालिका
+   ID: 5409
+
+3. Madi (Gaunpalika)
+   मादी गाउँपालिका
+   ID: 5410
+
+4. Pokhara Lekhnath (Mahanagarpalika)
+   पोखरा महानगरपालिका
+   ID: 5408
+
+5. Rupa (Gaunpalika)
+   रूपा गाउँपालिका
+   ID: 5411
+
+================================================================================
+DISTRICT 5: Tanahu / तनहुँ
+Municipalities: 10
+================================================================================
+1. Anbukhaireni (Gaunpalika)
+   आँबुखैरेनी गाउँपालिका
+   ID: 5412
+
+2. Bandipur (Gaunpalika)
+   बन्दिपुर गाउँपालिका
+   ID: 5416
+
+3. Bhanu (Nagarpalika)
+   भानु नगरपालिका
+   ID: 5417
+
+4. Bhimad (Nagarpalika)
+   भिमाद नगरपालिका
+   ID: 5418
+
+5. Byas (Nagarpalika)
+   व्यास नगरपालिका
+   ID: 5420
+
+6. Devghat (Gaunpalika)
+   देवघाट गाउँपालिका
+   ID: 5415
+
+7. Ghiring (Gaunpalika)
+   घिरिङ गाउँपालिका
+   ID: 5414
+
+8. Myagde (Gaunpalika)
+   म्याग्दे गाउँपालिका
+   ID: 5419
+
+9. Rhishing (Gaunpalika)
+   ऋषिङ्ग गाउँपालिका
+   ID: 5413
+
+10. Shuklagandaki (Nagarpalika)
+    शुक्लागण्डकी नगरपालिका
+    ID: 5421
+
+================================================================================
+DISTRICT 6: Syangja / स्याङजा
+Municipalities: 11
+================================================================================
+1. Aandhikhola (Gaunpalika)
+   आँधिखोला गाउँपालिका
+   ID: 5423
+
+2. Arjunchaupari (Gaunpalika)
+   अर्जुनचौपारी गाउँपालिका
+   ID: 5422
+
+3. Bhirkot (Nagarpalika)
+   भीरकोट नगरपालिका
+   ID: 5429
+
+4. Biruwa (Gaunpalika)
+   विरुवा गाउँपालिका
+   ID: 5431
+
+5. Chapakot (Nagarpalika)
+   चापाकोट नगरपालिका
+   ID: 5426
+
+6. Galyang (Nagarpalika)
+   गल्याङ नगरपालिका
+   ID: 5425
+
+7. Harinas (Gaunpalika)
+   हरिनास गाउँपालिका
+   ID: 5432
+
+8. Kaligandagi (Gaunpalika)
+   कालीगण्डकी गाउँपालिका
+   ID: 5424
+
+9. Phedikhola (Gaunpalika)
+   फेदीखोला गाउँपालिका
+   ID: 5428
+
+10. Putalibazar (Nagarpalika)
+    पुतलीबजार नगरपालिका
+    ID: 5427
+
+11. Waling (Nagarpalika)
+    वालिङ नगरपालिका
+    ID: 5430
+
+================================================================================
+DISTRICT 7: Nawalpur / नवलपरासी (बर्दघाट सुस्ता पूर्व)
+Municipalities: 8
+================================================================================
+1. Binayee Tribeni (Gaunpalika)
+   विनयी त्रिवेणी गाउँपालिका
+   ID: 5472
+
+2. Bulingtar (Gaunpalika)
+   बुलिङटार गाउँपालिका
+   ID: 5469
+
+3. Bungdikali (Gaunpalika)
+   बौदीकाली गाउँपालिका
+   ID: 5468
+
+4. Devchuli (Nagarpalika)
+   देवचुली नगरपालिका
+   ID: 5464
+
+5. Gaidakot (Nagarpalika)
+   गैंडाकोट नगरपालिका
+   ID: 5462
+
+6. Hupsekot (Gaunpalika)
+   हुप्सेकोट गाउँपालिका
+   ID: 5475
+
+7. Kawasoti (Nagarpalika)
+   कावासोती नगरपालिका
+   ID: 5461
+
+8. Madhyabindu (Nagarpalika)
+   मध्यविन्दु नगरपालिका
+   ID: 5470
+
+================================================================================
+DISTRICT 8: Mustang / मुस्ताङ
+Municipalities: 5
+================================================================================
+1. Waragun Muktikshetra (Gaunpalika)
+   वारागुङ मुक्तिक्षेत्र गाउँपालिका
+   ID: 5505
+
+2. Lo-Ghekar Damodarkunda (Gaunpalika)
+   लो-घेकर दामोदरकुण्ड गाउँपालिका
+   ID: 5504
+
+3. Gharapjhong (Gaunpalika)
+   घरपझोङ गाउँपालिका
+   ID: 5502
+
+4. Lomanthang (Gaunpalika)
+   लोमन्थाङ गाउँपालिका
+   ID: 5506
+
+5. Thasang (Gaunpalika)
+   थासाङ गाउँपालिका
+   ID: 5503
+
+================================================================================
+DISTRICT 9: Myagdi / म्याग्दी
+Municipalities: 6
+================================================================================
+1. Annapurna (Gaunpalika)
+   अन्नपूर्ण गाउँपालिका
+   ID: 5507
+
+2. Beni (Nagarpalika)
+   बेनी नगरपालिका
+   ID: 5509
+
+3. Dhaulagiri (Gaunpalika)
+   धवलागिरी गाउँपालिका
+   ID: 5508
+
+4. Malika (Gaunpalika)
+   मालिका गाउँपालिका
+   ID: 5511
+
+5. Mangala (Gaunpalika)
+   मंगला गाउँपालिका
+   ID: 5510
+
+6. Raghuganga (Gaunpalika)
+   रघुगंगा गाउँपालिका
+   ID: 5512
+
+================================================================================
+DISTRICT 10: Baglung / बाग्लुङ
+Municipalities: 10
+================================================================================
+1. Badigad (Gaunpalika)
+   वडिगाड गाउँपालिका
+   ID: 5521
+
+2. Baglung (Nagarpalika)
+   बागलुङ नगरपालिका
+   ID: 5520
+
+3. Bareng (Gaunpalika)
+   वरेङ गाउँपालिका
+   ID: 5522
+
+4. Dhorpatan (Nagarpalika)
+   ढोरपाटन नगरपालिका
+   ID: 5516
+
+5. Galkot (Nagarpalika)
+   गल्कोट नगरपालिका
+   ID: 5514
+
+6. Jaimini (Nagarpalika)
+   जैमिनी नगरपालिका
+   ID: 5515
+
+7. Kanthekhola (Gaunpalika)
+   काठेखोला गाउँपालिका
+   ID: 5513
+
+8. Nisikhola (Gaunpalika)
+   निसीखोला गाउँपालिका
+   ID: 5519
+
+9. Taman Khola (Gaunpalika)
+   तमानखोला गाउँपालिका
+   ID: 5517
+
+10. Tara Khola (Gaunpalika)
+    ताराखोला गाउँपालिका
+    ID: 5518
+
+================================================================================
+DISTRICT 11: Parbat / पर्वत
+Municipalities: 7
+================================================================================
+1. Bihadi (Gaunpalika)
+   विहादी गाउँपालिका
+   ID: 5529
+
+2. Jaljala (Gaunpalika)
+   जलजला गाउँपालिका
+   ID: 5524
+
+3. Kushma (Nagarpalika)
+   कुश्मा नगरपालिका
+   ID: 5523
+
+4. Mahashila (Gaunpalika)
+   महाशिला गाउँपालिका
+   ID: 5527
+
+5. Modi (Gaunpalika)
+   मोदी गाउँपालिका
+   ID: 5528
+
+6. Painyu (Gaunpalika)
+   पैयूं गाउँपालिका
+   ID: 5525
+
+7. Phalebas (Nagarpalika)
+   फलेवास नगरपालिका
+   ID: 5526
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Mahanagarpalika = Metropolitan City
+- Protected areas (Dhorpatan Hunting Reserve, Chitawan National Park) are not municipalities
+================================================================================
+================================================================================
+PROVINCE 5 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Lumbini Pradesh / लुम्बिनी
+Districts: 12
+Total Municipalities: 109
+
+================================================================================
+
+DISTRICT 1: Gulmi / गुल्मी
+Municipalities: 12
+================================================================================
+1. Chandrakot (Gaunpalika)
+   चन्द्रकोट गाउँपालिका
+   ID: 5436
+
+2. Chatrakot (Gaunpalika)
+   छत्रकोट गाउँपालिका
+   ID: 5437
+
+3. Dhurkot (Gaunpalika)
+   धुर्कोट गाउँपालिका
+   ID: 5438
+
+4. Gulmidarbar (Gaunpalika)
+   गुल्मी दरबार गाउँपालिका
+   ID: 5435
+
+5. Isma (Gaunpalika)
+   इस्मा गाउँपालिका
+   ID: 5433
+
+6. Kaligandaki (Gaunpalika)
+   कालीगण्डकी गाउँपालिका
+   ID: 5434
+
+7. Madane (Gaunpalika)
+   मदाने गाउँपालिका
+   ID: 5439
+
+8. Malika (Gaunpalika)
+   मालिका गाउँपालिका
+   ID: 5440
+
+9. Musikot (Nagarpalika)
+   मुसिकोट नगरपालिका
+   ID: 5441
+
+10. Resunga (Nagarpalika)
+    रेसुङ्गा नगरपालिका
+    ID: 5443
+
+11. Ruru (Gaunpalika)
+    रुरुक्षेत्र गाउँपालिका
+    ID: 5442
+
+12. Satyawati (Gaunpalika)
+    सत्यवती गाउँपालिका
+    ID: 5444
+
+================================================================================
+DISTRICT 2: Palpa / पाल्पा
+Municipalities: 10
+================================================================================
+1. Bagnaskali (Gaunpalika)
+   बगनासकाली गाउँपालिका
+   ID: 5449
+
+2. Mathagadhi (Gaunpalika)
+   माथागढी गाउँपालिका
+   ID: 5450
+
+3. Nisdi (Gaunpalika)
+   निस्दी गाउँपालिका
+   ID: 5447
+
+4. Purbakhola (Gaunpalika)
+   पूर्वखोला गाउँपालिका
+   ID: 5448
+
+5. Rainadevi Chhahara (Gaunpalika)
+   रैनादेवी छहरा गाउँपालिका
+   ID: 5454
+
+6. Rambha (Gaunpalika)
+   रम्भा गाउँपालिका
+   ID: 5451
+
+7. Rampur (Nagarpalika)
+   रामपुर नगरपालिका
+   ID: 5452
+
+8. Ribdikot (Gaunpalika)
+   रिब्दीकोट गाउँपालिका
+   ID: 5453
+
+9. Tansen (Nagarpalika)
+   तानसेन नगरपालिका
+   ID: 5445
+
+10. Tinau (Gaunpalika)
+    तिनाउ गाउँपालिका
+    ID: 5446
+
+================================================================================
+DISTRICT 3: Arghakhanchi / अर्घाखाँची
+Municipalities: 6
+================================================================================
+1. Bhumekasthan (Nagarpalika)
+   भूमिकास्थान नगरपालिका
+   ID: 5457
+
+2. Chhatradev (Gaunpalika)
+   छत्रदेव गाउँपालिका
+   ID: 5455
+
+3. Malarani (Gaunpalika)
+   मालारानी गाउँपालिका
+   ID: 5458
+
+4. Panini (Gaunpalika)
+   पाणिनी गाउँपालिका
+   ID: 5456
+
+5. Sandhikharka (Nagarpalika)
+   सन्धिखर्क नगरपालिका
+   ID: 5459
+
+6. Sitganga (Nagarpalika)
+   शितगंगा नगरपालिका
+   ID: 5460
+
+================================================================================
+DISTRICT 4: Rupandehi / रूपन्देही
+Municipalities: 16
+================================================================================
+1. Butwal (Upamahanagarpalika)
+   बुटवल उपमहानगरपालिका
+   ID: 5482
+
+2. Devdaha (Nagarpalika)
+   देवदह नगरपालिका
+   ID: 5481
+
+3. Gaidahawa (Gaunpalika)
+   गैडहवा गाउँपालिका
+   ID: 5479
+
+4. Kanchan (Gaunpalika)
+   कञ्चन गाउँपालिका
+   ID: 5477
+
+5. Kotahimai (Gaunpalika)
+   कोटहीमाई गाउँपालिका
+   ID: 5478
+
+6. Lumbini Sanskritik (Nagarpalika)
+   लुम्बिनी साँस्कृतिक नगरपालिका
+   ID: 5486
+
+7. Marchawari (Gaunpalika)
+   मर्चवारी गाउँपालिका
+   ID: 5483
+
+8. Mayadevi (Gaunpalika)
+   मायादेवी गाउँपालिका
+   ID: 5484
+
+9. Omsatiya (Gaunpalika)
+   ओमसतिया गाउँपालिका
+   ID: 5476
+
+10. Rohini (Gaunpalika)
+    रोहिणी गाउँपालिका
+    ID: 5485
+
+11. Sainamaina (Nagarpalika)
+    सैनामैना नगरपालिका
+    ID: 5491
+
+12. Sammarimai (Gaunpalika)
+    सम्मरीमाई गाउँपालिका
+    ID: 5488
+
+13. Siddharthanagar (Nagarpalika)
+    सिद्धार्थनगर नगरपालिका
+    ID: 5489
+
+14. Siyari (Gaunpalika)
+    सियारी गाउँपालिका
+    ID: 5490
+
+15. Sudhdhodhan (Gaunpalika)
+    शुद्धोधन गाउँपालिका
+    ID: 5487
+
+16. Tillotama (Nagarpalika)
+    तिलोत्तमा नगरपालिका
+    ID: 5480
+
+================================================================================
+DISTRICT 5: Kapilbastu / कपिलवस्तु
+Municipalities: 10
+================================================================================
+1. Banganga (Nagarpalika)
+   बाणगंगा नगरपालिका
+   ID: 5494
+
+2. Bijayanagar (Gaunpalika)
+   विजयनगर गाउँपालिका
+   ID: 5499
+
+3. Buddhabhumi (Nagarpalika)
+   बुद्धभुमी नगरपालिका
+   ID: 5495
+
+4. Kapilbastu (Nagarpalika)
+   कपिलवस्तु नगरपालिका
+   ID: 5492
+
+5. Krishnanagar (Nagarpalika)
+   कृष्णनगर नगरपालिका
+   ID: 5493
+
+6. Maharajgunj (Nagarpalika)
+   महाराजगंज नगरपालिका
+   ID: 5496
+
+7. Mayadevi (Gaunpalika)
+   मायादेवी गाउँपालिका
+   ID: 5497
+
+8. Shivaraj (Nagarpalika)
+   शिवराज नगरपालिका
+   ID: 5500
+
+9. Suddhodhan (Gaunpalika)
+   शुद्धोधन गाउँपालिका
+   ID: 5501
+
+10. Yashodhara (Gaunpalika)
+    यसोधरा गाउँपालिका
+    ID: 5498
+
+================================================================================
+DISTRICT 6: Rukum East / रुकुम पूर्व
+Municipalities: 3
+================================================================================
+1. Bhume (Gaunpalika)
+   भूमे गाउँपालिका
+   ID: 5535
+
+2. Putha Uttarganga (Gaunpalika)
+   पुथा उत्तरगंगा गाउँपालिका
+   ID: 5533
+
+3. Sisne (Gaunpalika)
+   सिस्ने गाउँपालिका
+   ID: 5538
+
+================================================================================
+DISTRICT 7: Rolpa / रोल्पा
+Municipalities: 10
+================================================================================
+1. Pariwartan (Gaunpalika)
+   परिवर्तन गाउँपालिका
+   ID: 5541
+
+2. Lungri (Gaunpalika)
+   लुङग्री गाउँपालिका
+   ID: 5545
+
+3. Madi (Gaunpalika)
+   माडी गाउँपालिका
+   ID: 5542
+
+4. Runtigadi (Gaunpalika)
+   रुन्टीगढी गाउँपालिका
+   ID: 5543
+
+5. Sukidaha (Gaunpalika)
+   सुनिल स्मृति गाउँपालिका
+   ID: 5548
+
+6. Sunchhahari (Gaunpalika)
+   सुनछहरी गाउँपालिका
+   ID: 5547
+
+7. Suwarnabati (Gaunpalika)
+   गंगादेव गाउँपालिका
+   ID: 5546
+
+8. Thawang (Gaunpalika)
+   थवाङ गाउँपालिका
+   ID: 5540
+
+9. Tribeni (Gaunpalika)
+   त्रिवेणी गाउँपालिका
+   ID: 5539
+
+10. Rolpa (Nagarpalika)
+    रोल्पा नगरपालिका
+    ID: 5544
+
+================================================================================
+DISTRICT 8: Pyuthan / प्युठान
+Municipalities: 9
+================================================================================
+1. Ayirabati (Gaunpalika)
+   ऐरावती गाउँपालिका
+   ID: 5549
+
+2. Gaumukhi (Gaunpalika)
+   गौमुखी गाउँपालिका
+   ID: 5550
+
+3. Jhimruk (Gaunpalika)
+   झिमरुक गाउँपालिका
+   ID: 5551
+
+4. Mallarani (Gaunpalika)
+   मल्लरानी गाउँपालिका
+   ID: 5554
+
+5. Mandavi (Gaunpalika)
+   माण्डवी गाउँपालिका
+   ID: 5555
+
+6. Naubahini (Gaunpalika)
+   नौबहिनी गाउँपालिका
+   ID: 5552
+
+7. Pyuthan (Nagarpalika)
+   प्यूठान नगरपालिका
+   ID: 5553
+
+8. Sarumarani (Gaunpalika)
+   सरुमारानी गाउँपालिका
+   ID: 5556
+
+9. Sworgadwary (Nagarpalika)
+   स्वर्गद्वारी नगरपालिका
+   ID: 5557
+
+================================================================================
+DISTRICT 9: Dang / दाङ
+Municipalities: 10
+================================================================================
+1. Babai (Gaunpalika)
+   बबई गाउँपालिका
+   ID: 5573
+
+2. Banglachuli (Gaunpalika)
+   बंगलाचुली गाउँपालिका
+   ID: 5572
+
+3. Dangisharan (Gaunpalika)
+   दंगीशरण गाउँपालिका
+   ID: 5571
+
+4. Gadhawa (Gaunpalika)
+   गढवा गाउँपालिका
+   ID: 5568
+
+5. Ghorahi (Upamahanagarpalika)
+   घोराही उपमहानगरपालिका
+   ID: 5569
+
+6. Lamahi (Nagarpalika)
+   लमही नगरपालिका
+   ID: 5576
+
+7. Rajpur (Gaunpalika)
+   राजपुर गाउँपालिका
+   ID: 5574
+
+8. Rapti (Gaunpalika)
+   राप्ती गाउँपालिका
+   ID: 5575
+
+9. Shantinagar (Gaunpalika)
+   शान्तिनगर गाउँपालिका
+   ID: 5577
+
+10. Tulsipur (Upamahanagarpalika)
+    तुल्सीपुर उपमहानगरपालिका
+    ID: 5570
+
+================================================================================
+DISTRICT 10: Banke / बाँके
+Municipalities: 8
+================================================================================
+1. Baijanath (Gaunpalika)
+   बैजनाथ गाउँपालिका
+   ID: 5647
+
+2. Duduwa (Gaunpalika)
+   डुडुवा गाउँपालिका
+   ID: 5644
+
+3. Janki (Gaunpalika)
+   जानकी गाउँपालिका
+   ID: 5643
+
+4. Khajura (Gaunpalika)
+   खजुरा गाउँपालिका
+   ID: 5642
+
+5. Kohalpur (Nagarpalika)
+   कोहलपुर नगरपालिका
+   ID: 5641
+
+6. Narainapur (Gaunpalika)
+   नरैनापुर गाउँपालिका
+   ID: 5645
+
+7. Nepalgunj (Upamahanagarpalika)
+   नेपालगञ्ज उपमहानगरपालिका
+   ID: 5646
+
+8. Rapti Sonari (Gaunpalika)
+   राप्तीसोनारी गाउँपालिका
+   ID: 5648
+
+================================================================================
+DISTRICT 11: Bardiya / बर्दिया
+Municipalities: 8
+================================================================================
+1. Badhaiyatal (Gaunpalika)
+   बढैयाताल गाउँपालिका
+   ID: 5652
+
+2. Bansagadhi (Nagarpalika)
+   बाँसगढी नगरपालिका
+   ID: 5654
+
+3. Barbardiya (Nagarpalika)
+   बारबर्दिया नगरपालिका
+   ID: 5653
+
+4. Geruwa (Gaunpalika)
+   गेरुवा गाउँपालिका
+   ID: 5650
+
+5. Gulariya (Nagarpalika)
+   गुलरिया नगरपालिका
+   ID: 5649
+
+6. Madhuwan (Nagarpalika)
+   मधुवन नगरपालिका
+   ID: 5655
+
+7. Rajapur (Nagarpalika)
+   राजापुर नगरपालिका
+   ID: 5656
+
+8. Thakurbaba (Nagarpalika)
+   ठाकुरबाबा नगरपालिका
+   ID: 5651
+
+================================================================================
+DISTRICT 12: Parasi / नवलपरासी (बर्दघाट सुस्ता पश्चिम)
+Municipalities: 7
+================================================================================
+1. Bardaghat (Nagarpalika)
+   बर्दघाट नगरपालिका
+   ID: 5467
+
+2. Palhi Nandan (Gaunpalika)
+   पाल्हीनन्दन गाउँपालिका
+   ID: 5465
+
+3. Pratappur (Gaunpalika)
+   प्रतापपुर गाउँपालिका
+   ID: 5466
+
+4. Ramgram (Nagarpalika)
+   रामग्राम नगरपालिका
+   ID: 5471
+
+5. Sarawal (Gaunpalika)
+   सरावल गाउँपालिका
+   ID: 5473
+
+6. Sunwal (Nagarpalika)
+   सुनवल नगरपालिका
+   ID: 5474
+
+7. Susta (Gaunpalika)
+   सुस्ता गाउँपालिका
+   ID: 5463
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Upamahanagarpalika = Sub-Metropolitan City
+- Protected areas (Bardiya National Park, Dhorpatan Hunting Reserve, Lumbini Sanskritik Development Area) are not municipalities
+- Province 5 is officially named Lumbini Pradesh
+================================================================================
+================================================================================
+PROVINCE 6 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Karnali Pradesh / कर्णाली
+Districts: 10
+Total Municipalities: 79
+
+================================================================================
+
+DISTRICT 1: Dailekh / दैलेख
+Municipalities: 11
+================================================================================
+1. Aathabis (Nagarpalika)
+   आठबीस नगरपालिका
+   ID: 5621
+
+2. Bhagawatimai (Gaunpalika)
+   भगवतीमाई गाउँपालिका
+   ID: 5629
+
+3. Bhairabi (Gaunpalika)
+   भैरवी गाउँपालिका
+   ID: 5630
+
+4. Chamunda Bindrasaini (Nagarpalika)
+   चामुण्डा बिन्द्रासैनी नगरपालिका
+   ID: 5623
+
+5. Dullu (Nagarpalika)
+   दुल्लु नगरपालिका
+   ID: 5626
+
+6. Dungeshwor (Gaunpalika)
+   डुंगेश्वर गाउँपालिका
+   ID: 5625
+
+7. Gurans (Gaunpalika)
+   गुराँस गाउँपालिका
+   ID: 5622
+
+8. Mahabu (Gaunpalika)
+   महाबु गाउँपालिका
+   ID: 5631
+
+9. Narayan (Nagarpalika)
+   नारायण नगरपालिका
+   ID: 5627
+
+10. Naumule (Gaunpalika)
+    नौमुले गाउँपालिका
+    ID: 5628
+
+11. Thantikandh (Gaunpalika)
+    ठाँटीकाँध गाउँपालिका
+    ID: 5624
+
+================================================================================
+DISTRICT 2: Dolpa / डोल्पा
+Municipalities: 8
+================================================================================
+1. Chharka Tangsong (Gaunpalika)
+   छार्का ताङसोङ गाउँपालिका
+   ID: 5579
+
+2. Dolpo Buddha (Gaunpalika)
+   डोल्पो बुद्ध गाउँपालिका
+   ID: 5582
+
+3. Jagadulla (Gaunpalika)
+   जगदुल्ला गाउँपालिका
+   ID: 5580
+
+4. Kaike (Gaunpalika)
+   काईके गाउँपालिका
+   ID: 5578
+
+5. Mudkechula (Gaunpalika)
+   मुड्केचुला गाउँपालिका
+   ID: 5584
+
+6. Shey Phoksundo (Gaunpalika)
+   शे फोक्सुन्डो गाउँपालिका
+   ID: 5585
+
+7. Thuli Bheri (Nagarpalika)
+   ठुली भेरी नगरपालिका
+   ID: 5581
+
+8. Tripurasundari (Nagarpalika)
+   त्रिपुरासुन्दरी नगरपालिका
+   ID: 5583
+
+================================================================================
+DISTRICT 3: Humla / हुम्ला
+Municipalities: 7
+================================================================================
+1. Adanchuli (Gaunpalika)
+   अदानचुली गाउँपालिका
+   ID: 5607
+
+2. Chankheli (Gaunpalika)
+   चंखेली गाउँपालिका
+   ID: 5609
+
+3. Kharpunath (Gaunpalika)
+   खार्पुनाथ गाउँपालिका
+   ID: 5608
+
+4. Namkha (Gaunpalika)
+   नाम्खा गाउँपालिका
+   ID: 5611
+
+5. Sarkegad (Gaunpalika)
+   सर्केगाड गाउँपालिका
+   ID: 5612
+
+6. Simkot (Gaunpalika)
+   सिमकोट गाउँपालिका
+   ID: 5613
+
+7. Tanjakot (Gaunpalika)
+   ताँजाकोट गाउँपालिका
+   ID: 5610
+
+================================================================================
+DISTRICT 4: Jajarkot / जाजरकोट
+Municipalities: 7
+================================================================================
+1. Barekot (Gaunpalika)
+   बारेकोट गाउँपालिका
+   ID: 5618
+
+2. Bheri (Nagarpalika)
+   भेरी नगरपालिका
+   ID: 5619
+
+3. Chhedagad (Nagarpalika)
+   छेडागाड नगरपालिका
+   ID: 5615
+
+4. Junichande (Gaunpalika)
+   जुनीचाँदे गाउँपालिका
+   ID: 5616
+
+5. Kuse (Gaunpalika)
+   कुसे गाउँपालिका
+   ID: 5614
+
+6. Shiwalaya (Gaunpalika)
+   शिवालय गाउँपालिका
+   ID: 5620
+
+7. Nalagad (Nagarpalika)
+   नलगाड नगरपालिका
+   ID: 5617
+
+================================================================================
+DISTRICT 5: Jumla / जुम्ला
+Municipalities: 8
+================================================================================
+1. Chandannath (Nagarpalika)
+   चन्दननाथ नगरपालिका
+   ID: 5592
+
+2. Guthichaur (Gaunpalika)
+   गुठिचौर गाउँपालिका
+   ID: 5591
+
+3. Hima (Gaunpalika)
+   हिमा गाउँपालिका
+   ID: 5597
+
+4. Kanakasundari (Gaunpalika)
+   कनकासुन्दरी गाउँपालिका
+   ID: 5590
+
+5. Patrasi (Gaunpalika)
+   पातारासी गाउँपालिका
+   ID: 5595
+
+6. Sinja (Gaunpalika)
+   सिंजा गाउँपालिका
+   ID: 5596
+
+7. Tatopani (Gaunpalika)
+   तातोपानी गाउँपालिका
+   ID: 5593
+
+8. Tila (Gaunpalika)
+   तिला गाउँपालिका
+   ID: 5594
+
+================================================================================
+DISTRICT 6: Kalikot / कालिकोट
+Municipalities: 9
+================================================================================
+1. Kalika (Gaunpalika)
+   शुभ कालीका गाउँपालिका
+   ID: 5598
+
+2. Khandachakra (Nagarpalika)
+   खाँडाचक्र नगरपालिका
+   ID: 5599
+
+3. Mahawai (Gaunpalika)
+   महावै गाउँपालिका
+   ID: 5604
+
+4. Naraharinath (Gaunpalika)
+   नरहरिनाथ गाउँपालिका
+   ID: 5601
+
+5. Pachaljharana (Gaunpalika)
+   पचालझरना गाउँपालिका
+   ID: 5602
+
+6. Palata (Gaunpalika)
+   पलाता गाउँपालिका
+   ID: 5603
+
+7. Raskot (Nagarpalika)
+   रास्कोट नगरपालिका
+   ID: 5605
+
+8. Sanni Tribeni (Gaunpalika)
+   सान्नी त्रिवेणी गाउँपालिका
+   ID: 5606
+
+9. Tilagufa (Nagarpalika)
+   तिलागुफा नगरपालिका
+   ID: 5600
+
+================================================================================
+DISTRICT 7: Mugu / मुगु
+Municipalities: 4
+================================================================================
+1. Chhayanath Rara (Nagarpalika)
+   छायाँनाथ रारा नगरपालिका
+   ID: 5587
+
+2. Khatyad (Gaunpalika)
+   खत्याड गाउँपालिका
+   ID: 5586
+
+3. Mugu mkarmarong (Gaunpalika)
+   मुगूम कार्मारोङ गाउँपालिका
+   ID: 5588
+
+4. Soru (Gaunpalika)
+   सोरु गाउँपालिका
+   ID: 5589
+
+================================================================================
+DISTRICT 8: Rukum West / रुकुम पश्चिम
+Municipalities: 6
+================================================================================
+1. Aathbiskot (Nagarpalika)
+   आठबिसकोट नगरपालिका
+   ID: 5530
+
+2. Banfikot (Gaunpalika)
+   बाँफिकोट गाउँपालिका
+   ID: 5534
+
+3. Chaurjahari (Nagarpalika)
+   चौरजहारी नगरपालिका
+   ID: 5531
+
+4. Sani Bheri (Gaunpalika)
+   सानीभेरी गाउँपालिका
+   ID: 5537
+
+5. Tribeni (Gaunpalika)
+   त्रिवेणी गाउँपालिका
+   ID: 5532
+
+6. Musikot (Nagarpalika)
+   मुसिकोट नगरपालिका
+   ID: 5536
+
+================================================================================
+DISTRICT 9: Salyan / सल्यान
+Municipalities: 10
+================================================================================
+1. Bagchaur (Nagarpalika)
+   बागचौर नगरपालिका
+   ID: 5566
+
+2. Bangad Kupinde (Nagarpalika)
+   बनगाड कुपिण्डे नगरपालिका
+   ID: 5565
+
+3. Chhatreshwori (Gaunpalika)
+   छत्रेश्वरी गाउँपालिका
+   ID: 5561
+
+4. Darma (Gaunpalika)
+   दार्मा गाउँपालिका
+   ID: 5564
+
+5. Siddha Kumakha (Gaunpalika)
+   सिद्ध कुमाख गाउँपालिका
+   ID: 5562
+
+6. Kalimati (Gaunpalika)
+   कालिमाटी गाउँपालिका
+   ID: 5559
+
+7. Kapurkot (Gaunpalika)
+   कपुरकोट गाउँपालिका
+   ID: 5558
+
+8. Kumakha (Gaunpalika)
+   कुमाख गाउँपालिका
+   ID: 5560
+
+9. Sharada (Nagarpalika)
+   शारदा नगरपालिका
+   ID: 5567
+
+10. Tribeni (Gaunpalika)
+    त्रिवेणी गाउँपालिका
+    ID: 5563
+
+================================================================================
+DISTRICT 10: Surkhet / सुर्खेत
+Municipalities: 9
+================================================================================
+1. Barahtal (Gaunpalika)
+   बराहताल गाउँपालिका
+   ID: 5636
+
+2. Bheriganga (Nagarpalika)
+   भेरीगंगा नगरपालिका
+   ID: 5638
+
+3. Birendranagar (Nagarpalika)
+   बीरेन्द्रनगर नगरपालिका
+   ID: 5637
+
+4. Chaukune (Gaunpalika)
+   चौकुने गाउँपालिका
+   ID: 5634
+
+5. Chingad (Gaunpalika)
+   चिङ्गाड गाउँपालिका
+   ID: 5633
+
+6. Gurbhakot (Nagarpalika)
+   गुर्भाकोट नगरपालिका
+   ID: 5632
+
+7. Lekbeshi (Nagarpalika)
+   लेकबेशी नगरपालिका
+   ID: 5639
+
+8. Panchpuri (Nagarpalika)
+   पञ्चपुरी नगरपालिका
+   ID: 5635
+
+9. Simta (Gaunpalika)
+   सिम्ता गाउँपालिका
+   ID: 5640
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Province 6 is officially named Karnali Pradesh
+- IDs range from 5530-5640 (non-sequential across districts)
+================================================================================
+================================================================================
+PROVINCE 7 BRIDGE FILE: GIS ↔ DATABASE MAPPING
+English Names (GIS) ↔ Nepali Names (DB) with IDs
+================================================================================
+
+PROVINCE: Sudurpashchim Pradesh / सुदूरपश्चिम
+Districts: 9
+Total Municipalities: 88
+
+================================================================================
+
+DISTRICT 1: Achham / अछाम
+Municipalities: 10
+================================================================================
+1. Bannigadhi Jayagadh (Gaunpalika)
+   बान्नीगढी जयगढ गाउँपालिका
+   ID: 5671
+
+2. Chaurpati (Gaunpalika)
+   चौरपाटी गाउँपालिका
+   ID: 5667
+
+3. Dhakari (Gaunpalika)
+   ढकारी गाउँपालिका
+   ID: 5668
+
+4. Kamalbazar (Nagarpalika)
+   कमलबजार नगरपालिका
+   ID: 5666
+
+5. Mangalsen (Nagarpalika)
+   मंगलसेन नगरपालिका
+   ID: 5672
+
+6. Mellekh (Gaunpalika)
+   मेल्लेख गाउँपालिका
+   ID: 5673
+
+7. Panchadewal Binayak (Nagarpalika)
+   पञ्चदेवल विनायक नगरपालिका
+   ID: 5670
+
+8. Ramaroshan (Gaunpalika)
+   रामारोशन गाउँपालिका
+   ID: 5674
+
+9. Sanphebagar (Nagarpalika)
+   साँफेवगर नगरपालिका
+   ID: 5675
+
+10. Turmakhad (Gaunpalika)
+    तुर्माखाँद गाउँपालिका
+    ID: 5669
+
+================================================================================
+DISTRICT 2: Baitadi / बैतडी
+Municipalities: 10
+================================================================================
+1. Dasharathchanda (Nagarpalika)
+   दशरथचन्द नगरपालिका
+   ID: 5720
+
+2. Dilasaini (Gaunpalika)
+   डीलासैनी गाउँपालिका
+   ID: 5719
+
+3. Dogadakedar (Gaunpalika)
+   दोगडाकेदार गाउँपालिका
+   ID: 5721
+
+4. Melauli (Nagarpalika)
+   मेलौली नगरपालिका
+   ID: 5725
+
+5. Pancheshwar (Gaunpalika)
+   पञ्चेश्वर गाउँपालिका
+   ID: 5722
+
+6. Patan (Nagarpalika)
+   पाटन नगरपालिका
+   ID: 5723
+
+7. Purchaudi (Nagarpalika)
+   पुर्चौडी नगरपालिका
+   ID: 5724
+
+8. Shivanath (Gaunpalika)
+   शिवनाथ गाउँपालिका
+   ID: 5726
+
+9. Sigas (Gaunpalika)
+   सिगास गाउँपालिका
+   ID: 5727
+
+10. Surnaya (Gaunpalika)
+    सुर्नया गाउँपालिका
+    ID: 5728
+
+================================================================================
+DISTRICT 3: Bajhang / बझाङ
+Municipalities: 12
+================================================================================
+1. Bithadchir (Gaunpalika)
+   वित्थडचिर गाउँपालिका
+   ID: 5686
+
+2. Bungal (Nagarpalika)
+   बुंगल नगरपालिका
+   ID: 5684
+
+3. Chabispathivera (Gaunpalika)
+   छबिसपाथिभेरा गाउँपालिका
+   ID: 5679
+
+4. Durgathali (Gaunpalika)
+   दुर्गाथली गाउँपालिका
+   ID: 5683
+
+5. JayaPrithivi (Nagarpalika)
+   जयपृथ्वी नगरपालिका
+   ID: 5680
+
+6. Saa Paal (Gaunpalika)
+   साइपाल गाउँपालिका
+   ID: 5676
+
+7. Kedarseu (Gaunpalika)
+   केदारस्युँ गाउँपालिका
+   ID: 5677
+
+8. Khaptadchhanna (Gaunpalika)
+   खप्तडछान्ना गाउँपालिका
+   ID: 5678
+
+9. Masta (Gaunpalika)
+   मष्टा गाउँपालिका
+   ID: 5685
+
+10. Surma (Gaunpalika)
+    सूर्मा गाउँपालिका
+    ID: 5687
+
+11. Talkot (Gaunpalika)
+    तलकोट गाउँपालिका
+    ID: 5681
+
+12. Thalara (Gaunpalika)
+    थलारा गाउँपालिका
+    ID: 5682
+
+================================================================================
+DISTRICT 4: Bajura / बाजुरा
+Municipalities: 9
+================================================================================
+1. Badimalika (Nagarpalika)
+   बडीमालिका नगरपालिका
+   ID: 5661
+
+2. Budhiganga (Nagarpalika)
+   बुढीगंगा नगरपालिका
+   ID: 5662
+
+3. Budhinanda (Nagarpalika)
+   बुढीनन्दा नगरपालिका
+   ID: 5663
+
+4. Chhededaha (Gaunpalika)
+   खप्तड छेडेदह गाउँपालिका
+   ID: 5658
+
+5. Gaumul (Gaunpalika)
+   गौमुल गाउँपालिका
+   ID: 5657
+
+6. Himali (Gaunpalika)
+   हिमाली गाउँपालिका
+   ID: 5665
+
+7. Jagannath (Gaunpalika)
+   जगन्नाथ गाउँपालिका
+   ID: 5660
+
+8. Swami Kartik (Gaunpalika)
+   स्वामीकार्तिक खापर गाउँपालिका
+   ID: 5664
+
+9. Tribeni (Nagarpalika)
+   त्रिवेणी नगरपालिका
+   ID: 5659
+
+================================================================================
+DISTRICT 5: Dadeldhura / डडेलधुरा
+Municipalities: 7
+================================================================================
+1. Ajaymeru (Gaunpalika)
+   अजयमेरु गाउँपालिका
+   ID: 5729
+
+2. Alital (Gaunpalika)
+   आलिताल गाउँपालिका
+   ID: 5731
+
+3. Amargadhi (Nagarpalika)
+   अमरगढी नगरपालिका
+   ID: 5730
+
+4. Bhageshwar (Gaunpalika)
+   भागेश्वर गाउँपालिका
+   ID: 5735
+
+5. Ganayapdhura (Gaunpalika)
+   गन्यापधुरा गाउँपालिका
+   ID: 5732
+
+6. Nawadurga (Gaunpalika)
+   नवदुर्गा गाउँपालिका
+   ID: 5733
+
+7. Parashuram (Nagarpalika)
+   परशुराम नगरपालिका
+   ID: 5734
+
+================================================================================
+DISTRICT 6: Darchula / दार्चुला
+Municipalities: 9
+================================================================================
+1. Apihimal (Gaunpalika)
+   अपिहिमाल गाउँपालिका
+   ID: 5710
+
+2. Byas (Gaunpalika)
+   व्याँस गाउँपालिका
+   ID: 5713
+
+3. Dunhu (Gaunpalika)
+   दुहुँ गाउँपालिका
+   ID: 5711
+
+4. Lekam (Gaunpalika)
+   लेकम गाउँपालिका
+   ID: 5717
+
+5. Mahakali (Nagarpalika)
+   महाकाली नगरपालिका
+   ID: 5714
+
+6. Malikaarjun (Gaunpalika)
+   मालिकार्जुन गाउँपालिका
+   ID: 5716
+
+7. Marma (Gaunpalika)
+   मार्मा गाउँपालिका
+   ID: 5715
+
+8. Naugad (Gaunpalika)
+   नौगाड गाउँपालिका
+   ID: 5712
+
+9. Shailyashikhar (Nagarpalika)
+   शैल्यशिखर नगरपालिका
+   ID: 5718
+
+================================================================================
+DISTRICT 7: Doti / डोटी
+Municipalities: 9
+================================================================================
+1. Adharsha (Gaunpalika)
+   आदर्श गाउँपालिका
+   ID: 5688
+
+2. Badikedar (Gaunpalika)
+   बडीकेदार गाउँपालिका
+   ID: 5693
+
+3. Bogtan (Gaunpalika)
+   बोगटान फुड्सिल गाउँपालिका
+   ID: 5694
+
+4. Dipayal Silgadi (Nagarpalika)
+   दिपायल सिलगढी नगरपालिका
+   ID: 5691
+
+5. Jorayal (Gaunpalika)
+   जोरायल गाउँपालिका
+   ID: 5690
+
+6. K I Sin (Gaunpalika)
+   के.आई.सिंह गाउँपालिका
+   ID: 5689
+
+7. Purbichauki (Gaunpalika)
+   पूर्वीचौकी गाउँपालिका
+   ID: 5692
+
+8. Sayal (Gaunpalika)
+   सायल गाउँपालिका
+   ID: 5696
+
+9. Shikhar (Nagarpalika)
+   शिखर नगरपालिका
+   ID: 5695
+
+================================================================================
+DISTRICT 8: Kailali / कैलाली
+Municipalities: 13
+================================================================================
+1. Bardagoriya (Gaunpalika)
+   बर्दगोरिया गाउँपालिका
+   ID: 5706
+
+2. Bhajani (Nagarpalika)
+   भजनी नगरपालिका
+   ID: 5707
+
+3. Chure (Gaunpalika)
+   चुरे गाउँपालिका
+   ID: 5701
+
+4. Dhangadhi (Upamahanagarpalika)
+   धनगढी उपमहानगरपालिका
+   ID: 5705
+
+5. Gauriganga (Nagarpalika)
+   गौरीगंगा नगरपालिका
+   ID: 5699
+
+6. Ghodaghodi (Nagarpalika)
+   घोडाघोडी नगरपालिका
+   ID: 5700
+
+7. Godawari (Nagarpalika)
+   गोदावरी नगरपालिका
+   ID: 5698
+
+8. Janaki (Gaunpalika)
+   जानकी गाउँपालिका
+   ID: 5702
+
+9. Joshipur (Gaunpalika)
+   जोशीपुर गाउँपालिका
+   ID: 5703
+
+10. Kailari (Gaunpalika)
+    कैलारी गाउँपालिका
+    ID: 5697
+
+11. Lamkichuha (Nagarpalika)
+    लम्कीचुहा नगरपालिका
+    ID: 5709
+
+12. Mohanyal (Gaunpalika)
+    मोहन्याल गाउँपालिका
+    ID: 5708
+
+13. Tikapur (Nagarpalika)
+    टिकापुर नगरपालिका
+    ID: 5704
+
+================================================================================
+DISTRICT 9: Kanchanpur / कञ्चनपुर
+Municipalities: 9
+================================================================================
+1. Bedkot (Nagarpalika)
+   बेदकोट नगरपालिका
+   ID: 5743
+
+2. Belauri (Nagarpalika)
+   बेलौरी नगरपालिका
+   ID: 5739
+
+3. Beldandi (Gaunpalika)
+   बेलडाँडी गाउँपालिका
+   ID: 5738
+
+4. Bhimdatta (Nagarpalika)
+   भीमदत्त नगरपालिका
+   ID: 5740
+
+5. Krishnapur (Nagarpalika)
+   कृष्णपुर नगरपालिका
+   ID: 5736
+
+6. Laljhadi (Gaunpalika)
+   लालझाडी गाउँपालिका
+   ID: 5742
+
+7. Mahakali (Nagarpalika)
+   दोधारा चाँदनी नगरपालिका
+   ID: 5741
+
+8. Punarbas (Nagarpalika)
+   पुनर्वास नगरपालिका
+   ID: 5737
+
+9. Shuklaphanta (Nagarpalika)
+   शुक्लाफाँटा नगरपालिका
+   ID: 5744
+
+================================================================================
+NOTES:
+- Nagarpalika = Municipality (Urban)
+- Gaunpalika = Rural Municipality
+- Upamahanagarpalika = Sub-Metropolitan City
+- Protected areas (Khaptad National Park, Shuklaphanta National Park, Kalapani Region) are not municipalities
+- Province 7 is officially named Sudurpashchim Pradesh
+- Total municipalities: 88 (excluding protected areas)
+- IDs range from 5657-5744
+================================================================================

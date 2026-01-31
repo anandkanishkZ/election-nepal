@@ -1,0 +1,65 @@
+{
+  "कोशी": {
+    "total_voters": 3574310,
+    "male_voters": 1828213,
+    "female_voters": 1746073,
+    "other_voters": 24,
+    "average_age": 46.4,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "मधेश": {
+    "total_voters": 3636414,
+    "male_voters": 1972964,
+    "female_voters": 1663374,
+    "other_voters": 76,
+    "average_age": 46.5,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "बागमती": {
+    "total_voters": 3682310,
+    "male_voters": 1852378,
+    "female_voters": 1829905,
+    "other_voters": 27,
+    "average_age": 47,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "गण्डकी": {
+    "total_voters": 1870065,
+    "male_voters": 914535,
+    "female_voters": 955516,
+    "other_voters": 14,
+    "average_age": 46.5,
+    "min_age": 18,
+    "max_age": 132
+  },
+  "लुम्बिनी": {
+    "total_voters": 3386680,
+    "male_voters": 1715163,
+    "female_voters": 1671479,
+    "other_voters": 38,
+    "average_age": 45.5,
+    "min_age": 18,
+    "max_age": 134
+  },
+  "कर्णाली": {
+    "total_voters": 1037250,
+    "male_voters": 527886,
+    "female_voters": 509361,
+    "other_voters": 3,
+    "average_age": 43.9,
+    "min_age": 18,
+    "max_age": 126
+  },
+  "सुदूरपश्चिम": {
+    "total_voters": 1716660,
+    "male_voters": 852219,
+    "female_voters": 864423,
+    "other_voters": 18,
+    "average_age": 45.4,
+    "min_age": 18,
+    "max_age": 132
+  }
+}

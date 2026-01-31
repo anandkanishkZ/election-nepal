@@ -1,0 +1,5884 @@
+{
+  "municipalities": {
+    "Aathrai Tribeni": {
+      "nepali": "आठराई त्रिवेणी गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "आठराई त्रिवेणी गाउँपालिका, ताप्लेजुङ"
+    },
+    "Maiwakhola": {
+      "nepali": "मैवाखोला गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मैवाखोला गाउँपालिका, ताप्लेजुङ"
+    },
+    "Meringden": {
+      "nepali": "मेरिङदेन गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मेरिङदेन गाउँपालिका, ताप्लेजुङ"
+    },
+    "Mikwakhola": {
+      "nepali": "मिक्वाखोला गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मिक्वाखोला गाउँपालिका, ताप्लेजुङ"
+    },
+    "Phaktanglung": {
+      "nepali": "फक्ताङलुङ गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फक्ताङलुङ गाउँपालिका, ताप्लेजुङ"
+    },
+    "Phungling": {
+      "nepali": "फुङलिङ नगरपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फुङलिङ नगरपालिका, ताप्लेजुङ"
+    },
+    "Sidingba": {
+      "nepali": "सिदिङ्वा गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सिदिङ्वा गाउँपालिका, ताप्लेजुङ"
+    },
+    "Sirijangha": {
+      "nepali": "सिरीजङ्घा गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सिरीजङ्घा गाउँपालिका, ताप्लेजुङ"
+    },
+    "Pathibhara Yangwarak": {
+      "nepali": "पाथीभरा याङवरक गाउँपालिका",
+      "district": "ताप्लेजुङ",
+      "districtEn": "Taplejung",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "पाथीभरा याङवरक गाउँपालिका, ताप्लेजुङ"
+    },
+    "Falelung": {
+      "nepali": "फालेलुङ गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फालेलुङ गाउँपालिका, पाँचथर"
+    },
+    "Falgunanda": {
+      "nepali": "फाल्गुनन्द गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फाल्गुनन्द गाउँपालिका, पाँचथर"
+    },
+    "Hilihang": {
+      "nepali": "हिलिहाङ गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "हिलिहाङ गाउँपालिका, पाँचथर"
+    },
+    "Kummayak": {
+      "nepali": "कुम्मायक गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कुम्मायक गाउँपालिका, पाँचथर"
+    },
+    "Miklajung": {
+      "nepali": "मिक्लाजुङ गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मिक्लाजुङ गाउँपालिका, मोरङ"
+    },
+    "Phidim": {
+      "nepali": "फिदिम नगरपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फिदिम नगरपालिका, पाँचथर"
+    },
+    "Tumbewa": {
+      "nepali": "तुम्वेवा गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "तुम्वेवा गाउँपालिका, पाँचथर"
+    },
+    "Yangwarak": {
+      "nepali": "याङवरक गाउँपालिका",
+      "district": "पाँचथर",
+      "districtEn": "Panchthar",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "याङवरक गाउँपालिका, पाँचथर"
+    },
+    "Chulachuli": {
+      "nepali": "चुलाचुली गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चुलाचुली गाउँपालिका, इलाम"
+    },
+    "Deumai": {
+      "nepali": "देउमाई नगरपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "देउमाई नगरपालिका, इलाम"
+    },
+    "Fakphokthum": {
+      "nepali": "फाकफोकथुम गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फाकफोकथुम गाउँपालिका, इलाम"
+    },
+    "Illam": {
+      "nepali": "इलाम नगरपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "इलाम नगरपालिका, इलाम"
+    },
+    "Mai": {
+      "nepali": "माई नगरपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "माई नगरपालिका, इलाम"
+    },
+    "Maijogmai": {
+      "nepali": "माईजोगमाई गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "माईजोगमाई गाउँपालिका, इलाम"
+    },
+    "Mangsebung": {
+      "nepali": "माङसेबुङ गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "माङसेबुङ गाउँपालिका, इलाम"
+    },
+    "Rong": {
+      "nepali": "रोङ गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रोङ गाउँपालिका, इलाम"
+    },
+    "Sandakpur": {
+      "nepali": "सन्दकपुर गाउँपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सन्दकपुर गाउँपालिका, इलाम"
+    },
+    "Suryodaya": {
+      "nepali": "सूर्योदय नगरपालिका",
+      "district": "इलाम",
+      "districtEn": "Ilam",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सूर्योदय नगरपालिका, इलाम"
+    },
+    "Arjundhara": {
+      "nepali": "अर्जुनधारा नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "अर्जुनधारा नगरपालिका, झापा"
+    },
+    "Barhadashi": {
+      "nepali": "बाह्रदशी गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "बाह्रदशी गाउँपालिका, झापा"
+    },
+    "Bhadrapur": {
+      "nepali": "भद्रपुर नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "भद्रपुर नगरपालिका, झापा"
+    },
+    "Birtamod": {
+      "nepali": "विर्तामोड नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "विर्तामोड नगरपालिका, झापा"
+    },
+    "Buddhashanti": {
+      "nepali": "बुद्धशान्ति गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "बुद्धशान्ति गाउँपालिका, झापा"
+    },
+    "Damak": {
+      "nepali": "दमक नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "दमक नगरपालिका, झापा"
+    },
+    "Gauradhaha": {
+      "nepali": "गौरादह नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "गौरादह नगरपालिका, झापा"
+    },
+    "Gauriganj": {
+      "nepali": "गौरीगञ्‍ज गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "गौरीगञ्‍ज गाउँपालिका, झापा"
+    },
+    "Haldibari": {
+      "nepali": "हल्दिबारी गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "हल्दिबारी गाउँपालिका, झापा"
+    },
+    "Jhapa": {
+      "nepali": "झापा गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "झापा गाउँपालिका, झापा"
+    },
+    "Kachankawal": {
+      "nepali": "कचनकवल गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कचनकवल गाउँपालिका, झापा"
+    },
+    "Kamal": {
+      "nepali": "कमल गाउँपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कमल गाउँपालिका, झापा"
+    },
+    "Kankai": {
+      "nepali": "कन्काई नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कन्काई नगरपालिका, झापा"
+    },
+    "Mechinagar": {
+      "nepali": "मेचीनगर नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मेचीनगर नगरपालिका, झापा"
+    },
+    "Shivasataxi": {
+      "nepali": "शिवसताक्षी नगरपालिका",
+      "district": "झापा",
+      "districtEn": "Jhapa",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "शिवसताक्षी नगरपालिका, झापा"
+    },
+    "Bhotkhola": {
+      "nepali": "भोटखोला गाउँपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "भोटखोला गाउँपालिका, संखुवासभा"
+    },
+    "Chainpur": {
+      "nepali": "चैनपुर नगरपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चैनपुर नगरपालिका, संखुवासभा"
+    },
+    "Chichila": {
+      "nepali": "चिचिला गाउँपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चिचिला गाउँपालिका, संखुवासभा"
+    },
+    "Dharmadevi": {
+      "nepali": "धर्मदेवी नगरपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "धर्मदेवी नगरपालिका, संखुवासभा"
+    },
+    "Khandbari": {
+      "nepali": "खाँदवारी नगरपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "खाँदवारी नगरपालिका, संखुवासभा"
+    },
+    "Madi": {
+      "nepali": "माडी गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "माडी गाउँपालिका, रोल्पा"
+    },
+    "Makalu": {
+      "nepali": "मकालु गाउँपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मकालु गाउँपालिका, संखुवासभा"
+    },
+    "Panchakhapan": {
+      "nepali": "पाँचखपन नगरपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "पाँचखपन नगरपालिका, संखुवासभा"
+    },
+    "Sabhapokhari": {
+      "nepali": "सभापोखरी गाउँपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सभापोखरी गाउँपालिका, संखुवासभा"
+    },
+    "Silichong": {
+      "nepali": "सिलीचोङ गाउँपालिका",
+      "district": "संखुवासभा",
+      "districtEn": "Sankhuwasabha",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सिलीचोङ गाउँपालिका, संखुवासभा"
+    },
+    "Aathrai": {
+      "nepali": "आठराई गाउँपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "आठराई गाउँपालिका, तेह्रथुम"
+    },
+    "Chhathar": {
+      "nepali": "छथर गाउँपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "छथर गाउँपालिका, तेह्रथुम"
+    },
+    "Laligurans": {
+      "nepali": "लालीगुराँस नगरपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "लालीगुराँस नगरपालिका, तेह्रथुम"
+    },
+    "Menchayam": {
+      "nepali": "मेन्छयायेम गाउँपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मेन्छयायेम गाउँपालिका, तेह्रथुम"
+    },
+    "Myanglung": {
+      "nepali": "म्याङलुङ नगरपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "म्याङलुङ नगरपालिका, तेह्रथुम"
+    },
+    "Phedap": {
+      "nepali": "फेदाप गाउँपालिका",
+      "district": "तेह्रथुम",
+      "districtEn": "Terhathum",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "फेदाप गाउँपालिका, तेह्रथुम"
+    },
+    "Aamchowk": {
+      "nepali": "आमचोक गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "आमचोक गाउँपालिका, भोजपुर"
+    },
+    "Arun": {
+      "nepali": "अरुण गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "अरुण गाउँपालिका, भोजपुर"
+    },
+    "Bhojpur": {
+      "nepali": "भोजपुर नगरपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "भोजपुर नगरपालिका, भोजपुर"
+    },
+    "Hatuwagadhi": {
+      "nepali": "हतुवागढी गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "हतुवागढी गाउँपालिका, भोजपुर"
+    },
+    "Pauwadungma": {
+      "nepali": "पौवादुङमा गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "पौवादुङमा गाउँपालिका, भोजपुर"
+    },
+    "Ramprasad Rai": {
+      "nepali": "रामप्रसाद राई गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रामप्रसाद राई गाउँपालिका, भोजपुर"
+    },
+    "Salpasilichho": {
+      "nepali": "साल्पासिलिछो गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "साल्पासिलिछो गाउँपालिका, भोजपुर"
+    },
+    "Shadananda": {
+      "nepali": "षडानन्द नगरपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "षडानन्द नगरपालिका, भोजपुर"
+    },
+    "Tyamkemaiyung": {
+      "nepali": "टेम्केमैयुङ गाउँपालिका",
+      "district": "भोजपुर",
+      "districtEn": "Bhojpur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "टेम्केमैयुङ गाउँपालिका, भोजपुर"
+    },
+    "Chaubise": {
+      "nepali": "चौबिसे गाउँपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चौबिसे गाउँपालिका, धनकुटा"
+    },
+    "Chhathar Jorpati": {
+      "nepali": "छथर जोरपाटी गाउँपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "छथर जोरपाटी गाउँपालिका, धनकुटा"
+    },
+    "Dhankuta": {
+      "nepali": "धनकुटा नगरपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "धनकुटा नगरपालिका, धनकुटा"
+    },
+    "Shahidbhumi": {
+      "nepali": "सहिदभूमि गाउँपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सहिदभूमि गाउँपालिका, धनकुटा"
+    },
+    "Mahalaxmi": {
+      "nepali": "महालक्ष्मी नगरपालिका",
+      "district": "ललितपुर",
+      "districtEn": "Lalitpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "महालक्ष्मी नगरपालिका, ललितपुर"
+    },
+    "Pakhribas": {
+      "nepali": "पाख्रिवास नगरपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "पाख्रिवास नगरपालिका, धनकुटा"
+    },
+    "Sangurigadhi": {
+      "nepali": "साँगुरीगढी गाउँपालिका",
+      "district": "धनकुटा",
+      "districtEn": "Dhankuta",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "साँगुरीगढी गाउँपालिका, धनकुटा"
+    },
+    "Belbari": {
+      "nepali": "बेलवारी नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "बेलवारी नगरपालिका, मोरङ"
+    },
+    "Biratnagar": {
+      "nepali": "विराटनगर महानगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "विराटनगर महानगरपालिका, मोरङ"
+    },
+    "Budhiganga": {
+      "nepali": "बुढीगंगा नगरपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बुढीगंगा नगरपालिका, बाजुरा"
+    },
+    "Dhanpalthan": {
+      "nepali": "धनपालथान गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "धनपालथान गाउँपालिका, मोरङ"
+    },
+    "Gramthan": {
+      "nepali": "ग्रामथान गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "ग्रामथान गाउँपालिका, मोरङ"
+    },
+    "Jahada": {
+      "nepali": "जहदा गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "जहदा गाउँपालिका, मोरङ"
+    },
+    "Kanepokhari": {
+      "nepali": "कानेपोखरी गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कानेपोखरी गाउँपालिका, मोरङ"
+    },
+    "Katahari": {
+      "nepali": "कटहरी गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कटहरी गाउँपालिका, मोरङ"
+    },
+    "Kerabari": {
+      "nepali": "केराबारी गाउँपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "केराबारी गाउँपालिका, मोरङ"
+    },
+    "Letang": {
+      "nepali": "लेटाङ नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "लेटाङ नगरपालिका, मोरङ"
+    },
+    "Patahrishanishchare": {
+      "nepali": "पथरी शनिश्चरे नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "पथरी शनिश्चरे नगरपालिका, मोरङ"
+    },
+    "Rangeli": {
+      "nepali": "रंगेली नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रंगेली नगरपालिका, मोरङ"
+    },
+    "Ratuwamai": {
+      "nepali": "रतुवामाई नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रतुवामाई नगरपालिका, मोरङ"
+    },
+    "Sundarharaicha": {
+      "nepali": "सुन्दरहरैँचा नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सुन्दरहरैँचा नगरपालिका, मोरङ"
+    },
+    "Sunwarshi": {
+      "nepali": "सुनवर्षी नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सुनवर्षी नगरपालिका, मोरङ"
+    },
+    "Uralabari": {
+      "nepali": "उर्लाबारी नगरपालिका",
+      "district": "मोरङ",
+      "districtEn": "Morang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "उर्लाबारी नगरपालिका, मोरङ"
+    },
+    "Barah": {
+      "nepali": "बराहक्षेत्र नगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "बराहक्षेत्र नगरपालिका, सुनसरी"
+    },
+    "Barju": {
+      "nepali": "बर्जु गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "बर्जु गाउँपालिका, सुनसरी"
+    },
+    "Bhokraha Narsingh": {
+      "nepali": "भोक्राहा नरसिंह गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "भोक्राहा नरसिंह गाउँपालिका, सुनसरी"
+    },
+    "Dewanganj": {
+      "nepali": "देवानगञ्ज गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "देवानगञ्ज गाउँपालिका, सुनसरी"
+    },
+    "Dharan": {
+      "nepali": "धरान उपमहानगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "धरान उपमहानगरपालिका, सुनसरी"
+    },
+    "Duhabi": {
+      "nepali": "दुहवी नगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "दुहवी नगरपालिका, सुनसरी"
+    },
+    "Gadhi": {
+      "nepali": "गढी गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "गढी गाउँपालिका, सुनसरी"
+    },
+    "Harinagar": {
+      "nepali": "हरिनगर गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "हरिनगर गाउँपालिका, सुनसरी"
+    },
+    "Inaruwa": {
+      "nepali": "इनरुवा नगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "इनरुवा नगरपालिका, सुनसरी"
+    },
+    "Itahari": {
+      "nepali": "इटहरी उपमहानगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "इटहरी उपमहानगरपालिका, सुनसरी"
+    },
+    "Koshi": {
+      "nepali": "कोशी गाउँपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कोशी गाउँपालिका, सुनसरी"
+    },
+    "Ramdhuni": {
+      "nepali": "रामधुनी नगरपालिका",
+      "district": "सुनसरी",
+      "districtEn": "Sunsari",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रामधुनी नगरपालिका, सुनसरी"
+    },
+    "Thulung Dudhkoshi": {
+      "nepali": "थुलुङ दुधकोशी गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "थुलुङ दुधकोशी गाउँपालिका, सोलुखुम्बु"
+    },
+    "Dudhkoshi": {
+      "nepali": "माप्य दुधकोशी गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "माप्य दुधकोशी गाउँपालिका, सोलुखुम्बु"
+    },
+    "Khumbupasanglahmu": {
+      "nepali": "खुम्बु पासाङल्हामु गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "खुम्बु पासाङल्हामु गाउँपालिका, सोलुखुम्बु"
+    },
+    "Likhupike": {
+      "nepali": "लिखु पिके गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "लिखु पिके गाउँपालिका, सोलुखुम्बु"
+    },
+    "Mahakulung": {
+      "nepali": "महाकुलुङ गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "महाकुलुङ गाउँपालिका, सोलुखुम्बु"
+    },
+    "Nechasalyan": {
+      "nepali": "नेचासल्यान गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "नेचासल्यान गाउँपालिका, सोलुखुम्बु"
+    },
+    "Solududhakunda": {
+      "nepali": "सोलुदुधकुण्ड नगरपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सोलुदुधकुण्ड नगरपालिका, सोलुखुम्बु"
+    },
+    "Sotang": {
+      "nepali": "सोताङ गाउँपालिका",
+      "district": "सोलुखुम्बु",
+      "districtEn": "Solukhumbu",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सोताङ गाउँपालिका, सोलुखुम्बु"
+    },
+    "Ainselukhark": {
+      "nepali": "ऐसेलुखर्क गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "ऐसेलुखर्क गाउँपालिका, खोटाङ"
+    },
+    "Barahapokhari": {
+      "nepali": "वराहपोखरी गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "वराहपोखरी गाउँपालिका, खोटाङ"
+    },
+    "Diprung": {
+      "nepali": "दिप्रुङ चुइचुम्मा गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "दिप्रुङ चुइचुम्मा गाउँपालिका, खोटाङ"
+    },
+    "Halesi Tuwachung": {
+      "nepali": "हलेसी तुवाचुङ नगरपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "हलेसी तुवाचुङ नगरपालिका, खोटाङ"
+    },
+    "Jantedhunga": {
+      "nepali": "जन्तेढुंगा गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "जन्तेढुंगा गाउँपालिका, खोटाङ"
+    },
+    "Kepilasagadhi": {
+      "nepali": "केपिलासगढी गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "केपिलासगढी गाउँपालिका, खोटाङ"
+    },
+    "Khotehang": {
+      "nepali": "खोटेहाङ गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "खोटेहाङ गाउँपालिका, खोटाङ"
+    },
+    "Rawa Besi": {
+      "nepali": "रावा बेसी गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रावा बेसी गाउँपालिका, खोटाङ"
+    },
+    "Rupakot Majhuwagadhi": {
+      "nepali": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका, खोटाङ"
+    },
+    "Sakela": {
+      "nepali": "साकेला गाउँपालिका",
+      "district": "खोटाङ",
+      "districtEn": "Khotang",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "साकेला गाउँपालिका, खोटाङ"
+    },
+    "Champadevi": {
+      "nepali": "चम्पादेवी गाउँपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चम्पादेवी गाउँपालिका, ओखलढुंगा"
+    },
+    "Chisankhugadhi": {
+      "nepali": "चिशंखुगढी गाउँपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चिशंखुगढी गाउँपालिका, ओखलढुंगा"
+    },
+    "Khijidemba": {
+      "nepali": "खिजीदेम्वा गाउँपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "खिजीदेम्वा गाउँपालिका, ओखलढुंगा"
+    },
+    "Likhu": {
+      "nepali": "लिखु गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "लिखु गाउँपालिका, नुवाकोट"
+    },
+    "Manebhanjyang": {
+      "nepali": "मानेभन्ज्याङ गाउँपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मानेभन्ज्याङ गाउँपालिका, ओखलढुंगा"
+    },
+    "Molung": {
+      "nepali": "मोलुङ गाउँपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "मोलुङ गाउँपालिका, ओखलढुंगा"
+    },
+    "Siddhicharan": {
+      "nepali": "सिद्धिचरण नगरपालिका",
+      "district": "ओखलढुंगा",
+      "districtEn": "Okhaldhunga",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "सिद्धिचरण नगरपालिका, ओखलढुंगा"
+    },
+    "Sunkoshi": {
+      "nepali": "सुनकोशी गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "सुनकोशी गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Belaka": {
+      "nepali": "वेलका नगरपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "वेलका नगरपालिका, उदयपुर"
+    },
+    "Chaudandigadhi": {
+      "nepali": "चौदण्डीगढी नगरपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "चौदण्डीगढी नगरपालिका, उदयपुर"
+    },
+    "Katari": {
+      "nepali": "कटारी नगरपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "कटारी नगरपालिका, उदयपुर"
+    },
+    "Rautamai": {
+      "nepali": "रौतामाई गाउँपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "रौतामाई गाउँपालिका, उदयपुर"
+    },
+    "Tapli": {
+      "nepali": "ताप्ली गाउँपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "ताप्ली गाउँपालिका, उदयपुर"
+    },
+    "Triyuga": {
+      "nepali": "त्रियुगा नगरपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "त्रियुगा नगरपालिका, उदयपुर"
+    },
+    "Udayapurgadhi": {
+      "nepali": "उदयपुरगढी गाउँपालिका",
+      "district": "उदयपुर",
+      "districtEn": "Udayapur",
+      "province": "कोशी",
+      "provinceEn": "Province No 1",
+      "compositeKey": "उदयपुरगढी गाउँपालिका, उदयपुर"
+    },
+    "Agnisair Krishna Savaran": {
+      "nepali": "अग्नीसाइर कृष्णासवरन गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "अग्नीसाइर कृष्णासवरन गाउँपालिका, सप्तरी"
+    },
+    "Balan Bihul": {
+      "nepali": "बलान बिहुल गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बलान बिहुल गाउँपालिका, सप्तरी"
+    },
+    "Belhi Chapena": {
+      "nepali": "राजगढ गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "राजगढ गाउँपालिका, सप्तरी"
+    },
+    "Bishnupur": {
+      "nepali": "विष्णुपुर गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "विष्णुपुर गाउँपालिका, सिराहा"
+    },
+    "Bode Barsain": {
+      "nepali": "बोदेबरसाइन नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बोदेबरसाइन नगरपालिका, सप्तरी"
+    },
+    "Chhinnamasta": {
+      "nepali": "छिन्नमस्ता गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "छिन्नमस्ता गाउँपालिका, सप्तरी"
+    },
+    "Dakneshwori": {
+      "nepali": "डाक्नेश्वरी नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "डाक्नेश्वरी नगरपालिका, सप्तरी"
+    },
+    "Hanumannagar Kankalini": {
+      "nepali": "हनुमाननगर कंकालिनी नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "हनुमाननगर कंकालिनी नगरपालिका, सप्तरी"
+    },
+    "Kanchanrup": {
+      "nepali": "कञ्चनरुप नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कञ्चनरुप नगरपालिका, सप्तरी"
+    },
+    "Khadak": {
+      "nepali": "खडक नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "खडक नगरपालिका, सप्तरी"
+    },
+    "Mahadeva": {
+      "nepali": "महादेवा गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "महादेवा गाउँपालिका, सप्तरी"
+    },
+    "Rajbiraj": {
+      "nepali": "राजविराज नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "राजविराज नगरपालिका, सप्तरी"
+    },
+    "Rupani": {
+      "nepali": "रुपनी गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "रुपनी गाउँपालिका, सप्तरी"
+    },
+    "Saptakoshi": {
+      "nepali": "सप्तकोशी नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सप्तकोशी नगरपालिका, सप्तरी"
+    },
+    "Shambhunath": {
+      "nepali": "शम्भुनाथ नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "शम्भुनाथ नगरपालिका, सप्तरी"
+    },
+    "Surunga": {
+      "nepali": "सुरुङ्गा नगरपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सुरुङ्गा नगरपालिका, सप्तरी"
+    },
+    "Tilathi Koiladi": {
+      "nepali": "तिलाठी कोईलाडी गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "तिलाठी कोईलाडी गाउँपालिका, सप्तरी"
+    },
+    "Tirahut": {
+      "nepali": "तिरहुत गाउँपालिका",
+      "district": "सप्तरी",
+      "districtEn": "Saptari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "तिरहुत गाउँपालिका, सप्तरी"
+    },
+    "Arnama": {
+      "nepali": "अर्नमा गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "अर्नमा गाउँपालिका, सिराहा"
+    },
+    "Aurahi": {
+      "nepali": "औरही नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "औरही नगरपालिका, महोत्तरी"
+    },
+    "Bariyarpatti": {
+      "nepali": "बरियारपट्टी गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बरियारपट्टी गाउँपालिका, सिराहा"
+    },
+    "Bhagawanpur": {
+      "nepali": "भगवानपुर गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "भगवानपुर गाउँपालिका, सिराहा"
+    },
+    "Dhangadhimai": {
+      "nepali": "धनगढीमाई नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "धनगढीमाई नगरपालिका, सिराहा"
+    },
+    "Golbazar": {
+      "nepali": "गोलबजार नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गोलबजार नगरपालिका, सिराहा"
+    },
+    "Kalyanpur": {
+      "nepali": "कल्याणपुर नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कल्याणपुर नगरपालिका, सिराहा"
+    },
+    "Karjanha": {
+      "nepali": "कर्जन्हा नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कर्जन्हा नगरपालिका, सिराहा"
+    },
+    "Lahan": {
+      "nepali": "लहान नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "लहान नगरपालिका, सिराहा"
+    },
+    "Laxmipur Patari": {
+      "nepali": "लक्ष्मीपुर पतारी गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "लक्ष्मीपुर पतारी गाउँपालिका, सिराहा"
+    },
+    "Mirchaiya": {
+      "nepali": "मिर्चैया नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मिर्चैया नगरपालिका, सिराहा"
+    },
+    "Naraha": {
+      "nepali": "नरहा गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "नरहा गाउँपालिका, सिराहा"
+    },
+    "Nawarajpur": {
+      "nepali": "नवराजपुर गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "नवराजपुर गाउँपालिका, सिराहा"
+    },
+    "Sakhuwanankarkatti": {
+      "nepali": "सखुवानान्कारकट्टी गाउँपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सखुवानान्कारकट्टी गाउँपालिका, सिराहा"
+    },
+    "Siraha": {
+      "nepali": "सिरहा नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सिरहा नगरपालिका, सिराहा"
+    },
+    "Sukhipur": {
+      "nepali": "सुखीपुर नगरपालिका",
+      "district": "सिराहा",
+      "districtEn": "Siraha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सुखीपुर नगरपालिका, सिराहा"
+    },
+    "Aaurahi": {
+      "nepali": "औरही गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "औरही गाउँपालिका, धनुषा"
+    },
+    "Bateshwor": {
+      "nepali": "बटेश्वर गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बटेश्वर गाउँपालिका, धनुषा"
+    },
+    "Bideha": {
+      "nepali": "विदेह नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "विदेह नगरपालिका, धनुषा"
+    },
+    "Chhireshwornath": {
+      "nepali": "क्षिरेश्वरनाथ नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "क्षिरेश्वरनाथ नगरपालिका, धनुषा"
+    },
+    "Dhanauji": {
+      "nepali": "धनौजी गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "धनौजी गाउँपालिका, धनुषा"
+    },
+    "Dhanusadham": {
+      "nepali": "धनुषाधाम नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "धनुषाधाम नगरपालिका, धनुषा"
+    },
+    "Ganeshman Charnath": {
+      "nepali": "गणेशमान चारनाथ नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गणेशमान चारनाथ नगरपालिका, धनुषा"
+    },
+    "Hansapur": {
+      "nepali": "हंसपुर नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "हंसपुर नगरपालिका, धनुषा"
+    },
+    "Janaknandani": {
+      "nepali": "जनकनन्दिनी गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जनकनन्दिनी गाउँपालिका, धनुषा"
+    },
+    "Janakpur": {
+      "nepali": "जनकपुरधाम उपमहानगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जनकपुरधाम उपमहानगरपालिका, धनुषा"
+    },
+    "Kamala": {
+      "nepali": "कमला नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कमला नगरपालिका, धनुषा"
+    },
+    "Lakshminiya": {
+      "nepali": "लक्ष्मीनिया गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "लक्ष्मीनिया गाउँपालिका, धनुषा"
+    },
+    "Mithila": {
+      "nepali": "मिथिला नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मिथिला नगरपालिका, धनुषा"
+    },
+    "Mithila Bihari": {
+      "nepali": "मिथिला बिहारी नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मिथिला बिहारी नगरपालिका, धनुषा"
+    },
+    "Mukhiyapatti Musarmiya": {
+      "nepali": "मुखियापट्टी मुसहरनिया गाउँपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मुखियापट्टी मुसहरनिया गाउँपालिका, धनुषा"
+    },
+    "Nagarain": {
+      "nepali": "नगराइन नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "नगराइन नगरपालिका, धनुषा"
+    },
+    "Sabaila": {
+      "nepali": "सबैला नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सबैला नगरपालिका, धनुषा"
+    },
+    "Sahidnagar": {
+      "nepali": "शहीदनगर नगरपालिका",
+      "district": "धनुषा",
+      "districtEn": "Dhanusha",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "शहीदनगर नगरपालिका, धनुषा"
+    },
+    "Balwa": {
+      "nepali": "बलवा नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बलवा नगरपालिका, महोत्तरी"
+    },
+    "Bardibas": {
+      "nepali": "बर्दिबास नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बर्दिबास नगरपालिका, महोत्तरी"
+    },
+    "Bhangaha": {
+      "nepali": "भँगाहा नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "भँगाहा नगरपालिका, महोत्तरी"
+    },
+    "Ekdanra": {
+      "nepali": "एकडारा गाउँपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "एकडारा गाउँपालिका, महोत्तरी"
+    },
+    "Gaushala": {
+      "nepali": "गौशाला नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गौशाला नगरपालिका, महोत्तरी"
+    },
+    "Jaleswor": {
+      "nepali": "जलेश्वर नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जलेश्वर नगरपालिका, महोत्तरी"
+    },
+    "Loharpatti": {
+      "nepali": "लोहरपट्टी नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "लोहरपट्टी नगरपालिका, महोत्तरी"
+    },
+    "Mahottari": {
+      "nepali": "महोत्तरी गाउँपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "महोत्तरी गाउँपालिका, महोत्तरी"
+    },
+    "Manra Siswa": {
+      "nepali": "मनरा शिसवा नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मनरा शिसवा नगरपालिका, महोत्तरी"
+    },
+    "Matihani": {
+      "nepali": "मटिहानी नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मटिहानी नगरपालिका, महोत्तरी"
+    },
+    "Pipra": {
+      "nepali": "पिपरा गाउँपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पिपरा गाउँपालिका, महोत्तरी"
+    },
+    "Ramgopalpur": {
+      "nepali": "रामगोपालपुर नगरपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "रामगोपालपुर नगरपालिका, महोत्तरी"
+    },
+    "Samsi": {
+      "nepali": "साम्सी गाउँपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "साम्सी गाउँपालिका, महोत्तरी"
+    },
+    "Sonama": {
+      "nepali": "सोनमा गाउँपालिका",
+      "district": "महोत्तरी",
+      "districtEn": "Mahottari",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सोनमा गाउँपालिका, महोत्तरी"
+    },
+    "Bagmati": {
+      "nepali": "बाग्मती गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बाग्मती गाउँपालिका, मकवानपुर"
+    },
+    "Balara": {
+      "nepali": "बलरा नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बलरा नगरपालिका, सर्लाही"
+    },
+    "Barahathawa": {
+      "nepali": "बरहथवा नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बरहथवा नगरपालिका, सर्लाही"
+    },
+    "Basbariya": {
+      "nepali": "बसबरीया गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बसबरीया गाउँपालिका, सर्लाही"
+    },
+    "Bishnu": {
+      "nepali": "विष्णु गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "विष्णु गाउँपालिका, सर्लाही"
+    },
+    "Bramhapuri": {
+      "nepali": "ब्रह्मपुरी गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "ब्रह्मपुरी गाउँपालिका, सर्लाही"
+    },
+    "Chakraghatta": {
+      "nepali": "चक्रघट्टा गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "चक्रघट्टा गाउँपालिका, सर्लाही"
+    },
+    "Chandranagar": {
+      "nepali": "चन्द्रनगर गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "चन्द्रनगर गाउँपालिका, सर्लाही"
+    },
+    "Dhankaul": {
+      "nepali": "धनकौल गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "धनकौल गाउँपालिका, सर्लाही"
+    },
+    "Godaita": {
+      "nepali": "गोडैटा नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गोडैटा नगरपालिका, सर्लाही"
+    },
+    "Haripur": {
+      "nepali": "हरिपुर नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "हरिपुर नगरपालिका, सर्लाही"
+    },
+    "Haripurwa": {
+      "nepali": "हरिपुर्वा नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "हरिपुर्वा नगरपालिका, सर्लाही"
+    },
+    "Hariwan": {
+      "nepali": "हरिवन नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "हरिवन नगरपालिका, सर्लाही"
+    },
+    "Ishworpur": {
+      "nepali": "ईश्वरपुर नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "ईश्वरपुर नगरपालिका, सर्लाही"
+    },
+    "Kabilasi": {
+      "nepali": "कविलासी नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कविलासी नगरपालिका, सर्लाही"
+    },
+    "Kaudena": {
+      "nepali": "कौडेना गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कौडेना गाउँपालिका, सर्लाही"
+    },
+    "Lalbandi": {
+      "nepali": "लालबन्दी नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "लालबन्दी नगरपालिका, सर्लाही"
+    },
+    "Malangawa": {
+      "nepali": "मलंगवा नगरपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मलंगवा नगरपालिका, सर्लाही"
+    },
+    "Parsa": {
+      "nepali": "पर्सा गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पर्सा गाउँपालिका, सर्लाही"
+    },
+    "Ramnagar": {
+      "nepali": "रामनगर गाउँपालिका",
+      "district": "सर्लाही",
+      "districtEn": "Sarlahi",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "रामनगर गाउँपालिका, सर्लाही"
+    },
+    "Baudhimai": {
+      "nepali": "बौधीमाई नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बौधीमाई नगरपालिका, रौतहट"
+    },
+    "Brindaban": {
+      "nepali": "वृन्दावन नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "वृन्दावन नगरपालिका, रौतहट"
+    },
+    "Chandrapur": {
+      "nepali": "चन्द्रपुर नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "चन्द्रपुर नगरपालिका, रौतहट"
+    },
+    "Dewahhi Gonahi": {
+      "nepali": "देवाही गोनाही नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "देवाही गोनाही नगरपालिका, रौतहट"
+    },
+    "Durga Bhagwati": {
+      "nepali": "दुर्गा भगवती गाउँपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "दुर्गा भगवती गाउँपालिका, रौतहट"
+    },
+    "Gadhimai": {
+      "nepali": "गढीमाई नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गढीमाई नगरपालिका, रौतहट"
+    },
+    "Garuda": {
+      "nepali": "गरुडा नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गरुडा नगरपालिका, रौतहट"
+    },
+    "Gaur": {
+      "nepali": "गौर नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गौर नगरपालिका, रौतहट"
+    },
+    "Gujara": {
+      "nepali": "गुजरा नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "गुजरा नगरपालिका, रौतहट"
+    },
+    "Ishanath": {
+      "nepali": "ईशनाथ नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "ईशनाथ नगरपालिका, रौतहट"
+    },
+    "Katahariya": {
+      "nepali": "कटहरिया नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कटहरिया नगरपालिका, रौतहट"
+    },
+    "Madhav Narayan": {
+      "nepali": "माधव नारायण नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "माधव नारायण नगरपालिका, रौतहट"
+    },
+    "Maulapur": {
+      "nepali": "मौलापुर नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "मौलापुर नगरपालिका, रौतहट"
+    },
+    "Paroha": {
+      "nepali": "परोहा नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "परोहा नगरपालिका, रौतहट"
+    },
+    "Phatuwa Bijayapur": {
+      "nepali": "फतुवा बिजयपुर नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "फतुवा बिजयपुर नगरपालिका, रौतहट"
+    },
+    "Rajdevi": {
+      "nepali": "राजदेवी नगरपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "राजदेवी नगरपालिका, रौतहट"
+    },
+    "Rajpur": {
+      "nepali": "राजपुर गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "राजपुर गाउँपालिका, दाङ"
+    },
+    "Yemunamai": {
+      "nepali": "यमुनामाई गाउँपालिका",
+      "district": "रौतहट",
+      "districtEn": "Rautahat",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "यमुनामाई गाउँपालिका, रौतहट"
+    },
+    "Adarshkotwal": {
+      "nepali": "आदर्श कोतवाल गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "आदर्श कोतवाल गाउँपालिका, बारा"
+    },
+    "Baragadhi": {
+      "nepali": "बारागढी गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बारागढी गाउँपालिका, बारा"
+    },
+    "Bishrampur": {
+      "nepali": "विश्रामपुर गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "विश्रामपुर गाउँपालिका, बारा"
+    },
+    "Devtal": {
+      "nepali": "देवताल गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "देवताल गाउँपालिका, बारा"
+    },
+    "Jitpur Simara": {
+      "nepali": "जीतपुरसिमरा उपमहानगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जीतपुरसिमरा उपमहानगरपालिका, बारा"
+    },
+    "Kalaiya": {
+      "nepali": "कलैया उपमहानगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कलैया उपमहानगरपालिका, बारा"
+    },
+    "Karaiyamai": {
+      "nepali": "करैयामाई गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "करैयामाई गाउँपालिका, बारा"
+    },
+    "Kolhabi": {
+      "nepali": "कोल्हवी नगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कोल्हवी नगरपालिका, बारा"
+    },
+    "Mahagadhimai": {
+      "nepali": "महागढीमाई नगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "महागढीमाई नगरपालिका, बारा"
+    },
+    "Nijgadh": {
+      "nepali": "निजगढ नगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "निजगढ नगरपालिका, बारा"
+    },
+    "Pacharauta": {
+      "nepali": "पचरौता नगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पचरौता नगरपालिका, बारा"
+    },
+    "Parwanipur": {
+      "nepali": "परवानीपुर गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "परवानीपुर गाउँपालिका, बारा"
+    },
+    "Pheta": {
+      "nepali": "फेटा गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "फेटा गाउँपालिका, बारा"
+    },
+    "Prasauni": {
+      "nepali": "प्रसौनी गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "प्रसौनी गाउँपालिका, बारा"
+    },
+    "Simraungadh": {
+      "nepali": "सिम्रौनगढ नगरपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सिम्रौनगढ नगरपालिका, बारा"
+    },
+    "Suwarna": {
+      "nepali": "सुवर्ण गाउँपालिका",
+      "district": "बारा",
+      "districtEn": "Bara",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सुवर्ण गाउँपालिका, बारा"
+    },
+    "Bahudaramai": {
+      "nepali": "बहुदरमाई नगरपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बहुदरमाई नगरपालिका, पर्सा"
+    },
+    "Bindabasini": {
+      "nepali": "बिन्दबासिनी गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "बिन्दबासिनी गाउँपालिका, पर्सा"
+    },
+    "Birgunj": {
+      "nepali": "वीरगंज महानगरपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "वीरगंज महानगरपालिका, पर्सा"
+    },
+    "Chhipaharmai": {
+      "nepali": "छिपहरमाई गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "छिपहरमाई गाउँपालिका, पर्सा"
+    },
+    "Dhobini": {
+      "nepali": "धोबीनी गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "धोबीनी गाउँपालिका, पर्सा"
+    },
+    "Jagarnathpur": {
+      "nepali": "जगरनाथपुर गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जगरनाथपुर गाउँपालिका, पर्सा"
+    },
+    "Jirabhawani": {
+      "nepali": "जिराभवानी गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "जिराभवानी गाउँपालिका, पर्सा"
+    },
+    "Kalikamai": {
+      "nepali": "कालिकामाई गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "कालिकामाई गाउँपालिका, पर्सा"
+    },
+    "Pakahamainpur": {
+      "nepali": "पकाहा मैनपुर गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पकाहा मैनपुर गाउँपालिका, पर्सा"
+    },
+    "Parsagadhi": {
+      "nepali": "पर्सागढी नगरपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पर्सागढी नगरपालिका, पर्सा"
+    },
+    "Paterwasugauli": {
+      "nepali": "पटेर्वा सुगौली गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पटेर्वा सुगौली गाउँपालिका, पर्सा"
+    },
+    "Pokhariya": {
+      "nepali": "पोखरिया नगरपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "पोखरिया नगरपालिका, पर्सा"
+    },
+    "SakhuwaPrasauni": {
+      "nepali": "सखुवा प्रसौनी गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "सखुवा प्रसौनी गाउँपालिका, पर्सा"
+    },
+    "Thori": {
+      "nepali": "ठोरी गाउँपालिका",
+      "district": "पर्सा",
+      "districtEn": "Parsa",
+      "province": "मधेश",
+      "provinceEn": "Province No 2",
+      "compositeKey": "ठोरी गाउँपालिका, पर्सा"
+    },
+    "Bhaktapur": {
+      "nepali": "भक्तपुर नगरपालिका",
+      "district": "भक्तपुर",
+      "districtEn": "Bhaktapur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भक्तपुर नगरपालिका, भक्तपुर"
+    },
+    "Changunarayan": {
+      "nepali": "चाँगुनारायण नगरपालिका",
+      "district": "भक्तपुर",
+      "districtEn": "Bhaktapur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "चाँगुनारायण नगरपालिका, भक्तपुर"
+    },
+    "Madhyapur Thimi": {
+      "nepali": "मध्यपुर थिमी नगरपालिका",
+      "district": "भक्तपुर",
+      "districtEn": "Bhaktapur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मध्यपुर थिमी नगरपालिका, भक्तपुर"
+    },
+    "Suryabinayak": {
+      "nepali": "सूर्यविनायक नगरपालिका",
+      "district": "भक्तपुर",
+      "districtEn": "Bhaktapur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "सूर्यविनायक नगरपालिका, भक्तपुर"
+    },
+    "Bharatpur": {
+      "nepali": "भरतपुर महानगरपालिका",
+      "district": "चितवन",
+      "districtEn": "Chitawan",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भरतपुर महानगरपालिका, चितवन"
+    },
+    "Ichchhyakamana": {
+      "nepali": "इच्छाकामना गाउँपालिका",
+      "district": "चितवन",
+      "districtEn": "Chitawan",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "इच्छाकामना गाउँपालिका, चितवन"
+    },
+    "Kalika": {
+      "nepali": "शुभ कालीका गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "शुभ कालीका गाउँपालिका, कालिकोट"
+    },
+    "Khairahani": {
+      "nepali": "खैरहनी नगरपालिका",
+      "district": "चितवन",
+      "districtEn": "Chitawan",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "खैरहनी नगरपालिका, चितवन"
+    },
+    "Rapti": {
+      "nepali": "राप्ती गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "राप्ती गाउँपालिका, दाङ"
+    },
+    "Ratnanagar": {
+      "nepali": "रत्ननगर नगरपालिका",
+      "district": "चितवन",
+      "districtEn": "Chitawan",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "रत्ननगर नगरपालिका, चितवन"
+    },
+    "Benighat Rorang": {
+      "nepali": "बेनीघाट रोराङ्ग गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बेनीघाट रोराङ्ग गाउँपालिका, धादिङ"
+    },
+    "Dhunibesi": {
+      "nepali": "धुनीबेंशी नगरपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "धुनीबेंशी नगरपालिका, धादिङ"
+    },
+    "Gajuri": {
+      "nepali": "गजुरी गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गजुरी गाउँपालिका, धादिङ"
+    },
+    "Galchi": {
+      "nepali": "गल्छी गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गल्छी गाउँपालिका, धादिङ"
+    },
+    "Gangajamuna": {
+      "nepali": "गङ्गाजमुना गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गङ्गाजमुना गाउँपालिका, धादिङ"
+    },
+    "Jwalamukhi": {
+      "nepali": "ज्वालामूखी गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "ज्वालामूखी गाउँपालिका, धादिङ"
+    },
+    "Khaniyabash": {
+      "nepali": "खनियाबास गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "खनियाबास गाउँपालिका, धादिङ"
+    },
+    "Netrawati Dabjong": {
+      "nepali": "नेत्रावती डबजोङ गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "नेत्रावती डबजोङ गाउँपालिका, धादिङ"
+    },
+    "Nilakantha": {
+      "nepali": "नीलकण्ठ नगरपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "नीलकण्ठ नगरपालिका, धादिङ"
+    },
+    "Rubi Valley": {
+      "nepali": "रुवी भ्याली गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "रुवी भ्याली गाउँपालिका, धादिङ"
+    },
+    "Siddhalek": {
+      "nepali": "सिद्धलेक गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "सिद्धलेक गाउँपालिका, धादिङ"
+    },
+    "Thakre": {
+      "nepali": "थाक्रे गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "थाक्रे गाउँपालिका, धादिङ"
+    },
+    "Tripura Sundari": {
+      "nepali": "त्रिपुरासुन्दरी गाउँपालिका",
+      "district": "धादिङ",
+      "districtEn": "Dhading",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "त्रिपुरासुन्दरी गाउँपालिका, धादिङ"
+    },
+    "Baiteshwor": {
+      "nepali": "वैतेश्वर गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "वैतेश्वर गाउँपालिका, दोलखा"
+    },
+    "Bhimeshwor": {
+      "nepali": "भिमेश्वर नगरपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भिमेश्वर नगरपालिका, दोलखा"
+    },
+    "Bigu": {
+      "nepali": "विगु गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "विगु गाउँपालिका, दोलखा"
+    },
+    "Gaurishankar": {
+      "nepali": "गौरिशंकर गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गौरिशंकर गाउँपालिका, दोलखा"
+    },
+    "Jiri": {
+      "nepali": "जिरी नगरपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "जिरी नगरपालिका, दोलखा"
+    },
+    "Kalinchok": {
+      "nepali": "कालिन्चोक गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कालिन्चोक गाउँपालिका, दोलखा"
+    },
+    "Melung": {
+      "nepali": "मेलुङ गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मेलुङ गाउँपालिका, दोलखा"
+    },
+    "Sailung": {
+      "nepali": "शैलुङ गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "शैलुङ गाउँपालिका, दोलखा"
+    },
+    "Tamakoshi": {
+      "nepali": "तामाकोशी गाउँपालिका",
+      "district": "दोलखा",
+      "districtEn": "Dolakha",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तामाकोशी गाउँपालिका, दोलखा"
+    },
+    "Banepa": {
+      "nepali": "बनेपा नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बनेपा नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Bethanchowk": {
+      "nepali": "बेथानचोक गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बेथानचोक गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Bhumlu": {
+      "nepali": "भुम्लु गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भुम्लु गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Chaurideurali": {
+      "nepali": "चौंरीदेउराली गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "चौंरीदेउराली गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Dhulikhel": {
+      "nepali": "धुलिखेल नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "धुलिखेल नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Khanikhola": {
+      "nepali": "खानीखोला गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "खानीखोला गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Mahabharat": {
+      "nepali": "महाभारत गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "महाभारत गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Mandandeupur": {
+      "nepali": "मण्डनदेउपुर नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मण्डनदेउपुर नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Namobuddha": {
+      "nepali": "नमोबुद्ध नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "नमोबुद्ध नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Panauti": {
+      "nepali": "पनौती नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "पनौती नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Panchkhal": {
+      "nepali": "पाँचखाल नगरपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "पाँचखाल नगरपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Roshi": {
+      "nepali": "रोशी गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "रोशी गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Temal": {
+      "nepali": "तेमाल गाउँपालिका",
+      "district": "काभ्रेपलाञ्चोक",
+      "districtEn": "Kabhrepalanchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तेमाल गाउँपालिका, काभ्रेपलाञ्चोक"
+    },
+    "Budhanilakantha": {
+      "nepali": "बुढानिलकण्ठ नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बुढानिलकण्ठ नगरपालिका, काठमाडौ‌"
+    },
+    "Chandragiri": {
+      "nepali": "चन्द्रागिरी नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "चन्द्रागिरी नगरपालिका, काठमाडौ‌"
+    },
+    "Dakshinkali": {
+      "nepali": "दक्षिणकाली नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "दक्षिणकाली नगरपालिका, काठमाडौ‌"
+    },
+    "Gokarneshwor": {
+      "nepali": "गोकर्णेश्वर नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गोकर्णेश्वर नगरपालिका, काठमाडौ‌"
+    },
+    "Kageshwori Manahora": {
+      "nepali": "कागेश्वरी मनोहरा नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कागेश्वरी मनोहरा नगरपालिका, काठमाडौ‌"
+    },
+    "Kathmandu": {
+      "nepali": "काठमाडौँ महानगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "काठमाडौँ महानगरपालिका, काठमाडौ‌"
+    },
+    "Kirtipur": {
+      "nepali": "कीर्तिपुर नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कीर्तिपुर नगरपालिका, काठमाडौ‌"
+    },
+    "Nagarjun": {
+      "nepali": "नागार्जुन नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "नागार्जुन नगरपालिका, काठमाडौ‌"
+    },
+    "Shankharapur": {
+      "nepali": "शंखरापुर नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "शंखरापुर नगरपालिका, काठमाडौ‌"
+    },
+    "Tarakeshwor": {
+      "nepali": "तारकेश्वर नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तारकेश्वर नगरपालिका, काठमाडौ‌"
+    },
+    "Tokha": {
+      "nepali": "टोखा नगरपालिका",
+      "district": "काठमाडौ‌",
+      "districtEn": "Kathmandu",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "टोखा नगरपालिका, काठमाडौ‌"
+    },
+    "Godawari": {
+      "nepali": "गोदावरी नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "गोदावरी नगरपालिका, कैलाली"
+    },
+    "Konjyosom": {
+      "nepali": "कोन्ज्योसोम गाउँपालिका",
+      "district": "ललितपुर",
+      "districtEn": "Lalitpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कोन्ज्योसोम गाउँपालिका, ललितपुर"
+    },
+    "Lalitpur": {
+      "nepali": "ललितपुर महानगरपालिका",
+      "district": "ललितपुर",
+      "districtEn": "Lalitpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "ललितपुर महानगरपालिका, ललितपुर"
+    },
+    "Mahankal": {
+      "nepali": "महाङ्काल गाउँपालिका",
+      "district": "ललितपुर",
+      "districtEn": "Lalitpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "महाङ्काल गाउँपालिका, ललितपुर"
+    },
+    "Bakaiya": {
+      "nepali": "बकैया गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बकैया गाउँपालिका, मकवानपुर"
+    },
+    "Bhimphedi": {
+      "nepali": "भीमफेदी गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भीमफेदी गाउँपालिका, मकवानपुर"
+    },
+    "Hetauda": {
+      "nepali": "हेटौडा उपमहानगरपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "हेटौडा उपमहानगरपालिका, मकवानपुर"
+    },
+    "Indrasarowar": {
+      "nepali": "इन्द्रसरोवर गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "इन्द्रसरोवर गाउँपालिका, मकवानपुर"
+    },
+    "Kailash": {
+      "nepali": "कैलाश गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कैलाश गाउँपालिका, मकवानपुर"
+    },
+    "Makawanpurgadhi": {
+      "nepali": "मकवानपुरगढी गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मकवानपुरगढी गाउँपालिका, मकवानपुर"
+    },
+    "Manahari": {
+      "nepali": "मनहरी गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मनहरी गाउँपालिका, मकवानपुर"
+    },
+    "Raksirang": {
+      "nepali": "राक्सिराङ्ग गाउँपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "राक्सिराङ्ग गाउँपालिका, मकवानपुर"
+    },
+    "Thaha": {
+      "nepali": "थाहा नगरपालिका",
+      "district": "मकवानपुर",
+      "districtEn": "Makawanpur",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "थाहा नगरपालिका, मकवानपुर"
+    },
+    "Belkotgadhi": {
+      "nepali": "बेलकोटगढी नगरपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बेलकोटगढी नगरपालिका, नुवाकोट"
+    },
+    "Bidur": {
+      "nepali": "विदुर नगरपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "विदुर नगरपालिका, नुवाकोट"
+    },
+    "Dupcheshwar": {
+      "nepali": "दुप्चेश्वर गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "दुप्चेश्वर गाउँपालिका, नुवाकोट"
+    },
+    "Kakani": {
+      "nepali": "ककनी गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "ककनी गाउँपालिका, नुवाकोट"
+    },
+    "Kispang": {
+      "nepali": "किस्पाङ गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "किस्पाङ गाउँपालिका, नुवाकोट"
+    },
+    "Myagang": {
+      "nepali": "म्यागङ गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "म्यागङ गाउँपालिका, नुवाकोट"
+    },
+    "Panchakanya": {
+      "nepali": "पञ्चकन्या गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "पञ्चकन्या गाउँपालिका, नुवाकोट"
+    },
+    "Shivapuri": {
+      "nepali": "शिवपुरी गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "शिवपुरी गाउँपालिका, नुवाकोट"
+    },
+    "Suryagadhi": {
+      "nepali": "सुर्यगढी गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "सुर्यगढी गाउँपालिका, नुवाकोट"
+    },
+    "Tadi": {
+      "nepali": "तादी गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तादी गाउँपालिका, नुवाकोट"
+    },
+    "Tarkeshwar": {
+      "nepali": "तारकेश्वर गाउँपालिका",
+      "district": "नुवाकोट",
+      "districtEn": "Nuwakot",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तारकेश्वर गाउँपालिका, नुवाकोट"
+    },
+    "Doramba": {
+      "nepali": "दोरम्बा शैलुङ गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "दोरम्बा शैलुङ गाउँपालिका, रामेछाप"
+    },
+    "Gokulganga": {
+      "nepali": "गोकुलगङ्गा गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गोकुलगङ्गा गाउँपालिका, रामेछाप"
+    },
+    "Khadadevi": {
+      "nepali": "खाँडादेवी गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "खाँडादेवी गाउँपालिका, रामेछाप"
+    },
+    "Likhu Tamakoshi": {
+      "nepali": "लिखु तामाकोशी गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "लिखु तामाकोशी गाउँपालिका, रामेछाप"
+    },
+    "Manthali": {
+      "nepali": "मन्थली नगरपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मन्थली नगरपालिका, रामेछाप"
+    },
+    "Ramechhap": {
+      "nepali": "रामेछाप नगरपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "रामेछाप नगरपालिका, रामेछाप"
+    },
+    "Sunapati": {
+      "nepali": "सुनापति गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "सुनापति गाउँपालिका, रामेछाप"
+    },
+    "Umakunda": {
+      "nepali": "उमाकुण्ड गाउँपालिका",
+      "district": "रामेछाप",
+      "districtEn": "Ramechhap",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "उमाकुण्ड गाउँपालिका, रामेछाप"
+    },
+    "Gosaikunda": {
+      "nepali": "गोसाईकुण्ड गाउँपालिका",
+      "district": "रसुवा",
+      "districtEn": "Rasuwa",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गोसाईकुण्ड गाउँपालिका, रसुवा"
+    },
+    "Naukunda": {
+      "nepali": "नौकुण्ड गाउँपालिका",
+      "district": "रसुवा",
+      "districtEn": "Rasuwa",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "नौकुण्ड गाउँपालिका, रसुवा"
+    },
+    "Aamachodingmo": {
+      "nepali": "आमाछोदिङमो गाउँपालिका",
+      "district": "रसुवा",
+      "districtEn": "Rasuwa",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "आमाछोदिङमो गाउँपालिका, रसुवा"
+    },
+    "Uttargaya": {
+      "nepali": "उत्तरगया गाउँपालिका",
+      "district": "रसुवा",
+      "districtEn": "Rasuwa",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "उत्तरगया गाउँपालिका, रसुवा"
+    },
+    "Dudhouli": {
+      "nepali": "दुधौली नगरपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "दुधौली नगरपालिका, सिन्धुली"
+    },
+    "Ghanglekh": {
+      "nepali": "घ्याङलेख गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "घ्याङलेख गाउँपालिका, सिन्धुली"
+    },
+    "Golanjor": {
+      "nepali": "गोलन्जोर गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "गोलन्जोर गाउँपालिका, सिन्धुली"
+    },
+    "Hariharpurgadhi": {
+      "nepali": "हरिहरपुरगढी गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "हरिहरपुरगढी गाउँपालिका, सिन्धुली"
+    },
+    "Kamalamai": {
+      "nepali": "कमलामाई नगरपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "कमलामाई नगरपालिका, सिन्धुली"
+    },
+    "Marin": {
+      "nepali": "मरिण गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मरिण गाउँपालिका, सिन्धुली"
+    },
+    "Phikkal": {
+      "nepali": "फिक्कल गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "फिक्कल गाउँपालिका, सिन्धुली"
+    },
+    "Tinpatan": {
+      "nepali": "तीनपाटन गाउँपालिका",
+      "district": "सिन्धुली",
+      "districtEn": "Sindhuli",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "तीनपाटन गाउँपालिका, सिन्धुली"
+    },
+    "Balefi": {
+      "nepali": "बलेफी गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "बलेफी गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Barhabise": {
+      "nepali": "वाह्रविसे नगरपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "वाह्रविसे नगरपालिका, सिन्धुपाल्चोक"
+    },
+    "Bhotekoshi": {
+      "nepali": "भोटेकोशी गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "भोटेकोशी गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Chautara SangachokGadhi": {
+      "nepali": "चौतारा साँगाचोकगढी नगरपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "चौतारा साँगाचोकगढी नगरपालिका, सिन्धुपाल्चोक"
+    },
+    "Helambu": {
+      "nepali": "हेलम्बु गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "हेलम्बु गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Indrawati": {
+      "nepali": "ईन्द्रावती गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "ईन्द्रावती गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Jugal": {
+      "nepali": "जुगल गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "जुगल गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Lisangkhu Pakhar": {
+      "nepali": "लिसंखु पाखर गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "लिसंखु पाखर गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Melamchi": {
+      "nepali": "मेलम्ची नगरपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "मेलम्ची नगरपालिका, सिन्धुपाल्चोक"
+    },
+    "Panchpokhari Thangpal": {
+      "nepali": "पाँचपोखरी थाङपाल गाउँपालिका",
+      "district": "सिन्धुपाल्चोक",
+      "districtEn": "Sindhupalchok",
+      "province": "बागमती",
+      "provinceEn": "Bagmati Pradesh",
+      "compositeKey": "पाँचपोखरी थाङपाल गाउँपालिका, सिन्धुपाल्चोक"
+    },
+    "Tripurasundari": {
+      "nepali": "त्रिपुरासुन्दरी नगरपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "त्रिपुरासुन्दरी नगरपालिका, डोल्पा"
+    },
+    "Aarughat": {
+      "nepali": "आरूघाट गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "आरूघाट गाउँपालिका, गोरखा"
+    },
+    "Ajirkot": {
+      "nepali": "अजिरकोट गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "अजिरकोट गाउँपालिका, गोरखा"
+    },
+    "Bhimsen Thapa": {
+      "nepali": "भिमसेनथापा गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "भिमसेनथापा गाउँपालिका, गोरखा"
+    },
+    "Chum Nubri": {
+      "nepali": "चुमनुव्री गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "चुमनुव्री गाउँपालिका, गोरखा"
+    },
+    "Dharche": {
+      "nepali": "धार्चे गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "धार्चे गाउँपालिका, गोरखा"
+    },
+    "Gandaki": {
+      "nepali": "गण्डकी गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "गण्डकी गाउँपालिका, गोरखा"
+    },
+    "Gorkha": {
+      "nepali": "गोरखा नगरपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "गोरखा नगरपालिका, गोरखा"
+    },
+    "Palungtar": {
+      "nepali": "पालुङटार नगरपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "पालुङटार नगरपालिका, गोरखा"
+    },
+    "Sahid Lakhan": {
+      "nepali": "शहिद लखन गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "शहिद लखन गाउँपालिका, गोरखा"
+    },
+    "Siranchok": {
+      "nepali": "सिरानचोक गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "सिरानचोक गाउँपालिका, गोरखा"
+    },
+    "Barpak Sulikot": {
+      "nepali": "बारपाक सुलिकोट गाउँपालिका",
+      "district": "गोरखा",
+      "districtEn": "Gorkha",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बारपाक सुलिकोट गाउँपालिका, गोरखा"
+    },
+    "Chame": {
+      "nepali": "चामे गाउँपालिका",
+      "district": "मनाङ",
+      "districtEn": "Manang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "चामे गाउँपालिका, मनाङ"
+    },
+    "Narpa Bhumi": {
+      "nepali": "नार्पा भूमि गाउँपालिका",
+      "district": "मनाङ",
+      "districtEn": "Manang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "नार्पा भूमि गाउँपालिका, मनाङ"
+    },
+    "Nasho": {
+      "nepali": "नासोँ गाउँपालिका",
+      "district": "मनाङ",
+      "districtEn": "Manang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "नासोँ गाउँपालिका, मनाङ"
+    },
+    "Manang Nshiang": {
+      "nepali": "मनाङ ङिस्याङ गाउँपालिका",
+      "district": "मनाङ",
+      "districtEn": "Manang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मनाङ ङिस्याङ गाउँपालिका, मनाङ"
+    },
+    "Besishahar": {
+      "nepali": "बेसीशहर नगरपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बेसीशहर नगरपालिका, लमजुङ"
+    },
+    "Dordi": {
+      "nepali": "दोर्दी गाउँपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "दोर्दी गाउँपालिका, लमजुङ"
+    },
+    "Dudhpokhari": {
+      "nepali": "दूधपोखरी गाउँपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "दूधपोखरी गाउँपालिका, लमजुङ"
+    },
+    "Kwholasothar": {
+      "nepali": "क्व्होलासोथार गाउँपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "क्व्होलासोथार गाउँपालिका, लमजुङ"
+    },
+    "MadhyaNepal": {
+      "nepali": "मध्यनेपाल नगरपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मध्यनेपाल नगरपालिका, लमजुङ"
+    },
+    "Marsyangdi": {
+      "nepali": "मर्स्याङदी गाउँपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मर्स्याङदी गाउँपालिका, लमजुङ"
+    },
+    "Rainas": {
+      "nepali": "राइनास नगरपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "राइनास नगरपालिका, लमजुङ"
+    },
+    "Sundarbazar": {
+      "nepali": "सुन्दरबजार नगरपालिका",
+      "district": "लमजुङ",
+      "districtEn": "Lamjung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "सुन्दरबजार नगरपालिका, लमजुङ"
+    },
+    "Annapurna": {
+      "nepali": "अन्नपूर्ण गाउँपालिका",
+      "district": "म्याग्दी",
+      "districtEn": "Myagdi",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "अन्नपूर्ण गाउँपालिका, म्याग्दी"
+    },
+    "Machhapuchchhre": {
+      "nepali": "माछापुछ्रे गाउँपालिका",
+      "district": "कास्की",
+      "districtEn": "Kaski",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "माछापुछ्रे गाउँपालिका, कास्की"
+    },
+    "Pokhara Lekhnath": {
+      "nepali": "पोखरा महानगरपालिका",
+      "district": "कास्की",
+      "districtEn": "Kaski",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "पोखरा महानगरपालिका, कास्की"
+    },
+    "Rupa": {
+      "nepali": "रूपा गाउँपालिका",
+      "district": "कास्की",
+      "districtEn": "Kaski",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "रूपा गाउँपालिका, कास्की"
+    },
+    "Anbukhaireni": {
+      "nepali": "आँबुखैरेनी गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "आँबुखैरेनी गाउँपालिका, तनहुँ"
+    },
+    "Bandipur": {
+      "nepali": "बन्दिपुर गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बन्दिपुर गाउँपालिका, तनहुँ"
+    },
+    "Bhanu": {
+      "nepali": "भानु नगरपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "भानु नगरपालिका, तनहुँ"
+    },
+    "Bhimad": {
+      "nepali": "भिमाद नगरपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "भिमाद नगरपालिका, तनहुँ"
+    },
+    "Byas": {
+      "nepali": "व्याँस गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "व्याँस गाउँपालिका, दार्चुला"
+    },
+    "Devghat": {
+      "nepali": "देवघाट गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "देवघाट गाउँपालिका, तनहुँ"
+    },
+    "Ghiring": {
+      "nepali": "घिरिङ गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "घिरिङ गाउँपालिका, तनहुँ"
+    },
+    "Myagde": {
+      "nepali": "म्याग्दे गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "म्याग्दे गाउँपालिका, तनहुँ"
+    },
+    "Rhishing": {
+      "nepali": "ऋषिङ्ग गाउँपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "ऋषिङ्ग गाउँपालिका, तनहुँ"
+    },
+    "Shuklagandaki": {
+      "nepali": "शुक्लागण्डकी नगरपालिका",
+      "district": "तनहुँ",
+      "districtEn": "Tanahu",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "शुक्लागण्डकी नगरपालिका, तनहुँ"
+    },
+    "Aandhikhola": {
+      "nepali": "आँधिखोला गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "आँधिखोला गाउँपालिका, स्याङजा"
+    },
+    "Arjunchaupari": {
+      "nepali": "अर्जुनचौपारी गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "अर्जुनचौपारी गाउँपालिका, स्याङजा"
+    },
+    "Bhirkot": {
+      "nepali": "भीरकोट नगरपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "भीरकोट नगरपालिका, स्याङजा"
+    },
+    "Biruwa": {
+      "nepali": "विरुवा गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "विरुवा गाउँपालिका, स्याङजा"
+    },
+    "Chapakot": {
+      "nepali": "चापाकोट नगरपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "चापाकोट नगरपालिका, स्याङजा"
+    },
+    "Galyang": {
+      "nepali": "गल्याङ नगरपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "गल्याङ नगरपालिका, स्याङजा"
+    },
+    "Harinas": {
+      "nepali": "हरिनास गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "हरिनास गाउँपालिका, स्याङजा"
+    },
+    "Kaligandagi": {
+      "nepali": "कालीगण्डकी गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "कालीगण्डकी गाउँपालिका, स्याङजा"
+    },
+    "Phedikhola": {
+      "nepali": "फेदीखोला गाउँपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "फेदीखोला गाउँपालिका, स्याङजा"
+    },
+    "Putalibazar": {
+      "nepali": "पुतलीबजार नगरपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "पुतलीबजार नगरपालिका, स्याङजा"
+    },
+    "Waling": {
+      "nepali": "वालिङ नगरपालिका",
+      "district": "स्याङजा",
+      "districtEn": "Syangja",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "वालिङ नगरपालिका, स्याङजा"
+    },
+    "Binayee Tribeni": {
+      "nepali": "विनयी त्रिवेणी गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "विनयी त्रिवेणी गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Bulingtar": {
+      "nepali": "बुलिङटार गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बुलिङटार गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Bungdikali": {
+      "nepali": "बौदीकाली गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बौदीकाली गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Devchuli": {
+      "nepali": "देवचुली नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "देवचुली नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Gaidakot": {
+      "nepali": "गैंडाकोट नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "गैंडाकोट नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Hupsekot": {
+      "nepali": "हुप्सेकोट गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "हुप्सेकोट गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Kawasoti": {
+      "nepali": "कावासोती नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "कावासोती नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Madhyabindu": {
+      "nepali": "मध्यविन्दु नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "districtEn": "Nawalpur",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मध्यविन्दु नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पूर्व)"
+    },
+    "Waragun Muktikshetra": {
+      "nepali": "वारागुङ मुक्तिक्षेत्र गाउँपालिका",
+      "district": "मुस्ताङ",
+      "districtEn": "Mustang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "वारागुङ मुक्तिक्षेत्र गाउँपालिका, मुस्ताङ"
+    },
+    "Lo-Ghekar Damodarkunda": {
+      "nepali": "लो-घेकर दामोदरकुण्ड गाउँपालिका",
+      "district": "मुस्ताङ",
+      "districtEn": "Mustang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "लो-घेकर दामोदरकुण्ड गाउँपालिका, मुस्ताङ"
+    },
+    "Gharapjhong": {
+      "nepali": "घरपझोङ गाउँपालिका",
+      "district": "मुस्ताङ",
+      "districtEn": "Mustang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "घरपझोङ गाउँपालिका, मुस्ताङ"
+    },
+    "Lomanthang": {
+      "nepali": "लोमन्थाङ गाउँपालिका",
+      "district": "मुस्ताङ",
+      "districtEn": "Mustang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "लोमन्थाङ गाउँपालिका, मुस्ताङ"
+    },
+    "Thasang": {
+      "nepali": "थासाङ गाउँपालिका",
+      "district": "मुस्ताङ",
+      "districtEn": "Mustang",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "थासाङ गाउँपालिका, मुस्ताङ"
+    },
+    "Beni": {
+      "nepali": "बेनी नगरपालिका",
+      "district": "म्याग्दी",
+      "districtEn": "Myagdi",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बेनी नगरपालिका, म्याग्दी"
+    },
+    "Dhaulagiri": {
+      "nepali": "धवलागिरी गाउँपालिका",
+      "district": "म्याग्दी",
+      "districtEn": "Myagdi",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "धवलागिरी गाउँपालिका, म्याग्दी"
+    },
+    "Malika": {
+      "nepali": "मालिका गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मालिका गाउँपालिका, गुल्मी"
+    },
+    "Mangala": {
+      "nepali": "मंगला गाउँपालिका",
+      "district": "म्याग्दी",
+      "districtEn": "Myagdi",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मंगला गाउँपालिका, म्याग्दी"
+    },
+    "Raghuganga": {
+      "nepali": "रघुगंगा गाउँपालिका",
+      "district": "म्याग्दी",
+      "districtEn": "Myagdi",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "रघुगंगा गाउँपालिका, म्याग्दी"
+    },
+    "Badigad": {
+      "nepali": "वडिगाड गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "वडिगाड गाउँपालिका, बाग्लुङ"
+    },
+    "Baglung": {
+      "nepali": "बागलुङ नगरपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "बागलुङ नगरपालिका, बाग्लुङ"
+    },
+    "Bareng": {
+      "nepali": "वरेङ गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "वरेङ गाउँपालिका, बाग्लुङ"
+    },
+    "Dhorpatan": {
+      "nepali": "ढोरपाटन नगरपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "ढोरपाटन नगरपालिका, बाग्लुङ"
+    },
+    "Galkot": {
+      "nepali": "गल्कोट नगरपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "गल्कोट नगरपालिका, बाग्लुङ"
+    },
+    "Jaimini": {
+      "nepali": "जैमिनी नगरपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "जैमिनी नगरपालिका, बाग्लुङ"
+    },
+    "Kanthekhola": {
+      "nepali": "काठेखोला गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "काठेखोला गाउँपालिका, बाग्लुङ"
+    },
+    "Nisikhola": {
+      "nepali": "निसीखोला गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "निसीखोला गाउँपालिका, बाग्लुङ"
+    },
+    "Taman Khola": {
+      "nepali": "तमानखोला गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "तमानखोला गाउँपालिका, बाग्लुङ"
+    },
+    "Tara Khola": {
+      "nepali": "ताराखोला गाउँपालिका",
+      "district": "बाग्लुङ",
+      "districtEn": "Baglung",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "ताराखोला गाउँपालिका, बाग्लुङ"
+    },
+    "Bihadi": {
+      "nepali": "विहादी गाउँपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "विहादी गाउँपालिका, पर्वत"
+    },
+    "Jaljala": {
+      "nepali": "जलजला गाउँपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "जलजला गाउँपालिका, पर्वत"
+    },
+    "Kushma": {
+      "nepali": "कुश्मा नगरपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "कुश्मा नगरपालिका, पर्वत"
+    },
+    "Mahashila": {
+      "nepali": "महाशिला गाउँपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "महाशिला गाउँपालिका, पर्वत"
+    },
+    "Modi": {
+      "nepali": "मोदी गाउँपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "मोदी गाउँपालिका, पर्वत"
+    },
+    "Painyu": {
+      "nepali": "पैयूं गाउँपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "पैयूं गाउँपालिका, पर्वत"
+    },
+    "Phalebas": {
+      "nepali": "फलेवास नगरपालिका",
+      "district": "पर्वत",
+      "districtEn": "Parbat",
+      "province": "गण्डकी",
+      "provinceEn": "Gandaki Pradesh",
+      "compositeKey": "फलेवास नगरपालिका, पर्वत"
+    },
+    "Chandrakot": {
+      "nepali": "चन्द्रकोट गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "चन्द्रकोट गाउँपालिका, गुल्मी"
+    },
+    "Chatrakot": {
+      "nepali": "छत्रकोट गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "छत्रकोट गाउँपालिका, गुल्मी"
+    },
+    "Dhurkot": {
+      "nepali": "धुर्कोट गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "धुर्कोट गाउँपालिका, गुल्मी"
+    },
+    "Gulmidarbar": {
+      "nepali": "गुल्मी दरबार गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गुल्मी दरबार गाउँपालिका, गुल्मी"
+    },
+    "Isma": {
+      "nepali": "इस्मा गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "इस्मा गाउँपालिका, गुल्मी"
+    },
+    "Kaligandaki": {
+      "nepali": "कालीगण्डकी गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कालीगण्डकी गाउँपालिका, गुल्मी"
+    },
+    "Madane": {
+      "nepali": "मदाने गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मदाने गाउँपालिका, गुल्मी"
+    },
+    "Musikot": {
+      "nepali": "मुसिकोट नगरपालिका",
+      "district": "रुकुम पश्चिम",
+      "districtEn": "Rukum West",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "मुसिकोट नगरपालिका, रुकुम पश्चिम"
+    },
+    "Resunga": {
+      "nepali": "रेसुङ्गा नगरपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रेसुङ्गा नगरपालिका, गुल्मी"
+    },
+    "Ruru": {
+      "nepali": "रुरुक्षेत्र गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रुरुक्षेत्र गाउँपालिका, गुल्मी"
+    },
+    "Satyawati": {
+      "nepali": "सत्यवती गाउँपालिका",
+      "district": "गुल्मी",
+      "districtEn": "Gulmi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सत्यवती गाउँपालिका, गुल्मी"
+    },
+    "Bagnaskali": {
+      "nepali": "बगनासकाली गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बगनासकाली गाउँपालिका, पाल्पा"
+    },
+    "Mathagadhi": {
+      "nepali": "माथागढी गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "माथागढी गाउँपालिका, पाल्पा"
+    },
+    "Nisdi": {
+      "nepali": "निस्दी गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "निस्दी गाउँपालिका, पाल्पा"
+    },
+    "Purbakhola": {
+      "nepali": "पूर्वखोला गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "पूर्वखोला गाउँपालिका, पाल्पा"
+    },
+    "Rainadevi Chhahara": {
+      "nepali": "रैनादेवी छहरा गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रैनादेवी छहरा गाउँपालिका, पाल्पा"
+    },
+    "Rambha": {
+      "nepali": "रम्भा गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रम्भा गाउँपालिका, पाल्पा"
+    },
+    "Rampur": {
+      "nepali": "रामपुर नगरपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रामपुर नगरपालिका, पाल्पा"
+    },
+    "Ribdikot": {
+      "nepali": "रिब्दीकोट गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रिब्दीकोट गाउँपालिका, पाल्पा"
+    },
+    "Tansen": {
+      "nepali": "तानसेन नगरपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "तानसेन नगरपालिका, पाल्पा"
+    },
+    "Tinau": {
+      "nepali": "तिनाउ गाउँपालिका",
+      "district": "पाल्पा",
+      "districtEn": "Palpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "तिनाउ गाउँपालिका, पाल्पा"
+    },
+    "Bhumekasthan": {
+      "nepali": "भूमिकास्थान नगरपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "भूमिकास्थान नगरपालिका, अर्घाखाँची"
+    },
+    "Chhatradev": {
+      "nepali": "छत्रदेव गाउँपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "छत्रदेव गाउँपालिका, अर्घाखाँची"
+    },
+    "Malarani": {
+      "nepali": "मालारानी गाउँपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मालारानी गाउँपालिका, अर्घाखाँची"
+    },
+    "Panini": {
+      "nepali": "पाणिनी गाउँपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "पाणिनी गाउँपालिका, अर्घाखाँची"
+    },
+    "Sandhikharka": {
+      "nepali": "सन्धिखर्क नगरपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सन्धिखर्क नगरपालिका, अर्घाखाँची"
+    },
+    "Sitganga": {
+      "nepali": "शितगंगा नगरपालिका",
+      "district": "अर्घाखाँची",
+      "districtEn": "Arghakhanchi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "शितगंगा नगरपालिका, अर्घाखाँची"
+    },
+    "Butwal": {
+      "nepali": "बुटवल उपमहानगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बुटवल उपमहानगरपालिका, रूपन्देही"
+    },
+    "Devdaha": {
+      "nepali": "देवदह नगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "देवदह नगरपालिका, रूपन्देही"
+    },
+    "Gaidahawa": {
+      "nepali": "गैडहवा गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गैडहवा गाउँपालिका, रूपन्देही"
+    },
+    "Kanchan": {
+      "nepali": "कञ्चन गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कञ्चन गाउँपालिका, रूपन्देही"
+    },
+    "Kotahimai": {
+      "nepali": "कोटहीमाई गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कोटहीमाई गाउँपालिका, रूपन्देही"
+    },
+    "Lumbini Sanskritik": {
+      "nepali": "लुम्बिनी साँस्कृतिक नगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "लुम्बिनी साँस्कृतिक नगरपालिका, रूपन्देही"
+    },
+    "Marchawari": {
+      "nepali": "मर्चवारी गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मर्चवारी गाउँपालिका, रूपन्देही"
+    },
+    "Mayadevi": {
+      "nepali": "मायादेवी गाउँपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मायादेवी गाउँपालिका, कपिलवस्तु"
+    },
+    "Omsatiya": {
+      "nepali": "ओमसतिया गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "ओमसतिया गाउँपालिका, रूपन्देही"
+    },
+    "Rohini": {
+      "nepali": "रोहिणी गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रोहिणी गाउँपालिका, रूपन्देही"
+    },
+    "Sainamaina": {
+      "nepali": "सैनामैना नगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सैनामैना नगरपालिका, रूपन्देही"
+    },
+    "Sammarimai": {
+      "nepali": "सम्मरीमाई गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सम्मरीमाई गाउँपालिका, रूपन्देही"
+    },
+    "Siddharthanagar": {
+      "nepali": "सिद्धार्थनगर नगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सिद्धार्थनगर नगरपालिका, रूपन्देही"
+    },
+    "Siyari": {
+      "nepali": "सियारी गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सियारी गाउँपालिका, रूपन्देही"
+    },
+    "Sudhdhodhan": {
+      "nepali": "शुद्धोधन गाउँपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "शुद्धोधन गाउँपालिका, रूपन्देही"
+    },
+    "Tillotama": {
+      "nepali": "तिलोत्तमा नगरपालिका",
+      "district": "रूपन्देही",
+      "districtEn": "Rupandehi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "तिलोत्तमा नगरपालिका, रूपन्देही"
+    },
+    "Banganga": {
+      "nepali": "बाणगंगा नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बाणगंगा नगरपालिका, कपिलवस्तु"
+    },
+    "Bijayanagar": {
+      "nepali": "विजयनगर गाउँपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "विजयनगर गाउँपालिका, कपिलवस्तु"
+    },
+    "Buddhabhumi": {
+      "nepali": "बुद्धभुमी नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बुद्धभुमी नगरपालिका, कपिलवस्तु"
+    },
+    "Kapilbastu": {
+      "nepali": "कपिलवस्तु नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कपिलवस्तु नगरपालिका, कपिलवस्तु"
+    },
+    "Krishnanagar": {
+      "nepali": "कृष्णनगर नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कृष्णनगर नगरपालिका, कपिलवस्तु"
+    },
+    "Maharajgunj": {
+      "nepali": "महाराजगंज नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "महाराजगंज नगरपालिका, कपिलवस्तु"
+    },
+    "Shivaraj": {
+      "nepali": "शिवराज नगरपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "शिवराज नगरपालिका, कपिलवस्तु"
+    },
+    "Suddhodhan": {
+      "nepali": "शुद्धोधन गाउँपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "शुद्धोधन गाउँपालिका, कपिलवस्तु"
+    },
+    "Yashodhara": {
+      "nepali": "यसोधरा गाउँपालिका",
+      "district": "कपिलवस्तु",
+      "districtEn": "Kapilbastu",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "यसोधरा गाउँपालिका, कपिलवस्तु"
+    },
+    "Bhume": {
+      "nepali": "भूमे गाउँपालिका",
+      "district": "रुकुम पूर्व",
+      "districtEn": "Rukum East",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "भूमे गाउँपालिका, रुकुम पूर्व"
+    },
+    "Putha Uttarganga": {
+      "nepali": "पुथा उत्तरगंगा गाउँपालिका",
+      "district": "रुकुम पूर्व",
+      "districtEn": "Rukum East",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "पुथा उत्तरगंगा गाउँपालिका, रुकुम पूर्व"
+    },
+    "Sisne": {
+      "nepali": "सिस्ने गाउँपालिका",
+      "district": "रुकुम पूर्व",
+      "districtEn": "Rukum East",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सिस्ने गाउँपालिका, रुकुम पूर्व"
+    },
+    "Pariwartan": {
+      "nepali": "परिवर्तन गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "परिवर्तन गाउँपालिका, रोल्पा"
+    },
+    "Lungri": {
+      "nepali": "लुङग्री गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "लुङग्री गाउँपालिका, रोल्पा"
+    },
+    "Runtigadi": {
+      "nepali": "रुन्टीगढी गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रुन्टीगढी गाउँपालिका, रोल्पा"
+    },
+    "Sukidaha": {
+      "nepali": "सुनिल स्मृति गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सुनिल स्मृति गाउँपालिका, रोल्पा"
+    },
+    "Sunchhahari": {
+      "nepali": "सुनछहरी गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सुनछहरी गाउँपालिका, रोल्पा"
+    },
+    "Suwarnabati": {
+      "nepali": "गंगादेव गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गंगादेव गाउँपालिका, रोल्पा"
+    },
+    "Thawang": {
+      "nepali": "थवाङ गाउँपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "थवाङ गाउँपालिका, रोल्पा"
+    },
+    "Tribeni": {
+      "nepali": "त्रिवेणी नगरपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "त्रिवेणी नगरपालिका, बाजुरा"
+    },
+    "Rolpa": {
+      "nepali": "रोल्पा नगरपालिका",
+      "district": "रोल्पा",
+      "districtEn": "Rolpa",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रोल्पा नगरपालिका, रोल्पा"
+    },
+    "Ayirabati": {
+      "nepali": "ऐरावती गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "ऐरावती गाउँपालिका, प्युठान"
+    },
+    "Gaumukhi": {
+      "nepali": "गौमुखी गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गौमुखी गाउँपालिका, प्युठान"
+    },
+    "Jhimruk": {
+      "nepali": "झिमरुक गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "झिमरुक गाउँपालिका, प्युठान"
+    },
+    "Mallarani": {
+      "nepali": "मल्लरानी गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मल्लरानी गाउँपालिका, प्युठान"
+    },
+    "Mandavi": {
+      "nepali": "माण्डवी गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "माण्डवी गाउँपालिका, प्युठान"
+    },
+    "Naubahini": {
+      "nepali": "नौबहिनी गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "नौबहिनी गाउँपालिका, प्युठान"
+    },
+    "Pyuthan": {
+      "nepali": "प्यूठान नगरपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "प्यूठान नगरपालिका, प्युठान"
+    },
+    "Sarumarani": {
+      "nepali": "सरुमारानी गाउँपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सरुमारानी गाउँपालिका, प्युठान"
+    },
+    "Sworgadwary": {
+      "nepali": "स्वर्गद्वारी नगरपालिका",
+      "district": "प्युठान",
+      "districtEn": "Pyuthan",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "स्वर्गद्वारी नगरपालिका, प्युठान"
+    },
+    "Babai": {
+      "nepali": "बबई गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बबई गाउँपालिका, दाङ"
+    },
+    "Banglachuli": {
+      "nepali": "बंगलाचुली गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बंगलाचुली गाउँपालिका, दाङ"
+    },
+    "Dangisharan": {
+      "nepali": "दंगीशरण गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "दंगीशरण गाउँपालिका, दाङ"
+    },
+    "Gadhawa": {
+      "nepali": "गढवा गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गढवा गाउँपालिका, दाङ"
+    },
+    "Ghorahi": {
+      "nepali": "घोराही उपमहानगरपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "घोराही उपमहानगरपालिका, दाङ"
+    },
+    "Lamahi": {
+      "nepali": "लमही नगरपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "लमही नगरपालिका, दाङ"
+    },
+    "Shantinagar": {
+      "nepali": "शान्तिनगर गाउँपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "शान्तिनगर गाउँपालिका, दाङ"
+    },
+    "Tulsipur": {
+      "nepali": "तुल्सीपुर उपमहानगरपालिका",
+      "district": "दाङ",
+      "districtEn": "Dang",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "तुल्सीपुर उपमहानगरपालिका, दाङ"
+    },
+    "Baijanath": {
+      "nepali": "बैजनाथ गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बैजनाथ गाउँपालिका, बाँके"
+    },
+    "Duduwa": {
+      "nepali": "डुडुवा गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "डुडुवा गाउँपालिका, बाँके"
+    },
+    "Janki": {
+      "nepali": "जानकी गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "जानकी गाउँपालिका, बाँके"
+    },
+    "Khajura": {
+      "nepali": "खजुरा गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "खजुरा गाउँपालिका, बाँके"
+    },
+    "Kohalpur": {
+      "nepali": "कोहलपुर नगरपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "कोहलपुर नगरपालिका, बाँके"
+    },
+    "Narainapur": {
+      "nepali": "नरैनापुर गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "नरैनापुर गाउँपालिका, बाँके"
+    },
+    "Nepalgunj": {
+      "nepali": "नेपालगञ्ज उपमहानगरपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "नेपालगञ्ज उपमहानगरपालिका, बाँके"
+    },
+    "Rapti Sonari": {
+      "nepali": "राप्तीसोनारी गाउँपालिका",
+      "district": "बाँके",
+      "districtEn": "Banke",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "राप्तीसोनारी गाउँपालिका, बाँके"
+    },
+    "Badhaiyatal": {
+      "nepali": "बढैयाताल गाउँपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बढैयाताल गाउँपालिका, बर्दिया"
+    },
+    "Bansagadhi": {
+      "nepali": "बाँसगढी नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बाँसगढी नगरपालिका, बर्दिया"
+    },
+    "Barbardiya": {
+      "nepali": "बारबर्दिया नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बारबर्दिया नगरपालिका, बर्दिया"
+    },
+    "Geruwa": {
+      "nepali": "गेरुवा गाउँपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गेरुवा गाउँपालिका, बर्दिया"
+    },
+    "Gulariya": {
+      "nepali": "गुलरिया नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "गुलरिया नगरपालिका, बर्दिया"
+    },
+    "Madhuwan": {
+      "nepali": "मधुवन नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "मधुवन नगरपालिका, बर्दिया"
+    },
+    "Rajapur": {
+      "nepali": "राजापुर नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "राजापुर नगरपालिका, बर्दिया"
+    },
+    "Thakurbaba": {
+      "nepali": "ठाकुरबाबा नगरपालिका",
+      "district": "बर्दिया",
+      "districtEn": "Bardiya",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "ठाकुरबाबा नगरपालिका, बर्दिया"
+    },
+    "Bardaghat": {
+      "nepali": "बर्दघाट नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "बर्दघाट नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Palhi Nandan": {
+      "nepali": "पाल्हीनन्दन गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "पाल्हीनन्दन गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Pratappur": {
+      "nepali": "प्रतापपुर गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "प्रतापपुर गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Ramgram": {
+      "nepali": "रामग्राम नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "रामग्राम नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Sarawal": {
+      "nepali": "सरावल गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सरावल गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Sunwal": {
+      "nepali": "सुनवल नगरपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सुनवल नगरपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Susta": {
+      "nepali": "सुस्ता गाउँपालिका",
+      "district": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "districtEn": "Parasi",
+      "province": "लुम्बिनी",
+      "provinceEn": "Lumbini Pradesh",
+      "compositeKey": "सुस्ता गाउँपालिका, नवलपरासी (बर्दघाट सुस्ता पश्चिम)"
+    },
+    "Aathabis": {
+      "nepali": "आठबीस नगरपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "आठबीस नगरपालिका, दैलेख"
+    },
+    "Bhagawatimai": {
+      "nepali": "भगवतीमाई गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "भगवतीमाई गाउँपालिका, दैलेख"
+    },
+    "Bhairabi": {
+      "nepali": "भैरवी गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "भैरवी गाउँपालिका, दैलेख"
+    },
+    "Chamunda Bindrasaini": {
+      "nepali": "चामुण्डा बिन्द्रासैनी नगरपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चामुण्डा बिन्द्रासैनी नगरपालिका, दैलेख"
+    },
+    "Dullu": {
+      "nepali": "दुल्लु नगरपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "दुल्लु नगरपालिका, दैलेख"
+    },
+    "Dungeshwor": {
+      "nepali": "डुंगेश्वर गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "डुंगेश्वर गाउँपालिका, दैलेख"
+    },
+    "Gurans": {
+      "nepali": "गुराँस गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "गुराँस गाउँपालिका, दैलेख"
+    },
+    "Mahabu": {
+      "nepali": "महाबु गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "महाबु गाउँपालिका, दैलेख"
+    },
+    "Narayan": {
+      "nepali": "नारायण नगरपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "नारायण नगरपालिका, दैलेख"
+    },
+    "Naumule": {
+      "nepali": "नौमुले गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "नौमुले गाउँपालिका, दैलेख"
+    },
+    "Thantikandh": {
+      "nepali": "ठाँटीकाँध गाउँपालिका",
+      "district": "दैलेख",
+      "districtEn": "Dailekh",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "ठाँटीकाँध गाउँपालिका, दैलेख"
+    },
+    "Chharka Tangsong": {
+      "nepali": "छार्का ताङसोङ गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "छार्का ताङसोङ गाउँपालिका, डोल्पा"
+    },
+    "Dolpo Buddha": {
+      "nepali": "डोल्पो बुद्ध गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "डोल्पो बुद्ध गाउँपालिका, डोल्पा"
+    },
+    "Jagadulla": {
+      "nepali": "जगदुल्ला गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "जगदुल्ला गाउँपालिका, डोल्पा"
+    },
+    "Kaike": {
+      "nepali": "काईके गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "काईके गाउँपालिका, डोल्पा"
+    },
+    "Mudkechula": {
+      "nepali": "मुड्केचुला गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "मुड्केचुला गाउँपालिका, डोल्पा"
+    },
+    "Shey Phoksundo": {
+      "nepali": "शे फोक्सुन्डो गाउँपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "शे फोक्सुन्डो गाउँपालिका, डोल्पा"
+    },
+    "Thuli Bheri": {
+      "nepali": "ठुली भेरी नगरपालिका",
+      "district": "डोल्पा",
+      "districtEn": "Dolpa",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "ठुली भेरी नगरपालिका, डोल्पा"
+    },
+    "Adanchuli": {
+      "nepali": "अदानचुली गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "अदानचुली गाउँपालिका, हुम्ला"
+    },
+    "Chankheli": {
+      "nepali": "चंखेली गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चंखेली गाउँपालिका, हुम्ला"
+    },
+    "Kharpunath": {
+      "nepali": "खार्पुनाथ गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "खार्पुनाथ गाउँपालिका, हुम्ला"
+    },
+    "Namkha": {
+      "nepali": "नाम्खा गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "नाम्खा गाउँपालिका, हुम्ला"
+    },
+    "Sarkegad": {
+      "nepali": "सर्केगाड गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सर्केगाड गाउँपालिका, हुम्ला"
+    },
+    "Simkot": {
+      "nepali": "सिमकोट गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सिमकोट गाउँपालिका, हुम्ला"
+    },
+    "Tanjakot": {
+      "nepali": "ताँजाकोट गाउँपालिका",
+      "district": "हुम्ला",
+      "districtEn": "Humla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "ताँजाकोट गाउँपालिका, हुम्ला"
+    },
+    "Barekot": {
+      "nepali": "बारेकोट गाउँपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बारेकोट गाउँपालिका, जाजरकोट"
+    },
+    "Bheri": {
+      "nepali": "भेरी नगरपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "भेरी नगरपालिका, जाजरकोट"
+    },
+    "Chhedagad": {
+      "nepali": "छेडागाड नगरपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "छेडागाड नगरपालिका, जाजरकोट"
+    },
+    "Junichande": {
+      "nepali": "जुनीचाँदे गाउँपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "जुनीचाँदे गाउँपालिका, जाजरकोट"
+    },
+    "Kuse": {
+      "nepali": "कुसे गाउँपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "कुसे गाउँपालिका, जाजरकोट"
+    },
+    "Shiwalaya": {
+      "nepali": "शिवालय गाउँपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "शिवालय गाउँपालिका, जाजरकोट"
+    },
+    "Nalagad": {
+      "nepali": "नलगाड नगरपालिका",
+      "district": "जाजरकोट",
+      "districtEn": "Jajarkot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "नलगाड नगरपालिका, जाजरकोट"
+    },
+    "Chandannath": {
+      "nepali": "चन्दननाथ नगरपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चन्दननाथ नगरपालिका, जुम्ला"
+    },
+    "Guthichaur": {
+      "nepali": "गुठिचौर गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "गुठिचौर गाउँपालिका, जुम्ला"
+    },
+    "Hima": {
+      "nepali": "हिमा गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "हिमा गाउँपालिका, जुम्ला"
+    },
+    "Kanakasundari": {
+      "nepali": "कनकासुन्दरी गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "कनकासुन्दरी गाउँपालिका, जुम्ला"
+    },
+    "Patrasi": {
+      "nepali": "पातारासी गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "पातारासी गाउँपालिका, जुम्ला"
+    },
+    "Sinja": {
+      "nepali": "सिंजा गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सिंजा गाउँपालिका, जुम्ला"
+    },
+    "Tatopani": {
+      "nepali": "तातोपानी गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "तातोपानी गाउँपालिका, जुम्ला"
+    },
+    "Tila": {
+      "nepali": "तिला गाउँपालिका",
+      "district": "जुम्ला",
+      "districtEn": "Jumla",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "तिला गाउँपालिका, जुम्ला"
+    },
+    "Khandachakra": {
+      "nepali": "खाँडाचक्र नगरपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "खाँडाचक्र नगरपालिका, कालिकोट"
+    },
+    "Mahawai": {
+      "nepali": "महावै गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "महावै गाउँपालिका, कालिकोट"
+    },
+    "Naraharinath": {
+      "nepali": "नरहरिनाथ गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "नरहरिनाथ गाउँपालिका, कालिकोट"
+    },
+    "Pachaljharana": {
+      "nepali": "पचालझरना गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "पचालझरना गाउँपालिका, कालिकोट"
+    },
+    "Palata": {
+      "nepali": "पलाता गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "पलाता गाउँपालिका, कालिकोट"
+    },
+    "Raskot": {
+      "nepali": "रास्कोट नगरपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "रास्कोट नगरपालिका, कालिकोट"
+    },
+    "Sanni Tribeni": {
+      "nepali": "सान्नी त्रिवेणी गाउँपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सान्नी त्रिवेणी गाउँपालिका, कालिकोट"
+    },
+    "Tilagufa": {
+      "nepali": "तिलागुफा नगरपालिका",
+      "district": "कालिकोट",
+      "districtEn": "Kalikot",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "तिलागुफा नगरपालिका, कालिकोट"
+    },
+    "Chhayanath Rara": {
+      "nepali": "छायाँनाथ रारा नगरपालिका",
+      "district": "मुगु",
+      "districtEn": "Mugu",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "छायाँनाथ रारा नगरपालिका, मुगु"
+    },
+    "Khatyad": {
+      "nepali": "खत्याड गाउँपालिका",
+      "district": "मुगु",
+      "districtEn": "Mugu",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "खत्याड गाउँपालिका, मुगु"
+    },
+    "Mugu mkarmarong": {
+      "nepali": "मुगूम कार्मारोङ गाउँपालिका",
+      "district": "मुगु",
+      "districtEn": "Mugu",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "मुगूम कार्मारोङ गाउँपालिका, मुगु"
+    },
+    "Soru": {
+      "nepali": "सोरु गाउँपालिका",
+      "district": "मुगु",
+      "districtEn": "Mugu",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सोरु गाउँपालिका, मुगु"
+    },
+    "Aathbiskot": {
+      "nepali": "आठबिसकोट नगरपालिका",
+      "district": "रुकुम पश्चिम",
+      "districtEn": "Rukum West",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "आठबिसकोट नगरपालिका, रुकुम पश्चिम"
+    },
+    "Banfikot": {
+      "nepali": "बाँफिकोट गाउँपालिका",
+      "district": "रुकुम पश्चिम",
+      "districtEn": "Rukum West",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बाँफिकोट गाउँपालिका, रुकुम पश्चिम"
+    },
+    "Chaurjahari": {
+      "nepali": "चौरजहारी नगरपालिका",
+      "district": "रुकुम पश्चिम",
+      "districtEn": "Rukum West",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चौरजहारी नगरपालिका, रुकुम पश्चिम"
+    },
+    "Sani Bheri": {
+      "nepali": "सानीभेरी गाउँपालिका",
+      "district": "रुकुम पश्चिम",
+      "districtEn": "Rukum West",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सानीभेरी गाउँपालिका, रुकुम पश्चिम"
+    },
+    "Bagchaur": {
+      "nepali": "बागचौर नगरपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बागचौर नगरपालिका, सल्यान"
+    },
+    "Bangad Kupinde": {
+      "nepali": "बनगाड कुपिण्डे नगरपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बनगाड कुपिण्डे नगरपालिका, सल्यान"
+    },
+    "Chhatreshwori": {
+      "nepali": "छत्रेश्वरी गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "छत्रेश्वरी गाउँपालिका, सल्यान"
+    },
+    "Darma": {
+      "nepali": "दार्मा गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "दार्मा गाउँपालिका, सल्यान"
+    },
+    "Siddha Kumakha": {
+      "nepali": "सिद्ध कुमाख गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सिद्ध कुमाख गाउँपालिका, सल्यान"
+    },
+    "Kalimati": {
+      "nepali": "कालिमाटी गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "कालिमाटी गाउँपालिका, सल्यान"
+    },
+    "Kapurkot": {
+      "nepali": "कपुरकोट गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "कपुरकोट गाउँपालिका, सल्यान"
+    },
+    "Kumakha": {
+      "nepali": "कुमाख गाउँपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "कुमाख गाउँपालिका, सल्यान"
+    },
+    "Sharada": {
+      "nepali": "शारदा नगरपालिका",
+      "district": "सल्यान",
+      "districtEn": "Salyan",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "शारदा नगरपालिका, सल्यान"
+    },
+    "Barahtal": {
+      "nepali": "बराहताल गाउँपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बराहताल गाउँपालिका, सुर्खेत"
+    },
+    "Bheriganga": {
+      "nepali": "भेरीगंगा नगरपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "भेरीगंगा नगरपालिका, सुर्खेत"
+    },
+    "Birendranagar": {
+      "nepali": "बीरेन्द्रनगर नगरपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "बीरेन्द्रनगर नगरपालिका, सुर्खेत"
+    },
+    "Chaukune": {
+      "nepali": "चौकुने गाउँपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चौकुने गाउँपालिका, सुर्खेत"
+    },
+    "Chingad": {
+      "nepali": "चिङ्गाड गाउँपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "चिङ्गाड गाउँपालिका, सुर्खेत"
+    },
+    "Gurbhakot": {
+      "nepali": "गुर्भाकोट नगरपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "गुर्भाकोट नगरपालिका, सुर्खेत"
+    },
+    "Lekbeshi": {
+      "nepali": "लेकबेशी नगरपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "लेकबेशी नगरपालिका, सुर्खेत"
+    },
+    "Panchpuri": {
+      "nepali": "पञ्चपुरी नगरपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "पञ्चपुरी नगरपालिका, सुर्खेत"
+    },
+    "Simta": {
+      "nepali": "सिम्ता गाउँपालिका",
+      "district": "सुर्खेत",
+      "districtEn": "Surkhet",
+      "province": "कर्णाली",
+      "provinceEn": "Karnali Pradesh",
+      "compositeKey": "सिम्ता गाउँपालिका, सुर्खेत"
+    },
+    "Bannigadhi Jayagadh": {
+      "nepali": "बान्नीगढी जयगढ गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बान्नीगढी जयगढ गाउँपालिका, अछाम"
+    },
+    "Chaurpati": {
+      "nepali": "चौरपाटी गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "चौरपाटी गाउँपालिका, अछाम"
+    },
+    "Dhakari": {
+      "nepali": "ढकारी गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "ढकारी गाउँपालिका, अछाम"
+    },
+    "Kamalbazar": {
+      "nepali": "कमलबजार नगरपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "कमलबजार नगरपालिका, अछाम"
+    },
+    "Mangalsen": {
+      "nepali": "मंगलसेन नगरपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मंगलसेन नगरपालिका, अछाम"
+    },
+    "Mellekh": {
+      "nepali": "मेल्लेख गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मेल्लेख गाउँपालिका, अछाम"
+    },
+    "Panchadewal Binayak": {
+      "nepali": "पञ्चदेवल विनायक नगरपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पञ्चदेवल विनायक नगरपालिका, अछाम"
+    },
+    "Ramaroshan": {
+      "nepali": "रामारोशन गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "रामारोशन गाउँपालिका, अछाम"
+    },
+    "Sanphebagar": {
+      "nepali": "साँफेवगर नगरपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "साँफेवगर नगरपालिका, अछाम"
+    },
+    "Turmakhad": {
+      "nepali": "तुर्माखाँद गाउँपालिका",
+      "district": "अछाम",
+      "districtEn": "Achham",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "तुर्माखाँद गाउँपालिका, अछाम"
+    },
+    "Dasharathchanda": {
+      "nepali": "दशरथचन्द नगरपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दशरथचन्द नगरपालिका, बैतडी"
+    },
+    "Dilasaini": {
+      "nepali": "डीलासैनी गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "डीलासैनी गाउँपालिका, बैतडी"
+    },
+    "Dogadakedar": {
+      "nepali": "दोगडाकेदार गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दोगडाकेदार गाउँपालिका, बैतडी"
+    },
+    "Melauli": {
+      "nepali": "मेलौली नगरपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मेलौली नगरपालिका, बैतडी"
+    },
+    "Pancheshwar": {
+      "nepali": "पञ्चेश्वर गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पञ्चेश्वर गाउँपालिका, बैतडी"
+    },
+    "Patan": {
+      "nepali": "पाटन नगरपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पाटन नगरपालिका, बैतडी"
+    },
+    "Purchaudi": {
+      "nepali": "पुर्चौडी नगरपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पुर्चौडी नगरपालिका, बैतडी"
+    },
+    "Shivanath": {
+      "nepali": "शिवनाथ गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "शिवनाथ गाउँपालिका, बैतडी"
+    },
+    "Sigas": {
+      "nepali": "सिगास गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "सिगास गाउँपालिका, बैतडी"
+    },
+    "Surnaya": {
+      "nepali": "सुर्नया गाउँपालिका",
+      "district": "बैतडी",
+      "districtEn": "Baitadi",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "सुर्नया गाउँपालिका, बैतडी"
+    },
+    "Bithadchir": {
+      "nepali": "वित्थडचिर गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "वित्थडचिर गाउँपालिका, बझाङ"
+    },
+    "Bungal": {
+      "nepali": "बुंगल नगरपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बुंगल नगरपालिका, बझाङ"
+    },
+    "Chabispathivera": {
+      "nepali": "छबिसपाथिभेरा गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "छबिसपाथिभेरा गाउँपालिका, बझाङ"
+    },
+    "Durgathali": {
+      "nepali": "दुर्गाथली गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दुर्गाथली गाउँपालिका, बझाङ"
+    },
+    "JayaPrithivi": {
+      "nepali": "जयपृथ्वी नगरपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "जयपृथ्वी नगरपालिका, बझाङ"
+    },
+    "Saa Paal": {
+      "nepali": "साइपाल गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "साइपाल गाउँपालिका, बझाङ"
+    },
+    "Kedarseu": {
+      "nepali": "केदारस्युँ गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "केदारस्युँ गाउँपालिका, बझाङ"
+    },
+    "Khaptadchhanna": {
+      "nepali": "खप्तडछान्ना गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "खप्तडछान्ना गाउँपालिका, बझाङ"
+    },
+    "Masta": {
+      "nepali": "मष्टा गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मष्टा गाउँपालिका, बझाङ"
+    },
+    "Surma": {
+      "nepali": "सूर्मा गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "सूर्मा गाउँपालिका, बझाङ"
+    },
+    "Talkot": {
+      "nepali": "तलकोट गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "तलकोट गाउँपालिका, बझाङ"
+    },
+    "Thalara": {
+      "nepali": "थलारा गाउँपालिका",
+      "district": "बझाङ",
+      "districtEn": "Bajhang",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "थलारा गाउँपालिका, बझाङ"
+    },
+    "Badimalika": {
+      "nepali": "बडीमालिका नगरपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बडीमालिका नगरपालिका, बाजुरा"
+    },
+    "Budhinanda": {
+      "nepali": "बुढीनन्दा नगरपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बुढीनन्दा नगरपालिका, बाजुरा"
+    },
+    "Chhededaha": {
+      "nepali": "खप्तड छेडेदह गाउँपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "खप्तड छेडेदह गाउँपालिका, बाजुरा"
+    },
+    "Gaumul": {
+      "nepali": "गौमुल गाउँपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "गौमुल गाउँपालिका, बाजुरा"
+    },
+    "Himali": {
+      "nepali": "हिमाली गाउँपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "हिमाली गाउँपालिका, बाजुरा"
+    },
+    "Jagannath": {
+      "nepali": "जगन्नाथ गाउँपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "जगन्नाथ गाउँपालिका, बाजुरा"
+    },
+    "Swami Kartik": {
+      "nepali": "स्वामीकार्तिक खापर गाउँपालिका",
+      "district": "बाजुरा",
+      "districtEn": "Bajura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "स्वामीकार्तिक खापर गाउँपालिका, बाजुरा"
+    },
+    "Ajaymeru": {
+      "nepali": "अजयमेरु गाउँपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "अजयमेरु गाउँपालिका, डडेलधुरा"
+    },
+    "Alital": {
+      "nepali": "आलिताल गाउँपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "आलिताल गाउँपालिका, डडेलधुरा"
+    },
+    "Amargadhi": {
+      "nepali": "अमरगढी नगरपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "अमरगढी नगरपालिका, डडेलधुरा"
+    },
+    "Bhageshwar": {
+      "nepali": "भागेश्वर गाउँपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "भागेश्वर गाउँपालिका, डडेलधुरा"
+    },
+    "Ganayapdhura": {
+      "nepali": "गन्यापधुरा गाउँपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "गन्यापधुरा गाउँपालिका, डडेलधुरा"
+    },
+    "Nawadurga": {
+      "nepali": "नवदुर्गा गाउँपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "नवदुर्गा गाउँपालिका, डडेलधुरा"
+    },
+    "Parashuram": {
+      "nepali": "परशुराम नगरपालिका",
+      "district": "डडेलधुरा",
+      "districtEn": "Dadeldhura",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "परशुराम नगरपालिका, डडेलधुरा"
+    },
+    "Apihimal": {
+      "nepali": "अपिहिमाल गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "अपिहिमाल गाउँपालिका, दार्चुला"
+    },
+    "Dunhu": {
+      "nepali": "दुहुँ गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दुहुँ गाउँपालिका, दार्चुला"
+    },
+    "Lekam": {
+      "nepali": "लेकम गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "लेकम गाउँपालिका, दार्चुला"
+    },
+    "Mahakali": {
+      "nepali": "दोधारा चाँदनी नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दोधारा चाँदनी नगरपालिका, कञ्चनपुर"
+    },
+    "Malikaarjun": {
+      "nepali": "मालिकार्जुन गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मालिकार्जुन गाउँपालिका, दार्चुला"
+    },
+    "Marma": {
+      "nepali": "मार्मा गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मार्मा गाउँपालिका, दार्चुला"
+    },
+    "Naugad": {
+      "nepali": "नौगाड गाउँपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "नौगाड गाउँपालिका, दार्चुला"
+    },
+    "Shailyashikhar": {
+      "nepali": "शैल्यशिखर नगरपालिका",
+      "district": "दार्चुला",
+      "districtEn": "Darchula",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "शैल्यशिखर नगरपालिका, दार्चुला"
+    },
+    "Adharsha": {
+      "nepali": "आदर्श गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "आदर्श गाउँपालिका, डोटी"
+    },
+    "Badikedar": {
+      "nepali": "बडीकेदार गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बडीकेदार गाउँपालिका, डोटी"
+    },
+    "Bogtan": {
+      "nepali": "बोगटान फुड्सिल गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बोगटान फुड्सिल गाउँपालिका, डोटी"
+    },
+    "Dipayal Silgadi": {
+      "nepali": "दिपायल सिलगढी नगरपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "दिपायल सिलगढी नगरपालिका, डोटी"
+    },
+    "Jorayal": {
+      "nepali": "जोरायल गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "जोरायल गाउँपालिका, डोटी"
+    },
+    "K I Sin": {
+      "nepali": "के.आई.सिंह गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "के.आई.सिंह गाउँपालिका, डोटी"
+    },
+    "Purbichauki": {
+      "nepali": "पूर्वीचौकी गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पूर्वीचौकी गाउँपालिका, डोटी"
+    },
+    "Sayal": {
+      "nepali": "सायल गाउँपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "सायल गाउँपालिका, डोटी"
+    },
+    "Shikhar": {
+      "nepali": "शिखर नगरपालिका",
+      "district": "डोटी",
+      "districtEn": "Doti",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "शिखर नगरपालिका, डोटी"
+    },
+    "Bardagoriya": {
+      "nepali": "बर्दगोरिया गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बर्दगोरिया गाउँपालिका, कैलाली"
+    },
+    "Bhajani": {
+      "nepali": "भजनी नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "भजनी नगरपालिका, कैलाली"
+    },
+    "Chure": {
+      "nepali": "चुरे गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "चुरे गाउँपालिका, कैलाली"
+    },
+    "Dhangadhi": {
+      "nepali": "धनगढी उपमहानगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "धनगढी उपमहानगरपालिका, कैलाली"
+    },
+    "Gauriganga": {
+      "nepali": "गौरीगंगा नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "गौरीगंगा नगरपालिका, कैलाली"
+    },
+    "Ghodaghodi": {
+      "nepali": "घोडाघोडी नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "घोडाघोडी नगरपालिका, कैलाली"
+    },
+    "Janaki": {
+      "nepali": "जानकी गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "जानकी गाउँपालिका, कैलाली"
+    },
+    "Joshipur": {
+      "nepali": "जोशीपुर गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "जोशीपुर गाउँपालिका, कैलाली"
+    },
+    "Kailari": {
+      "nepali": "कैलारी गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "कैलारी गाउँपालिका, कैलाली"
+    },
+    "Lamkichuha": {
+      "nepali": "लम्कीचुहा नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "लम्कीचुहा नगरपालिका, कैलाली"
+    },
+    "Mohanyal": {
+      "nepali": "मोहन्याल गाउँपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "मोहन्याल गाउँपालिका, कैलाली"
+    },
+    "Tikapur": {
+      "nepali": "टिकापुर नगरपालिका",
+      "district": "कैलाली",
+      "districtEn": "Kailali",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "टिकापुर नगरपालिका, कैलाली"
+    },
+    "Bedkot": {
+      "nepali": "बेदकोट नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बेदकोट नगरपालिका, कञ्चनपुर"
+    },
+    "Belauri": {
+      "nepali": "बेलौरी नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बेलौरी नगरपालिका, कञ्चनपुर"
+    },
+    "Beldandi": {
+      "nepali": "बेलडाँडी गाउँपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "बेलडाँडी गाउँपालिका, कञ्चनपुर"
+    },
+    "Bhimdatta": {
+      "nepali": "भीमदत्त नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "भीमदत्त नगरपालिका, कञ्चनपुर"
+    },
+    "Krishnapur": {
+      "nepali": "कृष्णपुर नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "कृष्णपुर नगरपालिका, कञ्चनपुर"
+    },
+    "Laljhadi": {
+      "nepali": "लालझाडी गाउँपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "लालझाडी गाउँपालिका, कञ्चनपुर"
+    },
+    "Punarbas": {
+      "nepali": "पुनर्वास नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "पुनर्वास नगरपालिका, कञ्चनपुर"
+    },
+    "Shuklaphanta": {
+      "nepali": "शुक्लाफाँटा नगरपालिका",
+      "district": "कञ्चनपुर",
+      "districtEn": "Kanchanpur",
+      "province": "सुदूरपश्चिम",
+      "provinceEn": "Sudurpashchim Pradesh",
+      "compositeKey": "शुक्लाफाँटा नगरपालिका, कञ्चनपुर"
+    }
+  },
+  "districts": {
+    "Taplejung": "ताप्लेजुङ",
+    "Panchthar": "पाँचथर",
+    "Ilam": "इलाम",
+    "Jhapa": "झापा",
+    "Sankhuwasabha": "संखुवासभा",
+    "Terhathum": "तेह्रथुम",
+    "Bhojpur": "भोजपुर",
+    "Dhankuta": "धनकुटा",
+    "Morang": "मोरङ",
+    "Sunsari": "सुनसरी",
+    "Solukhumbu": "सोलुखुम्बु",
+    "Khotang": "खोटाङ",
+    "Okhaldhunga": "ओखलढुंगा",
+    "Udayapur": "उदयपुर",
+    "Saptari": "सप्तरी",
+    "Siraha": "सिराहा",
+    "Dhanusha": "धनुषा",
+    "Mahottari": "महोत्तरी",
+    "Sarlahi": "सर्लाही",
+    "Rautahat": "रौतहट",
+    "Bara": "बारा",
+    "Parsa": "पर्सा",
+    "Bhaktapur": "भक्तपुर",
+    "Chitawan": "चितवन",
+    "Dhading": "धादिङ",
+    "Dolakha": "दोलखा",
+    "Kabhrepalanchok": "काभ्रेपलाञ्चोक",
+    "Kathmandu": "काठमाडौ‌",
+    "Lalitpur": "ललितपुर",
+    "Makawanpur": "मकवानपुर",
+    "Nuwakot": "नुवाकोट",
+    "Ramechhap": "रामेछाप",
+    "Rasuwa": "रसुवा",
+    "Sindhuli": "सिन्धुली",
+    "Sindhupalchok": "सिन्धुपाल्चोक",
+    "Gorkha": "गोरखा",
+    "Manang": "मनाङ",
+    "Lamjung": "लमजुङ",
+    "Kaski": "कास्की",
+    "Tanahu": "तनहुँ",
+    "Syangja": "स्याङजा",
+    "Nawalpur": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+    "Mustang": "मुस्ताङ",
+    "Myagdi": "म्याग्दी",
+    "Baglung": "बाग्लुङ",
+    "Parbat": "पर्वत",
+    "Gulmi": "गुल्मी",
+    "Palpa": "पाल्पा",
+    "Arghakhanchi": "अर्घाखाँची",
+    "Rupandehi": "रूपन्देही",
+    "Kapilbastu": "कपिलवस्तु",
+    "Rukum East": "रुकुम पूर्व",
+    "Rolpa": "रोल्पा",
+    "Pyuthan": "प्युठान",
+    "Dang": "दाङ",
+    "Banke": "बाँके",
+    "Bardiya": "बर्दिया",
+    "Parasi": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+    "Dailekh": "दैलेख",
+    "Dolpa": "डोल्पा",
+    "Humla": "हुम्ला",
+    "Jajarkot": "जाजरकोट",
+    "Jumla": "जुम्ला",
+    "Kalikot": "कालिकोट",
+    "Mugu": "मुगु",
+    "Rukum West": "रुकुम पश्चिम",
+    "Salyan": "सल्यान",
+    "Surkhet": "सुर्खेत",
+    "Achham": "अछाम",
+    "Baitadi": "बैतडी",
+    "Bajhang": "बझाङ",
+    "Bajura": "बाजुरा",
+    "Dadeldhura": "डडेलधुरा",
+    "Darchula": "दार्चुला",
+    "Doti": "डोटी",
+    "Kailali": "कैलाली",
+    "Kanchanpur": "कञ्चनपुर"
+  },
+  "provinces": {
+    "Province No 1": "कोशी",
+    "Province No 2": "मधेश",
+    "Bagmati Pradesh": "बागमती",
+    "Gandaki Pradesh": "गण्डकी",
+    "Lumbini Pradesh": "लुम्बिनी",
+    "Karnali Pradesh": "कर्णाली",
+    "Sudurpashchim Pradesh": "सुदूरपश्चिम"
+  }
+}
