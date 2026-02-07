@@ -27,7 +27,7 @@
 **[Webcam prominent + Blank screen or title slide]**
 
 #### Script:
-"Hello! My name is [YOUR NAME], roll number [YOUR ROLL], from [COURSE NAME]. Today I'll demonstrate my Data Science for Developers project: a comprehensive property investment analysis comparing Cheshire and Cumberland counties in England.
+"Hello! My name is Anand Sharma, Today I'll demonstrate my Data Science for Developers project: a comprehensive property investment analysis comparing Cheshire and Cumberland counties in England.
 
 This project addresses a real-world problem: helping investors make evidence-based property decisions using data science instead of guesswork. I'll show you how I collected 606 megabytes of public sector data, cleaned it, stored it in a normalized database, performed statistical analysis, and built a recommendation system that ranks 49 towns.
 
